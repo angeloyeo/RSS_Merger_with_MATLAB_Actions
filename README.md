@@ -2,7 +2,6 @@
 Merges multiple RSSs using MATLAB Actions
 
 # List of RSS feeds
-
 ## MATLAB Blogs in Korea
 * https://matlabtutorial.github.io/feed
 * https://lazymatlab.tistory.com/feed
