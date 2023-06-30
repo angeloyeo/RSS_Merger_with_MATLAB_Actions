@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns_atom="http://www.w3.org/2005/Atom" version="2">
+    <channel>
+        <title>【번역】【MATLAB】Path 설정에 관한 &quot;기초&quot; 지식</title>
+        <description>본 포스트의 원문은 아래의 URL에서 확인하실 수 있습니다. 본 포스트는 원작자에게 동의를 구한 뒤 한국어로 번역하였습니다.
+
+【MATLAB】パス設定に関する”基礎”知識
+
+시작하면서...</description>
+        <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
+        <link>https://matlabtutorial.github.io/basic_knowledge_on_path.html</link>
+    </channel>
+    <channel>
+        <title>【번역】【MATLAB】템플릿을 이용해서 파워포인트 슬라이드를 자동으로 만드는 방법 - Report Generator 편</title>
+        <description>본 포스트의 원문은 아래의 URL에서 확인하실 수 있습니다. 본 포스트는 원작자에게 동의를 구한 뒤 한국어로 번역하였습니다.
+
+【MATLAB】テンプレート使って PowerPoint ...</description>
+        <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
+        <link>https://matlabtutorial.github.io/auto_ppt_slide_with_template.html</link>
+    </channel>
+    <channel>
+        <title>【번역】【MATLAB】파워포인트 슬라이드를 자동으로 만드는 방법</title>
+        <description>본 포스트의 원문은 아래의 URL에서 확인하실 수 있습니다. 본 포스트는 원작자에게 동의를 구한 뒤 한국어로 번역하였습니다.
+
+【MATLAB】PowerPoint スライド作成自動化
+...</description>
+        <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
+        <link>https://matlabtutorial.github.io/auto_ppt_slide.html</link>
+    </channel>
+    <channel>
+        <title>【번역】【MATLAB】행렬 안의 특정 원소가 몇 개인지 세는 방법</title>
+        <description>본 포스트의 원문은 아래의 URL에서 확인하실 수 있습니다. 본 포스트는 원작자에게 동의를 구한 뒤 한국어로 번역하였습니다.
+
+【MATLAB】配列内のユニークな要素、それぞれの数を数え...</description>
+        <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
+        <link>https://matlabtutorial.github.io/count_unique_element_in_matrix.html</link>
+    </channel>
+    <channel>
+        <title>입자 추적 코드</title>
+        <description>목표
+
+한 지점의 시간에 따른 유속 (u,v)에 따라 입자 이동 양상 구현
+
+코드
+
+%% input control 
+
+% input 
+
+dot = 2; 
+
+dt = .5; 
+
+re...</description>
+        <pubDate>Mon, 26 Jun 2023 15:45:36 +0000</pubDate>
+        <link>https://hummingstereo.tistory.com/70</link>
+    </channel>
+    <channel>
+        <title>【번역】【MATLAB】무슨 일이 일어나고 있는지 모르지만 치명적인 오류를 해결하는 방법</title>
+        <description>본 포스트의 원문은 아래의 URL에서 확인하실 수 있습니다. 본 포스트는 원작자에게 동의를 구한 뒤 한국어로 번역하였습니다.
+
+【MATLAB】何が起こっているか分からないが致命的っぽい...</description>
+        <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
+        <link>https://matlabtutorial.github.io/abnormal_operation_of_MATLAB.html</link>
+    </channel>
+    <channel>
+        <title>[ matlab ] 데이터 읽기 방법 (textscan / importdata)</title>
+        <description>목표
+
+2가지 방법을 통해 txt 데이터 읽기
+
+데이터 소개
+
+KOHA 강화대교 조위관측소
+
+방법_1 : textscan
+
+route = fullfile('01_data/강화대교_...</description>
+        <pubDate>Mon, 05 Jun 2023 14:54:50 +0000</pubDate>
+        <link>https://hummingstereo.tistory.com/69</link>
+    </channel>
+    <channel>
+        <title>[ matlab ] colorbar</title>
+        <description>colorbar 관련 설정 정리
+
+Code
+
+그래프 생성
+
+figure() 
+
+scatter(1:10,1:10,100,1:10,'filled') 
+
+colorbar
+
+% direc...</description>
+        <pubDate>Fri, 02 Jun 2023 17:20:31 +0000</pubDate>
+        <link>https://hummingstereo.tistory.com/68</link>
+    </channel>
+    <channel>
+        <title>1, 2, 3 대신 01, 02, 03으로 숫자 쓰는 법</title>
+        <description>넘버링을 하다보면 가끔 1, 2, 3 대신 01, 02, 03 등과 같이 앞에 0을 채워야 할 때가 있다. 가령, 피험자를 정렬할 때 Subject1, Subject 2, … 와 ...</description>
+        <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
+        <link>https://matlabtutorial.github.io/numbering_01.html</link>
+    </channel>
+    <channel>
+        <title>데이터 브러싱과 데이터 링킹</title>
+        <description>Data Brushing
+
+브러싱(brushing)은 MATLAB의 그래픽스 기능 중 아주 유용한 기능이지만 소외 받고 있는 기능이라는 생각이 들어 여기서 짧게나마 공유해보고자 한...</description>
+        <pubDate>Sun, 21 May 2023 00:00:00 +0000</pubDate>
+        <link>https://matlabtutorial.github.io/data_brushing_and_data_linking.html</link>
+    </channel>
+    <channel>
+        <title>legend의 마커사이즈 키우기</title>
+        <description>MATLAB에서 그린 그림에서 가끔 legend 안의 마커 크기만 키우고 싶을 때가 있다. 이럴 땐 “findobj” 함수를 사용해서 legend 내부 아이콘의 크기만 키워보자.
+...</description>
+        <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
+        <link>https://matlabtutorial.github.io/enlarge_markers_in_legend.html</link>
+    </channel>
+    <channel>
+        <title>[ m_map ] m_map 사용법_2 (지도 생성)</title>
+        <description>이전에 m_map의 간단한 메뉴얼을 소개 했습니다.
+
+https://hummingstereo.tistory.com/63
+
+[ matlab ] m_map 사용법
+
+1.https://...</description>
+        <pubDate>Wed, 03 May 2023 19:36:06 +0000</pubDate>
+        <link>https://hummingstereo.tistory.com/67</link>
+    </channel>
+    <channel>
+        <title>[ matlab ] table ↔ matrix</title>
+        <description>매트랩에서 데이터를 '테이블' 형식과 '행렬' 형식 간 변환 방법 소개
+
+데이터 생성
+
+% make data 
+
+id = [1,2,3,4,5]'; 
+
+lon = [126.1,126...</description>
+        <pubDate>Wed, 03 May 2023 16:22:22 +0000</pubDate>
+        <link>https://hummingstereo.tistory.com/66</link>
+    </channel>
+    <channel>
+        <title>[ matlab ] subplot 활용</title>
+        <description>subplot은 한 figure 내에 여러개의 plot을 그릴 때 사용됩니다.
+
+형태 : subplot(가로,세로,위치)
+* 모든 위치 값은 양수
+
+행렬의 index와 같이 각 행...</description>
+        <pubDate>Fri, 21 Apr 2023 16:04:42 +0000</pubDate>
+        <link>https://hummingstereo.tistory.com/65</link>
+    </channel>
+    <channel>
+        <title>[ matlab ] 투명 배경 figure 생성</title>
+        <description>matlab 질문 중에 생성한 figure를 ppt에 첨부 시, 배경이 나오지 않도록 하는 방법에 대한 요청이 있었습니다.
+
+(해당 방법은 기존 figure, m_map figur...</description>
+        <pubDate>Thu, 20 Apr 2023 14:15:57 +0000</pubDate>
+        <link>https://hummingstereo.tistory.com/64</link>
+    </channel>
+    <channel>
+        <title>[ matlab ] m_map 사용법</title>
+        <description>1.https://www.eoas.ubc.ca/~rich/map.html 접속
+
+M_Map: A Mapping package for Matlab
+
+A mapping package ...</description>
+        <pubDate>Mon, 17 Apr 2023 15:29:02 +0000</pubDate>
+        <link>https://hummingstereo.tistory.com/63</link>
+    </channel>
+    <channel>
+        <title>국내 서해 utm 구역 경계</title>
+        <description>이전에 질문으로 UTM 좌표상 51S, 52S경계를 지나는 데이터 처리에 관한 질문이 있었습니다.
+
+매트랩 명령문 'utm2ll' 을 이용해서 편집할 수도 있지만 왠지모를 오기가 ...</description>
+        <pubDate>Thu, 13 Apr 2023 21:16:20 +0000</pubDate>
+        <link>https://hummingstereo.tistory.com/62</link>
+    </channel>
+    <channel>
+        <title>[ matlab ] for</title>
+        <description>1. 초반에 반복문을 배우면 다음과 같은 형식으로 연습할 것이다.
+
+Q. &quot;say hello!!&quot; 5번 반복하는 코드를 작성하라
+
+for ii = 1:5 
+
+disp(&quot;say he...</description>
+        <pubDate>Sun, 09 Apr 2023 02:39:58 +0000</pubDate>
+        <link>https://hummingstereo.tistory.com/61</link>
+    </channel>
+    <channel>
+        <title>파이썬 정규식</title>
+        <description>파이썬 정규식 by 게으른.pdf 
+
+0.82MB 
+
+후... 힘들었습니다.
+
+- 게으른...</description>
+        <pubDate>Fri, 31 Mar 2023 19:45:51 +0000</pubDate>
+        <link>https://lazymatlab.tistory.com/208</link>
+    </channel>
+    <channel>
+        <title>0.1+0.2-0.3은 왜 0이 아닐까?</title>
+        <description>...</description>
+        <pubDate>Sun, 26 Mar 2023 23:52:39 +0000</pubDate>
+        <link>https://lazymatlab.tistory.com/207</link>
+    </channel>
+    <channel>
+        <title>수학의 즐거움 멤버십 인터뷰 전문</title>
+        <description>수학의 즐거움에서 인터뷰를 진행했습니다. 시간 관계상 불가피하게 얘기하지 못한 부분들이 조금 있었습니다. 인터뷰를 위해 준비했던 대본(?) 전문을 올려봅니다.
+
+A. 본인에 대해 ...</description>
+        <pubDate>Sun, 19 Mar 2023 02:42:41 +0000</pubDate>
+        <link>https://lazymatlab.tistory.com/205</link>
+    </channel>
+    <channel>
+        <title>나는 수학을 왜 공부하는가</title>
+        <description>pixabay   
+
+0. 요즘 수학의 즐거움 채널에서 조금 찐하게 수학을 공부 중이다. 채널 활동 중에서도 받는 질문이자 개인적으로도 스스로에게 묻는 질문이다. 나는 수학을 왜 ...</description>
+        <pubDate>Sun, 19 Mar 2023 01:50:14 +0000</pubDate>
+        <link>https://lazymatlab.tistory.com/204</link>
+    </channel>
+    <channel>
+        <title>매트랩 숫자야구</title>
+        <description>ccc
+
+num = input('세자리 숫자 입력(0으로 시작해도 ㄱㅊ): ', 's');
+
+% 가능한 모든 세자리 숫자 목록
+list = gen_all_nums();
+
+inval...</description>
+        <pubDate>Tue, 07 Mar 2023 01:28:59 +0000</pubDate>
+        <link>https://lazymatlab.tistory.com/203</link>
+    </channel>
+    <channel>
+        <title>e의 정의</title>
+        <description>지수함수의 도함수
+
+일단 임의의 양의 실수 $a$에 대해 지수함수 $y=a^x$는 $x\in\mathbb{R}$에서 잘 정의된다고 치자. 또한 그래프가 어떻게 생겼는지도 알고, 몇...</description>
+        <pubDate>Sat, 04 Mar 2023 20:22:10 +0000</pubDate>
+        <link>https://lazymatlab.tistory.com/202</link>
+    </channel>
+    <channel>
+        <title>행렬식이 평행사변형의 면적이라고?</title>
+        <description>예전에 한번 올린 글입니다만, 이번에는 애니메이션을 매트랩으로 만들어보았습니다.
+
+아래는 매트랩 코드이며, 깃헙에도 올려두었습니다.
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7...</description>
+        <pubDate>Fri, 03 Mar 2023 17:34:01 +0000</pubDate>
+        <link>https://lazymatlab.tistory.com/201</link>
+    </channel>
+    <channel>
+        <title>매트랩 인덱스 행렬 만들기</title>
+        <description>깃헙 페이지
+
+매트랩에서 기본으로 제공하는 방법은 symbolic을 활용하는 것이다.
+
+&gt;&gt; A = sym('A', [2, 4])
+A =
+[A1_1, A1_2, A1_3, A1_4...</description>
+        <pubDate>Sun, 26 Feb 2023 02:42:41 +0000</pubDate>
+        <link>https://lazymatlab.tistory.com/200</link>
+    </channel>
+    <channel>
+        <title>파이썬 idle의 환경설정을 옮기기</title>
+        <description>쉽다.
+
+사용자 폴더로 간다.
+
+모르겠으면 실행창을 열고 %userprofile% 엔터.
+
+.idlerc로 들어가서 .cfg 파일들을 복사하여 타겟 PC의 같은 폴더에 옮긴다.
+
+...</description>
+        <pubDate>Fri, 24 Feb 2023 22:43:35 +0000</pubDate>
+        <link>https://lazymatlab.tistory.com/199</link>
+    </channel>
+    <channel>
+        <title>대학 공부의 어려움에 대하여</title>
+        <description>unsplash   
+
+대학 공부의 어려움에 대하여
+
+몇 년 전 대학생들의 기초학력이 부족하다는 문제가 대두된 적이 있다. 물론 지금도 계속되고 있는 문제일지도 모른다. 하지만 문...</description>
+        <pubDate>Fri, 24 Feb 2023 16:17:32 +0000</pubDate>
+        <link>https://lazymatlab.tistory.com/198</link>
+    </channel>
+    <channel>
+        <title>VBA에서 MATLAB 호출하기</title>
+        <description>MATLAB을 COM Server에 등록하기
+
+VBA에서 MATLAB과 통신하기 위해 사용하시는 MATLAB 을 COM Server에 등록해야 합니다. MATLAB이 COM 서버에...</description>
+        <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
+        <link>https://matlabtutorial.github.io/calling_MATLAB_in_VBA.html</link>
+    </channel>
+    <channel>
+        <title>MATLAB으로 email 보내기</title>
+        <description>MATLAB으로 메일을 보내는 게 특별히 필요할까 싶겠지만, 간혹 MATLAB으로 오랜 시간이 걸리는 연산을 수행할 때 유용할 수 있다. 어떤 경우 MATLAB 코드를 3-4일씩 ...</description>
+        <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+        <link>https://matlabtutorial.github.io/email_with_MATLAB.html</link>
+    </channel>
+</feed>
