@@ -9,7 +9,7 @@ name: Run MATLAB Script on GitHub-Hosted Runner
 # | |------- hour
 # |--------- minute
 # This job runs every 10 minutes
-on: */10 * * * *
+cron: */10 * * * *
 jobs:
   my-job:
     name: Create tag pages for blog postings
