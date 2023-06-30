@@ -1,54 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<feed xmlns_atom="http://www.w3.org/2005/Atom" version="2">
-    <channel>
-        <generator>NFE/5.0</generator>
-        <title>MATLAB_Blogs_in_Korea</title>
-        <link>https://raw.githubusercontent.com/angeloyeo/RSS_Merger_with_MATLAB_Actions/main/MATLAB_Blogs_in_Korea.xml</link>
-        <language>ko</language>
-        <webMaster>angeloyeo@gmail.com</webMaster>
-        <copyright>Angelo Yeo</copyright>
-        <lastBuildDate>Fri, 30 Jun 2023 11:57:48 +0000</lastBuildDate>
-        <description>MATLAB_Blogs_in_Korea</description>
-        <item>
-            <title>【번역】【MATLAB】Path 설정에 관한 &quot;기초&quot; 지식</title>
-            <link>https://matlabtutorial.github.io/basic_knowledge_on_path.html</link>
-            <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
-            <description>본 포스트의 원문은 아래의 URL에서 확인하실 수 있습니다. 본 포스트는 원작자에게 동의를 구한 뒤 한국어로 번역하였습니다.
+<feed xmlIns="http://www.w3.org/2005/Atom" xml_lang="en-US">
+    <title>MATLAB_Blogs_in_Korea</title>
+    <updated>Fri, 30 Jun 2023 13:31:57 +0000</updated>
+    <entry>
+        <id> </id>
+        <published>2023-06-30T00:00:00.000Z</published>
+        <updated>2023-06-30T00:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://matlabtutorial.github.io/basic_knowledge_on_path.html"/>
+        <title>【번역】【MATLAB】Path 설정에 관한 &quot;기초&quot; 지식</title>
+        <content>본 포스트의 원문은 아래의 URL에서 확인하실 수 있습니다. 본 포스트는 원작자에게 동의를 구한 뒤 한국어로 번역하였습니다.
 
 【MATLAB】パス設定に関する”基礎”知識
 
-시작하면서...</description>
-        </item>
-        <item>
-            <title>【번역】【MATLAB】템플릿을 이용해서 파워포인트 슬라이드를 자동으로 만드는 방법 - Report Generator 편</title>
-            <link>https://matlabtutorial.github.io/auto_ppt_slide_with_template.html</link>
-            <pubDate>2023-06-29</pubDate>
-            <description>본 포스트의 원문은 아래의 URL에서 확인하실 수 있습니다. 본 포스트는 원작자에게 동의를 구한 뒤 한국어로 번역하였습니다.
+시작하면서...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2023-06-29T00:00:00.000Z</published>
+        <updated>2023-06-29T00:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://matlabtutorial.github.io/auto_ppt_slide_with_template.html"/>
+        <title>【번역】【MATLAB】템플릿을 이용해서 파워포인트 슬라이드를 자동으로 만드는 방법 - Report Generator 편</title>
+        <content>본 포스트의 원문은 아래의 URL에서 확인하실 수 있습니다. 본 포스트는 원작자에게 동의를 구한 뒤 한국어로 번역하였습니다.
 
-【MATLAB】テンプレート使って PowerPoint ...</description>
-        </item>
-        <item>
-            <title>【번역】【MATLAB】파워포인트 슬라이드를 자동으로 만드는 방법</title>
-            <link>https://matlabtutorial.github.io/auto_ppt_slide.html</link>
-            <pubDate>2023-06-28</pubDate>
-            <description>본 포스트의 원문은 아래의 URL에서 확인하실 수 있습니다. 본 포스트는 원작자에게 동의를 구한 뒤 한국어로 번역하였습니다.
+【MATLAB】テンプレート使って PowerPoint ...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2023-06-28T00:00:00.000Z</published>
+        <updated>2023-06-28T00:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://matlabtutorial.github.io/auto_ppt_slide.html"/>
+        <title>【번역】【MATLAB】파워포인트 슬라이드를 자동으로 만드는 방법</title>
+        <content>본 포스트의 원문은 아래의 URL에서 확인하실 수 있습니다. 본 포스트는 원작자에게 동의를 구한 뒤 한국어로 번역하였습니다.
 
 【MATLAB】PowerPoint スライド作成自動化
-...</description>
-        </item>
-        <item>
-            <title>【번역】【MATLAB】행렬 안의 특정 원소가 몇 개인지 세는 방법</title>
-            <link>https://matlabtutorial.github.io/count_unique_element_in_matrix.html</link>
-            <pubDate>2023-06-27</pubDate>
-            <description>본 포스트의 원문은 아래의 URL에서 확인하실 수 있습니다. 본 포스트는 원작자에게 동의를 구한 뒤 한국어로 번역하였습니다.
+...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2023-06-27T00:00:00.000Z</published>
+        <updated>2023-06-27T00:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://matlabtutorial.github.io/count_unique_element_in_matrix.html"/>
+        <title>【번역】【MATLAB】행렬 안의 특정 원소가 몇 개인지 세는 방법</title>
+        <content>본 포스트의 원문은 아래의 URL에서 확인하실 수 있습니다. 본 포스트는 원작자에게 동의를 구한 뒤 한국어로 번역하였습니다.
 
-【MATLAB】配列内のユニークな要素、それぞれの数を数え...</description>
-        </item>
-        <item>
-            <title>입자 추적 코드</title>
-            <link>https://hummingstereo.tistory.com/70</link>
-            <pubDate>2023-06-26 15:45:36</pubDate>
-            <description>목표
+【MATLAB】配列内のユニークな要素、それぞれの数を数え...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2023-06-26T15:45:36.000Z</published>
+        <updated>2023-06-26T15:45:36.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://hummingstereo.tistory.com/70"/>
+        <title>입자 추적 코드</title>
+        <content>목표
 
 한 지점의 시간에 따른 유속 (u,v)에 따라 입자 이동 양상 구현
 
@@ -62,21 +89,37 @@ dot = 2;
 
 dt = .5; 
 
-re...</description>
-        </item>
-        <item>
-            <title>【번역】【MATLAB】무슨 일이 일어나고 있는지 모르지만 치명적인 오류를 해결하는 방법</title>
-            <link>https://matlabtutorial.github.io/abnormal_operation_of_MATLAB.html</link>
-            <pubDate>2023-06-26</pubDate>
-            <description>본 포스트의 원문은 아래의 URL에서 확인하실 수 있습니다. 본 포스트는 원작자에게 동의를 구한 뒤 한국어로 번역하였습니다.
+re...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2023-06-26T00:00:00.000Z</published>
+        <updated>2023-06-26T00:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://matlabtutorial.github.io/abnormal_operation_of_MATLAB.html"/>
+        <title>【번역】【MATLAB】무슨 일이 일어나고 있는지 모르지만 치명적인 오류를 해결하는 방법</title>
+        <content>본 포스트의 원문은 아래의 URL에서 확인하실 수 있습니다. 본 포스트는 원작자에게 동의를 구한 뒤 한국어로 번역하였습니다.
 
-【MATLAB】何が起こっているか分からないが致命的っぽい...</description>
-        </item>
-        <item>
-            <title>[ matlab ] 데이터 읽기 방법 (textscan / importdata)</title>
-            <link>https://hummingstereo.tistory.com/69</link>
-            <pubDate>2023-06-05 14:54:50</pubDate>
-            <description>목표
+【MATLAB】何が起こっているか分からないが致命的っぽい...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2023-06-05T14:54:50.000Z</published>
+        <updated>2023-06-05T14:54:50.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://hummingstereo.tistory.com/69"/>
+        <title>[ matlab ] 데이터 읽기 방법 (textscan / importdata)</title>
+        <content>목표
 
 2가지 방법을 통해 txt 데이터 읽기
 
@@ -86,13 +129,21 @@ KOHA 강화대교 조위관측소
 
 방법_1 : textscan
 
-route = fullfile('01_data/강화대교_...</description>
-        </item>
-        <item>
-            <title>[ matlab ] colorbar</title>
-            <link>https://hummingstereo.tistory.com/68</link>
-            <pubDate>2023-06-02 17:20:31</pubDate>
-            <description>colorbar 관련 설정 정리
+route = fullfile('01_data/강화대교_...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2023-06-02T17:20:31.000Z</published>
+        <updated>2023-06-02T17:20:31.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://hummingstereo.tistory.com/68"/>
+        <title>[ matlab ] colorbar</title>
+        <content>colorbar 관련 설정 정리
 
 Code
 
@@ -104,46 +155,86 @@ scatter(1:10,1:10,100,1:10,'filled')
 
 colorbar
 
-% direc...</description>
-        </item>
-        <item>
-            <title>1, 2, 3 대신 01, 02, 03으로 숫자 쓰는 법</title>
-            <link>https://matlabtutorial.github.io/numbering_01.html</link>
-            <pubDate>2023-05-22</pubDate>
-            <description>넘버링을 하다보면 가끔 1, 2, 3 대신 01, 02, 03 등과 같이 앞에 0을 채워야 할 때가 있다. 가령, 피험자를 정렬할 때 Subject1, Subject 2, … 와 ...</description>
-        </item>
-        <item>
-            <title>데이터 브러싱과 데이터 링킹</title>
-            <link>https://matlabtutorial.github.io/data_brushing_and_data_linking.html</link>
-            <pubDate>2023-05-21</pubDate>
-            <description>Data Brushing
+% direc...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2023-05-22T00:00:00.000Z</published>
+        <updated>2023-05-22T00:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://matlabtutorial.github.io/numbering_01.html"/>
+        <title>1, 2, 3 대신 01, 02, 03으로 숫자 쓰는 법</title>
+        <content>넘버링을 하다보면 가끔 1, 2, 3 대신 01, 02, 03 등과 같이 앞에 0을 채워야 할 때가 있다. 가령, 피험자를 정렬할 때 Subject1, Subject 2, … 와 ...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2023-05-21T00:00:00.000Z</published>
+        <updated>2023-05-21T00:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://matlabtutorial.github.io/data_brushing_and_data_linking.html"/>
+        <title>데이터 브러싱과 데이터 링킹</title>
+        <content>Data Brushing
 
-브러싱(brushing)은 MATLAB의 그래픽스 기능 중 아주 유용한 기능이지만 소외 받고 있는 기능이라는 생각이 들어 여기서 짧게나마 공유해보고자 한...</description>
-        </item>
-        <item>
-            <title>legend의 마커사이즈 키우기</title>
-            <link>https://matlabtutorial.github.io/enlarge_markers_in_legend.html</link>
-            <pubDate>2023-05-20</pubDate>
-            <description>MATLAB에서 그린 그림에서 가끔 legend 안의 마커 크기만 키우고 싶을 때가 있다. 이럴 땐 “findobj” 함수를 사용해서 legend 내부 아이콘의 크기만 키워보자.
-...</description>
-        </item>
-        <item>
-            <title>[ m_map ] m_map 사용법_2 (지도 생성)</title>
-            <link>https://hummingstereo.tistory.com/67</link>
-            <pubDate>2023-05-03 19:36:06</pubDate>
-            <description>이전에 m_map의 간단한 메뉴얼을 소개 했습니다.
+브러싱(brushing)은 MATLAB의 그래픽스 기능 중 아주 유용한 기능이지만 소외 받고 있는 기능이라는 생각이 들어 여기서 짧게나마 공유해보고자 한...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2023-05-20T00:00:00.000Z</published>
+        <updated>2023-05-20T00:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://matlabtutorial.github.io/enlarge_markers_in_legend.html"/>
+        <title>legend의 마커사이즈 키우기</title>
+        <content>MATLAB에서 그린 그림에서 가끔 legend 안의 마커 크기만 키우고 싶을 때가 있다. 이럴 땐 “findobj” 함수를 사용해서 legend 내부 아이콘의 크기만 키워보자.
+...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2023-05-03T19:36:06.000Z</published>
+        <updated>2023-05-03T19:36:06.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://hummingstereo.tistory.com/67"/>
+        <title>[ m_map ] m_map 사용법_2 (지도 생성)</title>
+        <content>이전에 m_map의 간단한 메뉴얼을 소개 했습니다.
 
 https://hummingstereo.tistory.com/63
 
 [ matlab ] m_map 사용법
 
-1.https://...</description>
-        </item>
-        <item>
-            <title>[ matlab ] table ↔ matrix</title>
-            <link>https://hummingstereo.tistory.com/66</link>
-            <pubDate>2023-05-03 16:22:22</pubDate>
-            <description>매트랩에서 데이터를 '테이블' 형식과 '행렬' 형식 간 변환 방법 소개
+1.https://...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2023-05-03T16:22:22.000Z</published>
+        <updated>2023-05-03T16:22:22.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://hummingstereo.tistory.com/66"/>
+        <title>[ matlab ] table ↔ matrix</title>
+        <content>매트랩에서 데이터를 '테이블' 형식과 '행렬' 형식 간 변환 방법 소개
 
 데이터 생성
 
@@ -151,117 +242,213 @@ https://hummingstereo.tistory.com/63
 
 id = [1,2,3,4,5]'; 
 
-lon = [126.1,126...</description>
-        </item>
-        <item>
-            <title>[ matlab ] subplot 활용</title>
-            <link>https://hummingstereo.tistory.com/65</link>
-            <pubDate>2023-04-21 16:04:42</pubDate>
-            <description>subplot은 한 figure 내에 여러개의 plot을 그릴 때 사용됩니다.
+lon = [126.1,126...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2023-04-21T16:04:42.000Z</published>
+        <updated>2023-04-21T16:04:42.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://hummingstereo.tistory.com/65"/>
+        <title>[ matlab ] subplot 활용</title>
+        <content>subplot은 한 figure 내에 여러개의 plot을 그릴 때 사용됩니다.
 
 형태 : subplot(가로,세로,위치)
 * 모든 위치 값은 양수
 
-행렬의 index와 같이 각 행...</description>
-        </item>
-        <item>
-            <title>[ matlab ] 투명 배경 figure 생성</title>
-            <link>https://hummingstereo.tistory.com/64</link>
-            <pubDate>2023-04-20 14:15:57</pubDate>
-            <description>matlab 질문 중에 생성한 figure를 ppt에 첨부 시, 배경이 나오지 않도록 하는 방법에 대한 요청이 있었습니다.
+행렬의 index와 같이 각 행...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2023-04-20T14:15:57.000Z</published>
+        <updated>2023-04-20T14:15:57.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://hummingstereo.tistory.com/64"/>
+        <title>[ matlab ] 투명 배경 figure 생성</title>
+        <content>matlab 질문 중에 생성한 figure를 ppt에 첨부 시, 배경이 나오지 않도록 하는 방법에 대한 요청이 있었습니다.
 
-(해당 방법은 기존 figure, m_map figur...</description>
-        </item>
-        <item>
-            <title>[ matlab ] m_map 사용법</title>
-            <link>https://hummingstereo.tistory.com/63</link>
-            <pubDate>2023-04-17 15:29:02</pubDate>
-            <description>1.https://www.eoas.ubc.ca/~rich/map.html 접속
+(해당 방법은 기존 figure, m_map figur...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2023-04-17T15:29:02.000Z</published>
+        <updated>2023-04-17T15:29:02.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://hummingstereo.tistory.com/63"/>
+        <title>[ matlab ] m_map 사용법</title>
+        <content>1.https://www.eoas.ubc.ca/~rich/map.html 접속
 
 M_Map: A Mapping package for Matlab
 
-A mapping package ...</description>
-        </item>
-        <item>
-            <title>국내 서해 utm 구역 경계</title>
-            <link>https://hummingstereo.tistory.com/62</link>
-            <pubDate>2023-04-13 21:16:20</pubDate>
-            <description>이전에 질문으로 UTM 좌표상 51S, 52S경계를 지나는 데이터 처리에 관한 질문이 있었습니다.
+A mapping package ...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2023-04-13T21:16:20.000Z</published>
+        <updated>2023-04-13T21:16:20.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://hummingstereo.tistory.com/62"/>
+        <title>국내 서해 utm 구역 경계</title>
+        <content>이전에 질문으로 UTM 좌표상 51S, 52S경계를 지나는 데이터 처리에 관한 질문이 있었습니다.
 
-매트랩 명령문 'utm2ll' 을 이용해서 편집할 수도 있지만 왠지모를 오기가 ...</description>
-        </item>
-        <item>
-            <title>[ matlab ] for</title>
-            <link>https://hummingstereo.tistory.com/61</link>
-            <pubDate>2023-04-09 02:39:58</pubDate>
-            <description>1. 초반에 반복문을 배우면 다음과 같은 형식으로 연습할 것이다.
+매트랩 명령문 'utm2ll' 을 이용해서 편집할 수도 있지만 왠지모를 오기가 ...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2023-04-09T02:39:58.000Z</published>
+        <updated>2023-04-09T02:39:58.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://hummingstereo.tistory.com/61"/>
+        <title>[ matlab ] for</title>
+        <content>1. 초반에 반복문을 배우면 다음과 같은 형식으로 연습할 것이다.
 
 Q. &quot;say hello!!&quot; 5번 반복하는 코드를 작성하라
 
 for ii = 1:5 
 
-disp(&quot;say he...</description>
-        </item>
-        <item>
-            <title>파이썬 정규식</title>
-            <link>https://lazymatlab.tistory.com/208</link>
-            <pubDate>2023-03-31 19:45:51</pubDate>
-            <description>파이썬 정규식 by 게으른.pdf 
+disp(&quot;say he...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2023-03-31T19:45:51.000Z</published>
+        <updated>2023-03-31T19:45:51.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://lazymatlab.tistory.com/208"/>
+        <title>파이썬 정규식</title>
+        <content>파이썬 정규식 by 게으른.pdf 
 
 0.82MB 
 
 후... 힘들었습니다.
 
-- 게으른...</description>
-        </item>
-        <item>
-            <title>0.1+0.2-0.3은 왜 0이 아닐까?</title>
-            <link>https://lazymatlab.tistory.com/207</link>
-            <pubDate>2023-03-26 23:52:39</pubDate>
-            <description>...</description>
-        </item>
-        <item>
-            <title>수학의 즐거움 멤버십 인터뷰 전문</title>
-            <link>https://lazymatlab.tistory.com/205</link>
-            <pubDate>2023-03-19 02:42:41</pubDate>
-            <description>수학의 즐거움에서 인터뷰를 진행했습니다. 시간 관계상 불가피하게 얘기하지 못한 부분들이 조금 있었습니다. 인터뷰를 위해 준비했던 대본(?) 전문을 올려봅니다.
+- 게으른...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2023-03-26T23:52:39.000Z</published>
+        <updated>2023-03-26T23:52:39.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://lazymatlab.tistory.com/207"/>
+        <title>0.1+0.2-0.3은 왜 0이 아닐까?</title>
+        <content>...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2023-03-19T02:42:41.000Z</published>
+        <updated>2023-03-19T02:42:41.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://lazymatlab.tistory.com/205"/>
+        <title>수학의 즐거움 멤버십 인터뷰 전문</title>
+        <content>수학의 즐거움에서 인터뷰를 진행했습니다. 시간 관계상 불가피하게 얘기하지 못한 부분들이 조금 있었습니다. 인터뷰를 위해 준비했던 대본(?) 전문을 올려봅니다.
 
-A. 본인에 대해 ...</description>
-        </item>
-        <item>
-            <title>나는 수학을 왜 공부하는가</title>
-            <link>https://lazymatlab.tistory.com/204</link>
-            <pubDate>2023-03-19 01:50:14</pubDate>
-            <description>pixabay   
+A. 본인에 대해 ...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2023-03-19T01:50:14.000Z</published>
+        <updated>2023-03-19T01:50:14.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://lazymatlab.tistory.com/204"/>
+        <title>나는 수학을 왜 공부하는가</title>
+        <content>pixabay   
 
-0. 요즘 수학의 즐거움 채널에서 조금 찐하게 수학을 공부 중이다. 채널 활동 중에서도 받는 질문이자 개인적으로도 스스로에게 묻는 질문이다. 나는 수학을 왜 ...</description>
-        </item>
-        <item>
-            <title>매트랩 숫자야구</title>
-            <link>https://lazymatlab.tistory.com/203</link>
-            <pubDate>2023-03-07 01:28:59</pubDate>
-            <description>ccc
+0. 요즘 수학의 즐거움 채널에서 조금 찐하게 수학을 공부 중이다. 채널 활동 중에서도 받는 질문이자 개인적으로도 스스로에게 묻는 질문이다. 나는 수학을 왜 ...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2023-03-07T01:28:59.000Z</published>
+        <updated>2023-03-07T01:28:59.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://lazymatlab.tistory.com/203"/>
+        <title>매트랩 숫자야구</title>
+        <content>ccc
 
 num = input('세자리 숫자 입력(0으로 시작해도 ㄱㅊ): ', 's');
 
 % 가능한 모든 세자리 숫자 목록
 list = gen_all_nums();
 
-inval...</description>
-        </item>
-        <item>
-            <title>e의 정의</title>
-            <link>https://lazymatlab.tistory.com/202</link>
-            <pubDate>2023-03-04 20:22:10</pubDate>
-            <description>지수함수의 도함수
+inval...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2023-03-04T20:22:10.000Z</published>
+        <updated>2023-03-04T20:22:10.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://lazymatlab.tistory.com/202"/>
+        <title>e의 정의</title>
+        <content>지수함수의 도함수
 
-일단 임의의 양의 실수 $a$에 대해 지수함수 $y=a^x$는 $x\in\mathbb{R}$에서 잘 정의된다고 치자. 또한 그래프가 어떻게 생겼는지도 알고, 몇...</description>
-        </item>
-        <item>
-            <title>행렬식이 평행사변형의 면적이라고?</title>
-            <link>https://lazymatlab.tistory.com/201</link>
-            <pubDate>2023-03-03 17:34:01</pubDate>
-            <description>예전에 한번 올린 글입니다만, 이번에는 애니메이션을 매트랩으로 만들어보았습니다.
+일단 임의의 양의 실수 $a$에 대해 지수함수 $y=a^x$는 $x\in\mathbb{R}$에서 잘 정의된다고 치자. 또한 그래프가 어떻게 생겼는지도 알고, 몇...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2023-03-03T17:34:01.000Z</published>
+        <updated>2023-03-03T17:34:01.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://lazymatlab.tistory.com/201"/>
+        <title>행렬식이 평행사변형의 면적이라고?</title>
+        <content>예전에 한번 올린 글입니다만, 이번에는 애니메이션을 매트랩으로 만들어보았습니다.
 
 아래는 매트랩 코드이며, 깃헙에도 올려두었습니다.
 
@@ -277,25 +464,41 @@ inval...</description>
 
 6 
 
-7...</description>
-        </item>
-        <item>
-            <title>매트랩 인덱스 행렬 만들기</title>
-            <link>https://lazymatlab.tistory.com/200</link>
-            <pubDate>2023-02-26 02:42:41</pubDate>
-            <description>깃헙 페이지
+7...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2023-02-26T02:42:41.000Z</published>
+        <updated>2023-02-26T02:42:41.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://lazymatlab.tistory.com/200"/>
+        <title>매트랩 인덱스 행렬 만들기</title>
+        <content>깃헙 페이지
 
 매트랩에서 기본으로 제공하는 방법은 symbolic을 활용하는 것이다.
 
 &gt;&gt; A = sym('A', [2, 4])
 A =
-[A1_1, A1_2, A1_3, A1_4...</description>
-        </item>
-        <item>
-            <title>파이썬 idle의 환경설정을 옮기기</title>
-            <link>https://lazymatlab.tistory.com/199</link>
-            <pubDate>2023-02-24 22:43:35</pubDate>
-            <description>쉽다.
+[A1_1, A1_2, A1_3, A1_4...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2023-02-24T22:43:35.000Z</published>
+        <updated>2023-02-24T22:43:35.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://lazymatlab.tistory.com/199"/>
+        <title>파이썬 idle의 환경설정을 옮기기</title>
+        <content>쉽다.
 
 사용자 폴더로 간다.
 
@@ -303,31 +506,60 @@ A =
 
 .idlerc로 들어가서 .cfg 파일들을 복사하여 타겟 PC의 같은 폴더에 옮긴다.
 
-...</description>
-        </item>
-        <item>
-            <title>대학 공부의 어려움에 대하여</title>
-            <link>https://lazymatlab.tistory.com/198</link>
-            <pubDate>2023-02-24 16:17:32</pubDate>
-            <description>unsplash   
+...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2023-02-24T16:17:32.000Z</published>
+        <updated>2023-02-24T16:17:32.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://lazymatlab.tistory.com/198"/>
+        <title>대학 공부의 어려움에 대하여</title>
+        <content>unsplash   
 
 대학 공부의 어려움에 대하여
 
-몇 년 전 대학생들의 기초학력이 부족하다는 문제가 대두된 적이 있다. 물론 지금도 계속되고 있는 문제일지도 모른다. 하지만 문...</description>
-        </item>
-        <item>
-            <title>VBA에서 MATLAB 호출하기</title>
-            <link>https://matlabtutorial.github.io/calling_MATLAB_in_VBA.html</link>
-            <pubDate>2022-12-31</pubDate>
-            <description>MATLAB을 COM Server에 등록하기
+몇 년 전 대학생들의 기초학력이 부족하다는 문제가 대두된 적이 있다. 물론 지금도 계속되고 있는 문제일지도 모른다. 하지만 문...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2022-12-31T00:00:00.000Z</published>
+        <updated>2022-12-31T00:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://matlabtutorial.github.io/calling_MATLAB_in_VBA.html"/>
+        <title>VBA에서 MATLAB 호출하기</title>
+        <content>MATLAB을 COM Server에 등록하기
 
-VBA에서 MATLAB과 통신하기 위해 사용하시는 MATLAB 을 COM Server에 등록해야 합니다. MATLAB이 COM 서버에...</description>
-        </item>
-        <item>
-            <title>MATLAB으로 email 보내기</title>
-            <link>https://matlabtutorial.github.io/email_with_MATLAB.html</link>
-            <pubDate>2022-07-01</pubDate>
-            <description>MATLAB으로 메일을 보내는 게 특별히 필요할까 싶겠지만, 간혹 MATLAB으로 오랜 시간이 걸리는 연산을 수행할 때 유용할 수 있다. 어떤 경우 MATLAB 코드를 3-4일씩 ...</description>
-        </item>
-    </channel>
+VBA에서 MATLAB과 통신하기 위해 사용하시는 MATLAB 을 COM Server에 등록해야 합니다. MATLAB이 COM 서버에...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2022-07-01T00:00:00.000Z</published>
+        <updated>2022-07-01T00:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://matlabtutorial.github.io/email_with_MATLAB.html"/>
+        <title>MATLAB으로 email 보내기</title>
+        <content>MATLAB으로 메일을 보내는 게 특별히 필요할까 싶겠지만, 간혹 MATLAB으로 오랜 시간이 걸리는 연산을 수행할 때 유용할 수 있다. 어떤 경우 MATLAB 코드를 3-4일씩 ...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
 </feed>
