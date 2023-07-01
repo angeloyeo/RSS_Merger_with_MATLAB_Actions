@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlIns="http://www.w3.org/2005/Atom" xml_lang="en-US">
     <title>MATLAB_News_in_Korea</title>
-    <updated>Sat, 01 Jul 2023 05:17:24 +0000</updated>
+    <updated>Sat, 01 Jul 2023 07:17:00 +0000</updated>
     <entry>
         <id> </id>
         <published>2023-06-04T07:00:00.000Z</published>
@@ -359,20 +359,6 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAyMjExMjgxNjM4MTLSAQA?oc=5"/>
         <title>매스웍스, 2022 세종 AI 챌린지 후원 - ZD넷 코리아</title>
         <content>매스웍스, 2022 세종 AI 챌린지 후원 ZD넷 코리아...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
-        <published>2022-11-21T08:00:00.000Z</published>
-        <updated>2022-11-21T08:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiJ2h0dHBzOi8vYnlsaW5lLm5ldHdvcmsvMjAyMi8xMS8xMTIxXzA0L9IBAA?oc=5"/>
-        <title>‘민간투자형 SW사업’ 잘 될까...가이드라인 둘러보니 - 바이라인네트워크</title>
-        <content>‘민간투자형 SW사업’ 잘 될까...가이드라인 둘러보니 바이라인네트워크...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -1269,6 +1255,20 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LmtpcG9zdC5uZXQvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTEwMjI40gE7aHR0cHM6Ly93d3cua2lwb3N0Lm5ldC9uZXdzL2FydGljbGVWaWV3QW1wLmh0bWw_aWR4bm89MTAyMjg?oc=5"/>
         <title>NI, '랩뷰NXG 2018' 버전 출시 - KIPOST</title>
         <content>NI, '랩뷰NXG 2018' 버전 출시 KIPOST...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2018-06-07T07:00:00.000Z</published>
+        <updated>2018-06-07T07:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LmRhdGFuZXQuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTEyMzQ3OdIBAA?oc=5"/>
+        <title>매스웍스, 매트랩 위한 새로운 예측 유지 관리 제품 출시 - 데이터넷</title>
+        <content>매스웍스, 매트랩 위한 새로운 예측 유지 관리 제품 출시 데이터넷...</content>
         <author>
             <name> </name>
             <uri> </uri>
