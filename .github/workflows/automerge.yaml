@@ -28,3 +28,24 @@ jobs:
         uses: matlab-actions/run-command@v1
         with:
           command: merge_RSS
+      - name: Push updated files
+
+        env:
+
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+        run: |
+
+          git remote set-url origin https://github-actions:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}
+
+          git config --global user.name "${GITHUB_ACTOR}"
+
+          git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+
+          git diff --shortstat
+
+          git add .
+
+          git commit -m "RSS Updated by github-actions"
+
+          git push origin HEAD:${GITHUB_REF}
