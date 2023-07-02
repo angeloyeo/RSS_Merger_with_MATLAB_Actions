@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlIns="http://www.w3.org/2005/Atom" xml_lang="en-US">
     <title>MATLAB_News_in_Korea</title>
-    <updated>Sun, 02 Jul 2023 11:15:02 +0000</updated>
+    <updated>Sun, 02 Jul 2023 13:21:49 +0000</updated>
     <entry>
         <id> </id>
         <published>2023-06-04T07:00:00.000Z</published>
@@ -107,20 +107,6 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiLGh0dHA6Ly9tLmRvbmdhc2NpZW5jZS5jb20vbmV3cy5waHA_aWR4PTU5Njg40gEA?oc=5"/>
         <title>[주말N수학] 오스카 수상을 수학 모형으로 예측한 야구 분석가 - 동아사이언스</title>
         <content>[주말N수학] 오스카 수상을 수학 모형으로 예측한 야구 분석가 동아사이언스...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
-        <published>2023-04-28T07:00:00.000Z</published>
-        <updated>2023-04-28T07:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiMGh0dHA6Ly93d3cuaGVsbG90Lm5ldC9uZXdzL2FydGljbGUuaHRtbD9ubz03NzUwONIBAA?oc=5"/>
-        <title>바이오·에너지·산업 등 한-미 양해각서 50여 건 이상 체결 - 헬로티 – 매일 만나는 첨단 산업, IT 소식</title>
-        <content>바이오·에너지·산업 등 한-미 양해각서 50여 건 이상 체결 헬로티 – 매일 만나는 첨단 산업, IT 소식...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -272,9 +258,9 @@
         <id> </id>
         <published>2023-01-10T08:00:00.000Z</published>
         <updated>2023-01-10T08:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAyMzAxMTAxMDU5MTfSAQA?oc=5"/>
-        <title>[기고] 현대 무선 시스템 설계 복잡성, AI로 극복한다 - ZD넷 코리아</title>
-        <content>[기고] 현대 무선 시스템 설계 복잡성, AI로 극복한다 ZD넷 코리아...</content>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3Lmhhbmt5dW5nLmNvbS9lY29ub215L2FydGljbGUvMjAyMzAxMTAyNjgyMdIBMmh0dHBzOi8vd3d3Lmhhbmt5dW5nLmNvbS9lY29ub215L2FtcC8yMDIzMDExMDI2ODIx?oc=5"/>
+        <title>폐배터리 배출 급증하는데 전문인력양성 年 15명 불과…대폭 늘려야 - 한국경제</title>
+        <content>&quot;폐배터리 배출 급증하는데 전문인력양성 年 15명 불과…대폭 늘려야&quot; 한국경제...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -286,9 +272,9 @@
         <id> </id>
         <published>2023-01-10T08:00:00.000Z</published>
         <updated>2023-01-10T08:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3Lmhhbmt5dW5nLmNvbS9lY29ub215L2FydGljbGUvMjAyMzAxMTAyNjgyMdIBMmh0dHBzOi8vd3d3Lmhhbmt5dW5nLmNvbS9lY29ub215L2FtcC8yMDIzMDExMDI2ODIx?oc=5"/>
-        <title>폐배터리 배출 급증하는데 전문인력양성 年 15명 불과…대폭 늘려야 - 한국경제</title>
-        <content>&quot;폐배터리 배출 급증하는데 전문인력양성 年 15명 불과…대폭 늘려야&quot; 한국경제...</content>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAyMzAxMTAxMDU5MTfSAQA?oc=5"/>
+        <title>[기고] 현대 무선 시스템 설계 복잡성, AI로 극복한다 - ZD넷 코리아</title>
+        <content>[기고] 현대 무선 시스템 설계 복잡성, AI로 극복한다 ZD넷 코리아...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -368,11 +354,11 @@
     </entry>
     <entry>
         <id> </id>
-        <published>2022-11-16T08:00:00.000Z</published>
-        <updated>2022-11-16T08:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LmFpdGltZXMua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTI2NTI00gEA?oc=5"/>
-        <title>AMD, 우주 인공지능 애플리케이션 위한 방사선 내성 '버설 AI 코어' 美 ... - 인공지능신문</title>
-        <content>AMD, 우주 인공지능 애플리케이션 위한 방사선 내성 '버설 AI 코어' 美 ... 인공지능신문...</content>
+        <published>2022-11-21T08:00:00.000Z</published>
+        <updated>2022-11-21T08:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiJ2h0dHBzOi8vYnlsaW5lLm5ldHdvcmsvMjAyMi8xMS8xMTIxXzA0L9IBAA?oc=5"/>
+        <title>‘민간투자형 SW사업’ 잘 될까...가이드라인 둘러보니 - 바이라인네트워크</title>
+        <content>‘민간투자형 SW사업’ 잘 될까...가이드라인 둘러보니 바이라인네트워크...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -1012,6 +998,20 @@
     </entry>
     <entry>
         <id> </id>
+        <published>2020-11-12T08:00:00.000Z</published>
+        <updated>2020-11-12T08:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LmRhdGFuZXQuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTE1Mjc2M9IBAA?oc=5"/>
+        <title>매스웍스, 파이낸셜 툴박스에 신규 백테스팅 프레임워크 추가 - 데이터넷</title>
+        <content>매스웍스, 파이낸셜 툴박스에 신규 백테스팅 프레임워크 추가 데이터넷...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
         <published>2020-10-20T07:00:00.000Z</published>
         <updated>2020-10-20T07:00:00.000Z</updated>
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOWh0dHA6Ly93d3cubmtlY29ub215LmNvbS9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MzU4ONIBPGh0dHA6Ly93d3cubmtlY29ub215LmNvbS9uZXdzL2FydGljbGVWaWV3QW1wLmh0bWw_aWR4bm89MzU4OA?oc=5"/>
@@ -1129,20 +1129,6 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3LmtpcG9zdC5uZXQvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTIwMjc3ONIBPGh0dHBzOi8vd3d3LmtpcG9zdC5uZXQvbmV3cy9hcnRpY2xlVmlld0FtcC5odG1sP2lkeG5vPTIwMjc3OA?oc=5"/>
         <title>매스웍스, FPGA·ASIC 설계 검증을 위한 UVM 지원 시작 - KIPOST</title>
         <content>매스웍스, FPGA·ASIC 설계 검증을 위한 UVM 지원 시작 KIPOST...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
-        <published>2019-11-11T08:00:00.000Z</published>
-        <updated>2019-11-11T08:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiO2h0dHA6Ly93d3cuaXJvYm90bmV3cy5jb20vbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTE4NzYw0gEA?oc=5"/>
-        <title>한국교통대, ‘2019 IROS 미니드론 부문 3위’ 수상 - 로봇신문사</title>
-        <content>한국교통대, ‘2019 IROS 미니드론 부문 3위’ 수상 로봇신문사...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -1395,6 +1381,20 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAxNDEyMjMxNjU1MDDSAQA?oc=5"/>
         <title>MATLAB 자격증 국내 첫 합격자 배출 - ZD넷 코리아</title>
         <content>MATLAB 자격증 국내 첫 합격자 배출 ZD넷 코리아...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2014-05-29T07:00:00.000Z</published>
+        <updated>2014-05-29T07:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiM2h0dHA6Ly9pdGRhaWx5LmtyL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz01MjQwMdIBAA?oc=5"/>
+        <title>매스웍스, '매트랩'에 혼합 정수 선형 계획법 추가 - IT Daily</title>
+        <content>매스웍스, '매트랩'에 혼합 정수 선형 계획법 추가 IT Daily...</content>
         <author>
             <name> </name>
             <uri> </uri>
