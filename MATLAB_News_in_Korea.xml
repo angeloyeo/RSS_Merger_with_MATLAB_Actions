@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlIns="http://www.w3.org/2005/Atom" xml_lang="en-US">
     <title>MATLAB_News_in_Korea</title>
-    <updated>Mon, 03 Jul 2023 13:21:55 +0000</updated>
+    <updated>Mon, 03 Jul 2023 14:10:43 +0000</updated>
     <entry>
         <id> </id>
         <published>2023-06-04T07:00:00.000Z</published>
@@ -998,11 +998,11 @@
     </entry>
     <entry>
         <id> </id>
-        <published>2020-11-12T08:00:00.000Z</published>
-        <updated>2020-11-12T08:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LmRhdGFuZXQuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTE1Mjc2M9IBAA?oc=5"/>
-        <title>매스웍스, 파이낸셜 툴박스에 신규 백테스팅 프레임워크 추가 - 데이터넷</title>
-        <content>매스웍스, 파이낸셜 툴박스에 신규 백테스팅 프레임워크 추가 데이터넷...</content>
+        <published>2020-10-20T07:00:00.000Z</published>
+        <updated>2020-10-20T07:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOWh0dHA6Ly93d3cubmtlY29ub215LmNvbS9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MzU4ONIBPGh0dHA6Ly93d3cubmtlY29ub215LmNvbS9uZXdzL2FydGljbGVWaWV3QW1wLmh0bWw_aWR4bm89MzU4OA?oc=5"/>
+        <title>북한, 매트랩 시뮬링크로 공업용 로봇팔 설계 - NK경제</title>
+        <content>북한, 매트랩 시뮬링크로 공업용 로봇팔 설계 NK경제...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -1012,11 +1012,11 @@
     </entry>
     <entry>
         <id> </id>
-        <published>2020-10-20T07:00:00.000Z</published>
-        <updated>2020-10-20T07:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOWh0dHA6Ly93d3cubmtlY29ub215LmNvbS9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MzU4ONIBPGh0dHA6Ly93d3cubmtlY29ub215LmNvbS9uZXdzL2FydGljbGVWaWV3QW1wLmh0bWw_aWR4bm89MzU4OA?oc=5"/>
-        <title>북한, 매트랩 시뮬링크로 공업용 로봇팔 설계 - NK경제</title>
-        <content>북한, 매트랩 시뮬링크로 공업용 로봇팔 설계 NK경제...</content>
+        <published>2020-10-15T07:00:00.000Z</published>
+        <updated>2020-10-15T07:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiJWh0dHBzOi8vd3d3Lml0d29ybGQuY28ua3IvbmV3cy8xNjgwNDDSAQA?oc=5"/>
+        <title>매스웍스, 시뮬링크 리얼타임 업데이트…“신속 제어 프로토타이핑 및 ... - ITWorld Korea</title>
+        <content>매스웍스, 시뮬링크 리얼타임 업데이트…“신속 제어 프로토타이핑 및 ... ITWorld Korea...</content>
         <author>
             <name> </name>
             <uri> </uri>
