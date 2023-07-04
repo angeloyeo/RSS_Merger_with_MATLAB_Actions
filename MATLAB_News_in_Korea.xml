@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlIns="http://www.w3.org/2005/Atom" xml_lang="en-US">
     <title>MATLAB_News_in_Korea</title>
-    <updated>Tue, 04 Jul 2023 13:22:04 +0000</updated>
+    <updated>Tue, 04 Jul 2023 14:10:28 +0000</updated>
     <entry>
         <id> </id>
         <published>2023-06-04T07:00:00.000Z</published>
@@ -704,20 +704,6 @@
     </entry>
     <entry>
         <id> </id>
-        <published>2021-11-02T07:00:00.000Z</published>
-        <updated>2021-11-02T07:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiHWh0dHBzOi8vaWNud2ViLmtyLzIwMjEvNDkwMTcv0gEA?oc=5"/>
-        <title>자율주행차와 커넥티드카 아키텍처 개발을 위한 3가지 과제 - 아이씨엔매거진</title>
-        <content>자율주행차와 커넥티드카 아키텍처 개발을 위한 3가지 과제 아이씨엔매거진...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
         <published>2021-10-18T07:00:00.000Z</published>
         <updated>2021-10-18T07:00:00.000Z</updated>
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LmRhdGFuZXQuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTE2NTQ2MNIBAA?oc=5"/>
@@ -1171,6 +1157,20 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAxOTA5MTAxNTE2MTLSAQA?oc=5"/>
         <title>엔지니어가 가장 선호하는 프로그래밍 언어 1위는 '파이썬' - ZD넷 코리아</title>
         <content>엔지니어가 가장 선호하는 프로그래밍 언어 1위는 '파이썬' ZD넷 코리아...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2019-08-13T07:00:00.000Z</published>
+        <updated>2019-08-13T07:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiJWh0dHBzOi8vd3d3LmV0bmV3cy5jb20vMjAxOTA4MTMwMDAyODLSAQA?oc=5"/>
+        <title>[미소재단 SW캠프]“매트랩으로 수학 공부 재밌게 해요” - 전자신문</title>
+        <content>[미소재단 SW캠프]“매트랩으로 수학 공부 재밌게 해요” 전자신문...</content>
         <author>
             <name> </name>
             <uri> </uri>
