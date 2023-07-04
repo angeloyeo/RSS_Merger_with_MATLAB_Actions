@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlIns="http://www.w3.org/2005/Atom" xml_lang="en-US">
     <title>MATLAB_Blogs_in_Korea</title>
-    <updated>Mon, 03 Jul 2023 23:11:53 +0000</updated>
+    <updated>Tue, 04 Jul 2023 01:03:14 +0000</updated>
+    <entry>
+        <id> </id>
+        <published>2023-07-04T00:00:00.000Z</published>
+        <updated>2023-07-04T00:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://matlabtutorial.github.io/auto_excel_with_hyperlinked_texts.html"/>
+        <title>(번역) 하이퍼링크가 붙은 텍스트가 포함된 엑셀 자동화</title>
+        <content>본 포스트의 원문은 아래의 URL에서 확인하실 수 있습니다. 본 포스트는 원작자에게 동의를 구한 뒤 한국어로 번역하였습니다.
+
+【MATLAB】ハイパーリンク付きテキストのExcel へ...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
     <entry>
         <id> </id>
         <published>2023-07-03T00:00:00.000Z</published>
@@ -543,22 +559,6 @@ A =
 대학 공부의 어려움에 대하여
 
 몇 년 전 대학생들의 기초학력이 부족하다는 문제가 대두된 적이 있다. 물론 지금도 계속되고 있는 문제일지도 모른다. 하지만 문...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
-        <published>2022-12-31T00:00:00.000Z</published>
-        <updated>2022-12-31T00:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://matlabtutorial.github.io/calling_MATLAB_in_VBA.html"/>
-        <title>VBA에서 MATLAB 호출하기</title>
-        <content>MATLAB을 COM Server에 등록하기
-
-VBA에서 MATLAB과 통신하기 위해 사용하시는 MATLAB 을 COM Server에 등록해야 합니다. MATLAB이 COM 서버에...</content>
         <author>
             <name> </name>
             <uri> </uri>
