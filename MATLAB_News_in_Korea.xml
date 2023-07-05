@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlIns="http://www.w3.org/2005/Atom" xml_lang="en-US">
     <title>MATLAB_News_in_Korea</title>
-    <updated>Wed, 05 Jul 2023 14:12:08 +0000</updated>
+    <updated>Wed, 05 Jul 2023 15:12:25 +0000</updated>
     <entry>
         <id> </id>
         <published>2023-06-04T07:00:00.000Z</published>
@@ -244,9 +244,9 @@
         <id> </id>
         <published>2023-01-10T08:00:00.000Z</published>
         <updated>2023-01-10T08:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAyMzAxMTAxMDU5MTfSAQA?oc=5"/>
-        <title>[기고] 현대 무선 시스템 설계 복잡성, AI로 극복한다 - ZD넷 코리아</title>
-        <content>[기고] 현대 무선 시스템 설계 복잡성, AI로 극복한다 ZD넷 코리아...</content>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3Lmhhbmt5dW5nLmNvbS9lY29ub215L2FydGljbGUvMjAyMzAxMTAyNjgyMdIBMmh0dHBzOi8vd3d3Lmhhbmt5dW5nLmNvbS9lY29ub215L2FtcC8yMDIzMDExMDI2ODIx?oc=5"/>
+        <title>폐배터리 배출 급증하는데 전문인력양성 年 15명 불과…대폭 늘려야 - 한국경제</title>
+        <content>&quot;폐배터리 배출 급증하는데 전문인력양성 年 15명 불과…대폭 늘려야&quot; 한국경제...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -258,9 +258,9 @@
         <id> </id>
         <published>2023-01-10T08:00:00.000Z</published>
         <updated>2023-01-10T08:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3Lmhhbmt5dW5nLmNvbS9lY29ub215L2FydGljbGUvMjAyMzAxMTAyNjgyMdIBMmh0dHBzOi8vd3d3Lmhhbmt5dW5nLmNvbS9lY29ub215L2FtcC8yMDIzMDExMDI2ODIx?oc=5"/>
-        <title>폐배터리 배출 급증하는데 전문인력양성 年 15명 불과…대폭 늘려야 - 한국경제</title>
-        <content>&quot;폐배터리 배출 급증하는데 전문인력양성 年 15명 불과…대폭 늘려야&quot; 한국경제...</content>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAyMzAxMTAxMDU5MTfSAQA?oc=5"/>
+        <title>[기고] 현대 무선 시스템 설계 복잡성, AI로 극복한다 - ZD넷 코리아</title>
+        <content>[기고] 현대 무선 시스템 설계 복잡성, AI로 극복한다 ZD넷 코리아...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -368,11 +368,11 @@
     </entry>
     <entry>
         <id> </id>
-        <published>2022-09-22T07:00:00.000Z</published>
-        <updated>2022-09-22T07:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiHWh0dHBzOi8vaWNud2ViLmtyLzIwMjIvNjcwMzQv0gEA?oc=5"/>
-        <title>엔비디아, 이미지처리 가속화에 오픈 소스 라이브러리 CV-CUDA 도입 - 아이씨엔매거진</title>
-        <content>엔비디아, 이미지처리 가속화에 오픈 소스 라이브러리 CV-CUDA 도입 아이씨엔매거진...</content>
+        <published>2022-09-10T07:00:00.000Z</published>
+        <updated>2022-09-10T07:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LmRhdGFuZXQuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTE3NjI5NtIBAA?oc=5"/>
+        <title>매스웍스 '매트랩', 한국형 코로나19 대응 전략 위한 수리모델링 제공 - 데이터넷</title>
+        <content>매스웍스 '매트랩', 한국형 코로나19 대응 전략 위한 수리모델링 제공 데이터넷...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -382,11 +382,11 @@
     </entry>
     <entry>
         <id> </id>
-        <published>2022-09-10T07:00:00.000Z</published>
-        <updated>2022-09-10T07:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LmRhdGFuZXQuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTE3NjI5NtIBAA?oc=5"/>
-        <title>매스웍스 '매트랩', 한국형 코로나19 대응 전략 위한 수리모델링 제공 - 데이터넷</title>
-        <content>매스웍스 '매트랩', 한국형 코로나19 대응 전략 위한 수리모델링 제공 데이터넷...</content>
+        <published>2022-08-23T07:00:00.000Z</published>
+        <updated>2022-08-23T07:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiJ2h0dHBzOi8vYnlsaW5lLm5ldHdvcmsvMjAyMi8wOC8wODIzLTAyL9IBAA?oc=5"/>
+        <title>상반기 중소 SW 기업 실적 어땠나…투자 여파로 찌뿌둥 - 바이라인네트워크</title>
+        <content>상반기 중소 SW 기업 실적 어땠나…투자 여파로 찌뿌둥 바이라인네트워크...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -816,20 +816,6 @@
     </entry>
     <entry>
         <id> </id>
-        <published>2021-07-06T07:00:00.000Z</published>
-        <updated>2021-07-06T07:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LmtvaXQuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTg2NTEz0gE6aHR0cDovL3d3dy5rb2l0LmNvLmtyL25ld3MvYXJ0aWNsZVZpZXdBbXAuaHRtbD9pZHhubz04NjUxMw?oc=5"/>
-        <title>지스트, 계산전자공학 쉽게 기술한 입문서 출간 - 정보통신신문</title>
-        <content>지스트, 계산전자공학 쉽게 기술한 입문서 출간 정보통신신문...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
         <published>2021-05-27T07:00:00.000Z</published>
         <updated>2021-05-27T07:00:00.000Z</updated>
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3Lml0LWIuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTQ5NzQ50gEA?oc=5"/>
@@ -1129,6 +1115,20 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3LmtpcG9zdC5uZXQvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTIwMjc3ONIBPGh0dHBzOi8vd3d3LmtpcG9zdC5uZXQvbmV3cy9hcnRpY2xlVmlld0FtcC5odG1sP2lkeG5vPTIwMjc3OA?oc=5"/>
         <title>매스웍스, FPGA·ASIC 설계 검증을 위한 UVM 지원 시작 - KIPOST</title>
         <content>매스웍스, FPGA·ASIC 설계 검증을 위한 UVM 지원 시작 KIPOST...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2019-12-15T08:00:00.000Z</published>
+        <updated>2019-12-15T08:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiM2h0dHA6Ly9pdGRhaWx5LmtyL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz05ODkwNdIBAA?oc=5"/>
+        <title>[기고] 2020년 STEM 교육 5대 트렌드 &lt; 기고·강좌 &lt; 기사본문 - IT Daily</title>
+        <content>[기고] 2020년 STEM 교육 5대 트렌드 &lt; 기고·강좌 &lt; 기사본문 IT Daily...</content>
         <author>
             <name> </name>
             <uri> </uri>
