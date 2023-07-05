@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlIns="http://www.w3.org/2005/Atom" xml_lang="en-US">
     <title>MATLAB_News_in_Korea</title>
-    <updated>Wed, 05 Jul 2023 11:10:20 +0000</updated>
+    <updated>Wed, 05 Jul 2023 12:23:59 +0000</updated>
     <entry>
         <id> </id>
         <published>2023-06-04T07:00:00.000Z</published>
@@ -340,6 +340,20 @@
     </entry>
     <entry>
         <id> </id>
+        <published>2022-11-16T08:00:00.000Z</published>
+        <updated>2022-11-16T08:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LmFpdGltZXMua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTI2NTI00gEA?oc=5"/>
+        <title>AMD, 우주 인공지능 애플리케이션 위한 방사선 내성 '버설 AI 코어' 美 ... - 인공지능신문</title>
+        <content>AMD, 우주 인공지능 애플리케이션 위한 방사선 내성 '버설 AI 코어' 美 ... 인공지능신문...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
         <published>2022-10-20T07:00:00.000Z</published>
         <updated>2022-10-20T07:00:00.000Z</updated>
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmFpdGltZXMuY29tL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz0xNDc0MznSAQA?oc=5"/>
@@ -354,11 +368,11 @@
     </entry>
     <entry>
         <id> </id>
-        <published>2022-09-10T07:00:00.000Z</published>
-        <updated>2022-09-10T07:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LmRhdGFuZXQuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTE3NjI5NtIBAA?oc=5"/>
-        <title>매스웍스 '매트랩', 한국형 코로나19 대응 전략 위한 수리모델링 제공 - 데이터넷</title>
-        <content>매스웍스 '매트랩', 한국형 코로나19 대응 전략 위한 수리모델링 제공 데이터넷...</content>
+        <published>2022-09-22T07:00:00.000Z</published>
+        <updated>2022-09-22T07:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiHWh0dHBzOi8vaWNud2ViLmtyLzIwMjIvNjcwMzQv0gEA?oc=5"/>
+        <title>엔비디아, 이미지처리 가속화에 오픈 소스 라이브러리 CV-CUDA 도입 - 아이씨엔매거진</title>
+        <content>엔비디아, 이미지처리 가속화에 오픈 소스 라이브러리 CV-CUDA 도입 아이씨엔매거진...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -368,11 +382,11 @@
     </entry>
     <entry>
         <id> </id>
-        <published>2022-08-23T07:00:00.000Z</published>
-        <updated>2022-08-23T07:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiJ2h0dHBzOi8vYnlsaW5lLm5ldHdvcmsvMjAyMi8wOC8wODIzLTAyL9IBAA?oc=5"/>
-        <title>상반기 중소 SW 기업 실적 어땠나…투자 여파로 찌뿌둥 - 바이라인네트워크</title>
-        <content>상반기 중소 SW 기업 실적 어땠나…투자 여파로 찌뿌둥 바이라인네트워크...</content>
+        <published>2022-09-10T07:00:00.000Z</published>
+        <updated>2022-09-10T07:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LmRhdGFuZXQuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTE3NjI5NtIBAA?oc=5"/>
+        <title>매스웍스 '매트랩', 한국형 코로나19 대응 전략 위한 수리모델링 제공 - 데이터넷</title>
+        <content>매스웍스 '매트랩', 한국형 코로나19 대응 전략 위한 수리모델링 제공 데이터넷...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -499,20 +513,6 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiI2h0dHA6Ly93d3cubWZna3IuY29tL2FyY2hpdmVzLzIwMzc20gEA?oc=5"/>
         <title>MFG - MFG Inc</title>
         <content>MFG MFG Inc...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
-        <published>2022-03-16T07:00:00.000Z</published>
-        <updated>2022-03-16T07:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiJGh0dHBzOi8vd3d3LmNpb2tvcmVhLmNvbS9uZXdzLzIyOTAwOdIBAA?oc=5"/>
-        <title>매스웍스, 매트랩 및 시뮬링크 릴리스 2022a 발표 - CIO Korea</title>
-        <content>매스웍스, 매트랩 및 시뮬링크 릴리스 2022a 발표 CIO Korea...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -807,6 +807,20 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3Lmlyb2JvdG5ld3MuY29tL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz0yNTY3NtIBAA?oc=5"/>
         <title>로봇신문사 모바일 모바일 사이트, '젊은 로봇 공학자' (48) 명지대 ... - 로봇신문사</title>
         <content>로봇신문사 모바일 모바일 사이트, '젊은 로봇 공학자' (48) 명지대 ... 로봇신문사...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2021-07-06T07:00:00.000Z</published>
+        <updated>2021-07-06T07:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LmtvaXQuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTg2NTEz0gE6aHR0cDovL3d3dy5rb2l0LmNvLmtyL25ld3MvYXJ0aWNsZVZpZXdBbXAuaHRtbD9pZHhubz04NjUxMw?oc=5"/>
+        <title>지스트, 계산전자공학 쉽게 기술한 입문서 출간 - 정보통신신문</title>
+        <content>지스트, 계산전자공학 쉽게 기술한 입문서 출간 정보통신신문...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -1325,20 +1339,6 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vd3d3LmRhaWx5bWVkaS5jb20vZGV0YWlsLnBocD9udW1iZXI9ODIzNzY10gEA?oc=5"/>
         <title>뇌졸중 MRI의 이해와 정량분석 - 데일리메디</title>
         <content>뇌졸중 MRI의 이해와 정량분석 데일리메디...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
-        <published>2017-10-02T07:00:00.000Z</published>
-        <updated>2017-10-02T07:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LmNjdHZuZXdzLmNvLmtyL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz03MjY3MdIBAA?oc=5"/>
-        <title>테크니컬 컴퓨팅 소프트웨어 리더, 매스웍스 - CCTV NEWS</title>
-        <content>테크니컬 컴퓨팅 소프트웨어 리더, 매스웍스 CCTV NEWS...</content>
         <author>
             <name> </name>
             <uri> </uri>
