@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlIns="http://www.w3.org/2005/Atom" xml_lang="en-US">
     <title>MATLAB_News_in_Korea</title>
-    <updated>Wed, 05 Jul 2023 05:11:47 +0000</updated>
+    <updated>Wed, 05 Jul 2023 06:15:14 +0000</updated>
     <entry>
         <id> </id>
         <published>2023-06-04T07:00:00.000Z</published>
@@ -135,6 +135,20 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAyMzA0MjcwOTIzMDfSAQA?oc=5"/>
         <title>매스웍스, HL클레무브 운전보조시스템 개발에 '폴리스페이스' 공급 - ZD넷 코리아</title>
         <content>매스웍스, HL클레무브 운전보조시스템 개발에 '폴리스페이스' 공급 ZD넷 코리아...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2023-04-21T07:00:00.000Z</published>
+        <updated>2023-04-21T07:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmRlbmV3cy5jby5rci9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MjYxNDfSAQA?oc=5"/>
+        <title>[월드IT쇼 2023] KT DS, 디지털 혁신 솔루션 2종 첫 공개 - 디지털경제뉴스</title>
+        <content>[월드IT쇼 2023] KT DS, 디지털 혁신 솔루션 2종 첫 공개 디지털경제뉴스...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -396,20 +410,6 @@
     </entry>
     <entry>
         <id> </id>
-        <published>2022-08-23T07:00:00.000Z</published>
-        <updated>2022-08-23T07:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiJ2h0dHBzOi8vYnlsaW5lLm5ldHdvcmsvMjAyMi8wOC8wODIzLTAyL9IBAA?oc=5"/>
-        <title>상반기 중소 SW 기업 실적 어땠나…투자 여파로 찌뿌둥 - 바이라인네트워크</title>
-        <content>상반기 중소 SW 기업 실적 어땠나…투자 여파로 찌뿌둥 바이라인네트워크...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
         <published>2022-08-19T07:00:00.000Z</published>
         <updated>2022-08-19T07:00:00.000Z</updated>
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAyMjA4MTkxMTMzNTnSAQA?oc=5"/>
@@ -527,20 +527,6 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiI2h0dHA6Ly93d3cubWZna3IuY29tL2FyY2hpdmVzLzIwMzc20gEA?oc=5"/>
         <title>MFG - MFG Inc</title>
         <content>MFG MFG Inc...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
-        <published>2022-03-16T07:00:00.000Z</published>
-        <updated>2022-03-16T07:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiJGh0dHBzOi8vd3d3LmNpb2tvcmVhLmNvbS9uZXdzLzIyOTAwOdIBAA?oc=5"/>
-        <title>매스웍스, 매트랩 및 시뮬링크 릴리스 2022a 발표 - CIO Korea</title>
-        <content>매스웍스, 매트랩 및 시뮬링크 릴리스 2022a 발표 CIO Korea...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -709,6 +695,20 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vbS5lZGFpbHkuY28ua3IvbmV3cy9uZXdzcGF0aC5hc3A_bmV3c2lkPUUwMTUwODgwNjYyOTI0NTM5MtIBSGh0dHBzOi8vbS5lZGFpbHkuY28ua3IvYW1wL3JlYWQ_bmV3c0lkPTAxNTA4ODA2NjI5MjQ1MzkyJm1lZGlhQ29kZU5vPTI1Nw?oc=5"/>
         <title>[에이앤랩's IP매뉴얼] 소프트웨어 불법복제 손해배상액, 왜 이렇게 ... - 이데일리</title>
         <content>[에이앤랩's IP매뉴얼] 소프트웨어 불법복제 손해배상액, 왜 이렇게 ... 이데일리...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2021-11-02T07:00:00.000Z</published>
+        <updated>2021-11-02T07:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiHWh0dHBzOi8vaWNud2ViLmtyLzIwMjEvNDkwMTcv0gEA?oc=5"/>
+        <title>자율주행차와 커넥티드카 아키텍처 개발을 위한 3가지 과제 - 아이씨엔매거진</title>
+        <content>자율주행차와 커넥티드카 아키텍처 개발을 위한 3가지 과제 아이씨엔매거진...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -1138,20 +1138,6 @@
     </entry>
     <entry>
         <id> </id>
-        <published>2019-11-11T08:00:00.000Z</published>
-        <updated>2019-11-11T08:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiO2h0dHA6Ly93d3cuaXJvYm90bmV3cy5jb20vbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTE4NzYw0gEA?oc=5"/>
-        <title>한국교통대, ‘2019 IROS 미니드론 부문 3위’ 수상 - 로봇신문사</title>
-        <content>한국교통대, ‘2019 IROS 미니드론 부문 3위’ 수상 로봇신문사...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
         <published>2019-10-15T07:00:00.000Z</published>
         <updated>2019-10-15T07:00:00.000Z</updated>
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiJWh0dHBzOi8vd3d3LmV0bmV3cy5jb20vMjAxOTEwMTUwMDAwODDSAQA?oc=5"/>
@@ -1185,6 +1171,20 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAxOTA5MTAxNTE2MTLSAQA?oc=5"/>
         <title>엔지니어가 가장 선호하는 프로그래밍 언어 1위는 '파이썬' - ZD넷 코리아</title>
         <content>엔지니어가 가장 선호하는 프로그래밍 언어 1위는 '파이썬' ZD넷 코리아...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2019-08-13T07:00:00.000Z</published>
+        <updated>2019-08-13T07:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiJWh0dHBzOi8vd3d3LmV0bmV3cy5jb20vMjAxOTA4MTMwMDAyODLSAQA?oc=5"/>
+        <title>[미소재단 SW캠프]“매트랩으로 수학 공부 재밌게 해요” - 전자신문</title>
+        <content>[미소재단 SW캠프]“매트랩으로 수학 공부 재밌게 해요” 전자신문...</content>
         <author>
             <name> </name>
             <uri> </uri>
