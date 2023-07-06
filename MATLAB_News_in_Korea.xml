@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlIns="http://www.w3.org/2005/Atom" xml_lang="en-US">
     <title>MATLAB_News_in_Korea</title>
-    <updated>Thu, 06 Jul 2023 02:57:44 +0000</updated>
+    <updated>Thu, 06 Jul 2023 03:27:25 +0000</updated>
     <entry>
         <id> </id>
         <published>2023-06-04T07:00:00.000Z</published>
@@ -60,11 +60,11 @@
     </entry>
     <entry>
         <id> </id>
-        <published>2023-05-26T07:00:00.000Z</published>
-        <updated>2023-05-26T07:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiO2h0dHA6Ly93d3cubmV3c3RhcC5jby5rci9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MTk0OTE40gEA?oc=5"/>
-        <title>‘매트랩’을 통한 건전성 예측 관리로 유지보수는 물론 기회비용까지 ... - 뉴스탭</title>
-        <content>‘매트랩’을 통한 건전성 예측 관리로 유지보수는 물론 기회비용까지 ... 뉴스탭...</content>
+        <published>2023-05-26T08:22:50.000Z</published>
+        <updated>2023-05-26T08:22:50.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOWh0dHA6Ly9tLm5ld3N0YXAuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTE5NDkxONIBAA?oc=5"/>
+        <title>'매트랩'을 통한 건전성 예측 관리로 유지보수는 물론 기회비용까지 ... - 뉴스탭</title>
+        <content>'매트랩'을 통한 건전성 예측 관리로 유지보수는 물론 기회비용까지 ... 뉴스탭...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -340,20 +340,6 @@
     </entry>
     <entry>
         <id> </id>
-        <published>2022-11-16T08:00:00.000Z</published>
-        <updated>2022-11-16T08:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LmFpdGltZXMua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTI2NTI00gEA?oc=5"/>
-        <title>AMD, 우주 인공지능 애플리케이션 위한 방사선 내성 '버설 AI 코어' 美 ... - 인공지능신문</title>
-        <content>AMD, 우주 인공지능 애플리케이션 위한 방사선 내성 '버설 AI 코어' 美 ... 인공지능신문...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
         <published>2022-10-20T07:00:00.000Z</published>
         <updated>2022-10-20T07:00:00.000Z</updated>
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmFpdGltZXMuY29tL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz0xNDc0MznSAQA?oc=5"/>
@@ -513,20 +499,6 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiI2h0dHA6Ly93d3cubWZna3IuY29tL2FyY2hpdmVzLzIwMzc20gEA?oc=5"/>
         <title>MFG - MFG Inc</title>
         <content>MFG MFG Inc...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
-        <published>2022-03-16T07:00:00.000Z</published>
-        <updated>2022-03-16T07:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiJGh0dHBzOi8vd3d3LmNpb2tvcmVhLmNvbS9uZXdzLzIyOTAwOdIBAA?oc=5"/>
-        <title>매스웍스, 매트랩 및 시뮬링크 릴리스 2022a 발표 - CIO Korea</title>
-        <content>매스웍스, 매트랩 및 시뮬링크 릴리스 2022a 발표 CIO Korea...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -821,6 +793,20 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3Lmlyb2JvdG5ld3MuY29tL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz0yNTY3NtIBAA?oc=5"/>
         <title>로봇신문사 모바일 모바일 사이트, '젊은 로봇 공학자' (48) 명지대 ... - 로봇신문사</title>
         <content>로봇신문사 모바일 모바일 사이트, '젊은 로봇 공학자' (48) 명지대 ... 로봇신문사...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2021-07-06T07:00:00.000Z</published>
+        <updated>2021-07-06T07:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LmtvaXQuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTg2NTEz0gE6aHR0cDovL3d3dy5rb2l0LmNvLmtyL25ld3MvYXJ0aWNsZVZpZXdBbXAuaHRtbD9pZHhubz04NjUxMw?oc=5"/>
+        <title>지스트, 계산전자공학 쉽게 기술한 입문서 출간 - 정보통신신문</title>
+        <content>지스트, 계산전자공학 쉽게 기술한 입문서 출간 정보통신신문...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -1138,6 +1124,20 @@
     </entry>
     <entry>
         <id> </id>
+        <published>2019-12-15T08:00:00.000Z</published>
+        <updated>2019-12-15T08:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiM2h0dHA6Ly9pdGRhaWx5LmtyL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz05ODkwNdIBAA?oc=5"/>
+        <title>[기고] 2020년 STEM 교육 5대 트렌드 &lt; 기고·강좌 &lt; 기사본문 - IT Daily</title>
+        <content>[기고] 2020년 STEM 교육 5대 트렌드 &lt; 기고·강좌 &lt; 기사본문 IT Daily...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
         <published>2019-10-15T07:00:00.000Z</published>
         <updated>2019-10-15T07:00:00.000Z</updated>
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiJWh0dHBzOi8vd3d3LmV0bmV3cy5jb20vMjAxOTEwMTUwMDAwODDSAQA?oc=5"/>
@@ -1264,20 +1264,6 @@
     </entry>
     <entry>
         <id> </id>
-        <published>2018-11-29T08:00:00.000Z</published>
-        <updated>2018-11-29T08:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LmtpcG9zdC5uZXQvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTEwMjI40gE7aHR0cHM6Ly93d3cua2lwb3N0Lm5ldC9uZXdzL2FydGljbGVWaWV3QW1wLmh0bWw_aWR4bm89MTAyMjg?oc=5"/>
-        <title>NI, '랩뷰NXG 2018' 버전 출시 - KIPOST</title>
-        <content>NI, '랩뷰NXG 2018' 버전 출시 KIPOST...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
         <published>2018-06-07T07:00:00.000Z</published>
         <updated>2018-06-07T07:00:00.000Z</updated>
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LmRhdGFuZXQuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTEyMzQ3OdIBAA?oc=5"/>
@@ -1395,6 +1381,20 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAxNDEyMjMxNjU1MDDSAQA?oc=5"/>
         <title>MATLAB 자격증 국내 첫 합격자 배출 - ZD넷 코리아</title>
         <content>MATLAB 자격증 국내 첫 합격자 배출 ZD넷 코리아...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2014-05-29T07:00:00.000Z</published>
+        <updated>2014-05-29T07:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiM2h0dHA6Ly9pdGRhaWx5LmtyL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz01MjQwMdIBAA?oc=5"/>
+        <title>매스웍스, '매트랩'에 혼합 정수 선형 계획법 추가 - IT Daily</title>
+        <content>매스웍스, '매트랩'에 혼합 정수 선형 계획법 추가 IT Daily...</content>
         <author>
             <name> </name>
             <uri> </uri>
