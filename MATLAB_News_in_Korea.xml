@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlIns="http://www.w3.org/2005/Atom" xml_lang="en-US">
     <title>MATLAB_News_in_Korea</title>
-    <updated>Thu, 06 Jul 2023 05:12:18 +0000</updated>
+    <updated>Thu, 06 Jul 2023 06:16:04 +0000</updated>
     <entry>
         <id> </id>
         <published>2023-06-04T07:00:00.000Z</published>
@@ -60,11 +60,11 @@
     </entry>
     <entry>
         <id> </id>
-        <published>2023-05-26T08:22:50.000Z</published>
-        <updated>2023-05-26T08:22:50.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOWh0dHA6Ly9tLm5ld3N0YXAuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTE5NDkxONIBAA?oc=5"/>
-        <title>'매트랩'을 통한 건전성 예측 관리로 유지보수는 물론 기회비용까지 ... - 뉴스탭</title>
-        <content>'매트랩'을 통한 건전성 예측 관리로 유지보수는 물론 기회비용까지 ... 뉴스탭...</content>
+        <published>2023-05-26T07:00:00.000Z</published>
+        <updated>2023-05-26T07:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiO2h0dHA6Ly93d3cubmV3c3RhcC5jby5rci9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MTk0OTE40gEA?oc=5"/>
+        <title>‘매트랩’을 통한 건전성 예측 관리로 유지보수는 물론 기회비용까지 ... - 뉴스탭</title>
+        <content>‘매트랩’을 통한 건전성 예측 관리로 유지보수는 물론 기회비용까지 ... 뉴스탭...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -244,9 +244,9 @@
         <id> </id>
         <published>2023-01-10T08:00:00.000Z</published>
         <updated>2023-01-10T08:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3Lmhhbmt5dW5nLmNvbS9lY29ub215L2FydGljbGUvMjAyMzAxMTAyNjgyMdIBMmh0dHBzOi8vd3d3Lmhhbmt5dW5nLmNvbS9lY29ub215L2FtcC8yMDIzMDExMDI2ODIx?oc=5"/>
-        <title>폐배터리 배출 급증하는데 전문인력양성 年 15명 불과…대폭 늘려야 - 한국경제</title>
-        <content>&quot;폐배터리 배출 급증하는데 전문인력양성 年 15명 불과…대폭 늘려야&quot; 한국경제...</content>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAyMzAxMTAxMDU5MTfSAQA?oc=5"/>
+        <title>[기고] 현대 무선 시스템 설계 복잡성, AI로 극복한다 - ZD넷 코리아</title>
+        <content>[기고] 현대 무선 시스템 설계 복잡성, AI로 극복한다 ZD넷 코리아...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -258,9 +258,9 @@
         <id> </id>
         <published>2023-01-10T08:00:00.000Z</published>
         <updated>2023-01-10T08:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAyMzAxMTAxMDU5MTfSAQA?oc=5"/>
-        <title>[기고] 현대 무선 시스템 설계 복잡성, AI로 극복한다 - ZD넷 코리아</title>
-        <content>[기고] 현대 무선 시스템 설계 복잡성, AI로 극복한다 ZD넷 코리아...</content>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3Lmhhbmt5dW5nLmNvbS9lY29ub215L2FydGljbGUvMjAyMzAxMTAyNjgyMdIBMmh0dHBzOi8vd3d3Lmhhbmt5dW5nLmNvbS9lY29ub215L2FtcC8yMDIzMDExMDI2ODIx?oc=5"/>
+        <title>폐배터리 배출 급증하는데 전문인력양성 年 15명 불과…대폭 늘려야 - 한국경제</title>
+        <content>&quot;폐배터리 배출 급증하는데 전문인력양성 年 15명 불과…대폭 늘려야&quot; 한국경제...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -340,6 +340,20 @@
     </entry>
     <entry>
         <id> </id>
+        <published>2022-11-16T08:00:00.000Z</published>
+        <updated>2022-11-16T08:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LmFpdGltZXMua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTI2NTI00gEA?oc=5"/>
+        <title>AMD, 우주 인공지능 애플리케이션 위한 방사선 내성 '버설 AI 코어' 美 ... - 인공지능신문</title>
+        <content>AMD, 우주 인공지능 애플리케이션 위한 방사선 내성 '버설 AI 코어' 美 ... 인공지능신문...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
         <published>2022-10-20T07:00:00.000Z</published>
         <updated>2022-10-20T07:00:00.000Z</updated>
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmFpdGltZXMuY29tL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz0xNDc0MznSAQA?oc=5"/>
@@ -359,20 +373,6 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LmRhdGFuZXQuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTE3NjI5NtIBAA?oc=5"/>
         <title>매스웍스 '매트랩', 한국형 코로나19 대응 전략 위한 수리모델링 제공 - 데이터넷</title>
         <content>매스웍스 '매트랩', 한국형 코로나19 대응 전략 위한 수리모델링 제공 데이터넷...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
-        <published>2022-08-23T07:00:00.000Z</published>
-        <updated>2022-08-23T07:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiJ2h0dHBzOi8vYnlsaW5lLm5ldHdvcmsvMjAyMi8wOC8wODIzLTAyL9IBAA?oc=5"/>
-        <title>상반기 중소 SW 기업 실적 어땠나…투자 여파로 찌뿌둥 - 바이라인네트워크</title>
-        <content>상반기 중소 SW 기업 실적 어땠나…투자 여파로 찌뿌둥 바이라인네트워크...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -1124,20 +1124,6 @@
     </entry>
     <entry>
         <id> </id>
-        <published>2019-12-15T08:00:00.000Z</published>
-        <updated>2019-12-15T08:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiM2h0dHA6Ly9pdGRhaWx5LmtyL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz05ODkwNdIBAA?oc=5"/>
-        <title>[기고] 2020년 STEM 교육 5대 트렌드 &lt; 기고·강좌 &lt; 기사본문 - IT Daily</title>
-        <content>[기고] 2020년 STEM 교육 5대 트렌드 &lt; 기고·강좌 &lt; 기사본문 IT Daily...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
         <published>2019-10-15T07:00:00.000Z</published>
         <updated>2019-10-15T07:00:00.000Z</updated>
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiJWh0dHBzOi8vd3d3LmV0bmV3cy5jb20vMjAxOTEwMTUwMDAwODDSAQA?oc=5"/>
@@ -1255,6 +1241,20 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiM2h0dHA6Ly9pdGRhaWx5LmtyL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz05MjQ5NdIBAA?oc=5"/>
         <title>[인터뷰] “임베디드 SW 개발 프로세스, MBD로 혁신하라” - IT Daily</title>
         <content>[인터뷰] “임베디드 SW 개발 프로세스, MBD로 혁신하라” IT Daily...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2018-11-29T08:00:00.000Z</published>
+        <updated>2018-11-29T08:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LmtpcG9zdC5uZXQvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTEwMjI40gE7aHR0cHM6Ly93d3cua2lwb3N0Lm5ldC9uZXdzL2FydGljbGVWaWV3QW1wLmh0bWw_aWR4bm89MTAyMjg?oc=5"/>
+        <title>NI, '랩뷰NXG 2018' 버전 출시 - KIPOST</title>
+        <content>NI, '랩뷰NXG 2018' 버전 출시 KIPOST...</content>
         <author>
             <name> </name>
             <uri> </uri>
