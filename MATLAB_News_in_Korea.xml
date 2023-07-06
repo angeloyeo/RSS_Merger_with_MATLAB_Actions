@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlIns="http://www.w3.org/2005/Atom" xml_lang="en-US">
     <title>MATLAB_News_in_Korea</title>
-    <updated>Thu, 06 Jul 2023 08:16:34 +0000</updated>
+    <updated>Thu, 06 Jul 2023 09:11:45 +0000</updated>
     <entry>
         <id> </id>
         <published>2023-06-04T07:00:00.000Z</published>
@@ -60,11 +60,11 @@
     </entry>
     <entry>
         <id> </id>
-        <published>2023-05-26T07:00:00.000Z</published>
-        <updated>2023-05-26T07:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiO2h0dHA6Ly93d3cubmV3c3RhcC5jby5rci9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MTk0OTE40gEA?oc=5"/>
-        <title>‘매트랩’을 통한 건전성 예측 관리로 유지보수는 물론 기회비용까지 ... - 뉴스탭</title>
-        <content>‘매트랩’을 통한 건전성 예측 관리로 유지보수는 물론 기회비용까지 ... 뉴스탭...</content>
+        <published>2023-05-26T08:22:50.000Z</published>
+        <updated>2023-05-26T08:22:50.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOWh0dHA6Ly9tLm5ld3N0YXAuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTE5NDkxONIBAA?oc=5"/>
+        <title>'매트랩'을 통한 건전성 예측 관리로 유지보수는 물론 기회비용까지 ... - 뉴스탭</title>
+        <content>'매트랩'을 통한 건전성 예측 관리로 유지보수는 물론 기회비용까지 ... 뉴스탭...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -230,9 +230,9 @@
         <id> </id>
         <published>2023-01-16T08:00:00.000Z</published>
         <updated>2023-01-16T08:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOWh0dHA6Ly9tLm5ld3N0YXAuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTE4NDEyNtIBAA?oc=5"/>
-        <title>매스웍스, 후버수너(HUBER+SUHNER)에 매트랩(MATLAB) 공급해 ... - 뉴스탭</title>
-        <content>매스웍스, 후버수너(HUBER+SUHNER)에 매트랩(MATLAB) 공급해 ... 뉴스탭...</content>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAyMzAxMTYxNDI5MDDSAQA?oc=5"/>
+        <title>매스웍스, 후버수너에 매트랩 공급...케이블 제조 최적화 - ZD넷 코리아</title>
+        <content>매스웍스, 후버수너에 매트랩 공급...케이블 제조 최적화 ZD넷 코리아...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -261,20 +261,6 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3Lmhhbmt5dW5nLmNvbS9lY29ub215L2FydGljbGUvMjAyMzAxMTAyNjgyMdIBMmh0dHBzOi8vd3d3Lmhhbmt5dW5nLmNvbS9lY29ub215L2FtcC8yMDIzMDExMDI2ODIx?oc=5"/>
         <title>폐배터리 배출 급증하는데 전문인력양성 年 15명 불과…대폭 늘려야 - 한국경제</title>
         <content>&quot;폐배터리 배출 급증하는데 전문인력양성 年 15명 불과…대폭 늘려야&quot; 한국경제...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
-        <published>2022-12-19T08:00:00.000Z</published>
-        <updated>2022-12-19T08:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LmFpdGltZXMua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTI2ODQ00gEA?oc=5"/>
-        <title>매스웍스 시뮬링크, 인피니언 새로운 자동차MCU 제품군 지원 ... - 인공지능신문</title>
-        <content>매스웍스 시뮬링크, 인피니언 새로운 자동차MCU 제품군 지원 ... 인공지능신문...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -345,6 +331,20 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAyMjExMjgxNjM4MTLSAQA?oc=5"/>
         <title>매스웍스, 2022 세종 AI 챌린지 후원 - ZD넷 코리아</title>
         <content>매스웍스, 2022 세종 AI 챌린지 후원 ZD넷 코리아...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2022-11-16T08:00:00.000Z</published>
+        <updated>2022-11-16T08:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LmFpdGltZXMua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTI2NTI00gEA?oc=5"/>
+        <title>AMD, 우주 인공지능 애플리케이션 위한 방사선 내성 '버설 AI 코어' 美 ... - 인공지능신문</title>
+        <content>AMD, 우주 인공지능 애플리케이션 위한 방사선 내성 '버설 AI 코어' 美 ... 인공지능신문...</content>
         <author>
             <name> </name>
             <uri> </uri>
