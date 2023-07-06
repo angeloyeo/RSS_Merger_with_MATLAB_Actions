@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlIns="http://www.w3.org/2005/Atom" xml_lang="en-US">
     <title>MATLAB_Blogs_in_Korea</title>
-    <updated>Wed, 05 Jul 2023 23:11:41 +0000</updated>
+    <updated>Thu, 06 Jul 2023 01:03:14 +0000</updated>
+    <entry>
+        <id> </id>
+        <published>2023-07-06T00:00:00.000Z</published>
+        <updated>2023-07-06T00:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://matlabtutorial.github.io/customize_polyfit.html"/>
+        <title>(번역) polyfit 함수에 손을 대서 실행 속도 업 (주의-리스크 있음)</title>
+        <content>본 포스트의 원문은 아래의 URL에서 확인하실 수 있습니다. 본 포스트는 원작자에게 동의를 구한 뒤 한국어로 번역하였습니다.
+
+【MATLAB】polyfit 関数に手を加えて実行速度ア...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
     <entry>
         <id> </id>
         <published>2023-07-05T00:00:00.000Z</published>
@@ -220,22 +236,6 @@ colorbar
         <link rel="alternate" type="text/html" href="https://matlabtutorial.github.io/numbering_01.html"/>
         <title>1, 2, 3 대신 01, 02, 03으로 숫자 쓰는 법</title>
         <content>넘버링을 하다보면 가끔 1, 2, 3 대신 01, 02, 03 등과 같이 앞에 0을 채워야 할 때가 있다. 가령, 피험자를 정렬할 때 Subject1, Subject 2, … 와 ...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
-        <published>2023-05-21T00:00:00.000Z</published>
-        <updated>2023-05-21T00:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://matlabtutorial.github.io/data_brushing_and_data_linking.html"/>
-        <title>데이터 브러싱과 데이터 링킹</title>
-        <content>Data Brushing
-
-브러싱(brushing)은 MATLAB의 그래픽스 기능 중 아주 유용한 기능이지만 소외 받고 있는 기능이라는 생각이 들어 여기서 짧게나마 공유해보고자 한...</content>
         <author>
             <name> </name>
             <uri> </uri>
