@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlIns="http://www.w3.org/2005/Atom" xml_lang="en-US">
     <title>MATLAB_Blogs_in_Korea</title>
-    <updated>Fri, 07 Jul 2023 01:03:07 +0000</updated>
+    <updated>Fri, 07 Jul 2023 02:54:16 +0000</updated>
+    <entry>
+        <id> </id>
+        <published>2023-07-07T00:00:00.000Z</published>
+        <updated>2023-07-07T00:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://matlabtutorial.github.io/how_to_control_width_of_excel_columns.html"/>
+        <title>(번역) Excel 파일의 셀 폭 자동 조정</title>
+        <content>본 포스트의 원문은 아래의 URL에서 확인하실 수 있습니다. 본 포스트는 원작자에게 동의를 구한 뒤 한국어로 번역하였습니다.
+
+【MATLAB】Excel ファイルのセル幅自動調整
+
+수...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
     <entry>
         <id> </id>
         <published>2023-07-06T00:00:00.000Z</published>
@@ -222,20 +240,6 @@ scatter(1:10,1:10,100,1:10,'filled')
 colorbar
 
 % direc...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
-        <published>2023-05-22T00:00:00.000Z</published>
-        <updated>2023-05-22T00:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://matlabtutorial.github.io/numbering_01.html"/>
-        <title>1, 2, 3 대신 01, 02, 03으로 숫자 쓰는 법</title>
-        <content>넘버링을 하다보면 가끔 1, 2, 3 대신 01, 02, 03 등과 같이 앞에 0을 채워야 할 때가 있다. 가령, 피험자를 정렬할 때 Subject1, Subject 2, … 와 ...</content>
         <author>
             <name> </name>
             <uri> </uri>
