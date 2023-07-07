@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlIns="http://www.w3.org/2005/Atom" xml_lang="en-US">
     <title>MATLAB_News_in_Korea</title>
-    <updated>Fri, 07 Jul 2023 15:12:22 +0000</updated>
+    <updated>Fri, 07 Jul 2023 23:11:09 +0000</updated>
     <entry>
         <id> </id>
         <published>2023-06-04T07:00:00.000Z</published>
@@ -331,6 +331,20 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3Lml0d29ybGQuY28ua3IvdGFncy82MTYyMi8lRUIlOEQlQjAlRUIlQjglOEMlRUMlOTglQjUlRUMlOEElQTQvMjY3MzUx0gEA?oc=5"/>
         <title>'모델옵스'가 예방할 수 있는 ML 모델의 '패착' 5가지 - ITWorld Korea</title>
         <content>'모델옵스'가 예방할 수 있는 ML 모델의 '패착' 5가지 ITWorld Korea...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2022-11-28T08:00:00.000Z</published>
+        <updated>2022-11-28T08:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAyMjExMjgxNjM4MTLSAQA?oc=5"/>
+        <title>매스웍스, 2022 세종 AI 챌린지 후원 - ZD넷 코리아</title>
+        <content>매스웍스, 2022 세종 AI 챌린지 후원 ZD넷 코리아...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -676,20 +690,6 @@
     </entry>
     <entry>
         <id> </id>
-        <published>2021-11-02T07:00:00.000Z</published>
-        <updated>2021-11-02T07:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiHWh0dHBzOi8vaWNud2ViLmtyLzIwMjEvNDkwMTcv0gEA?oc=5"/>
-        <title>자율주행차와 커넥티드카 아키텍처 개발을 위한 3가지 과제 - 아이씨엔매거진</title>
-        <content>자율주행차와 커넥티드카 아키텍처 개발을 위한 3가지 과제 아이씨엔매거진...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
         <published>2021-10-18T07:00:00.000Z</published>
         <updated>2021-10-18T07:00:00.000Z</updated>
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LmRhdGFuZXQuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTE2NTQ2MNIBAA?oc=5"/>
@@ -751,20 +751,6 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAyMTA5MTkwNTE2MjXSAQA?oc=5"/>
         <title>자율주행 AI인재, 매트랩·시뮬링크로 키운다 - ZD넷 코리아</title>
         <content>자율주행 AI인재, 매트랩·시뮬링크로 키운다 ZD넷 코리아...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
-        <published>2021-08-02T07:00:00.000Z</published>
-        <updated>2021-08-02T07:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiJGh0dHBzOi8vd3d3LmNpb2tvcmVhLmNvbS9uZXdzLzIwMzMxNNIBAA?oc=5"/>
-        <title>널리 세상을 '클라우드'하다··· SaaS 기업 27선 - CIO Korea</title>
-        <content>널리 세상을 '클라우드'하다··· SaaS 기업 27선 CIO Korea...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -1367,6 +1353,20 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vd3d3LmRvbmdhc2NpZW5jZS5jb20vbmV3cy5waHA_aWR4PTE2MTY00gEA?oc=5"/>
         <title>[주목! e스타트업] 공학 소프트웨어도 클라우드 시대 '셈웨어' - 동아사이언스</title>
         <content>[주목! e스타트업] 공학 소프트웨어도 클라우드 시대 '셈웨어' 동아사이언스...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2015-12-22T08:00:00.000Z</published>
+        <updated>2015-12-22T08:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3Lml0LWIuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTc4ODjSAQA?oc=5"/>
+        <title>매스웍스, 매트랩·시뮬링크 제품군 활용사례 논문 공모 - 아이티비즈</title>
+        <content>매스웍스, 매트랩·시뮬링크 제품군 활용사례 논문 공모 아이티비즈...</content>
         <author>
             <name> </name>
             <uri> </uri>
