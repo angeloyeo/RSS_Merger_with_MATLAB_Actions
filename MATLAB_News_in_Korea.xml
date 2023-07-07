@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlIns="http://www.w3.org/2005/Atom" xml_lang="en-US">
     <title>MATLAB_News_in_Korea</title>
-    <updated>Fri, 07 Jul 2023 14:11:09 +0000</updated>
+    <updated>Fri, 07 Jul 2023 15:12:22 +0000</updated>
     <entry>
         <id> </id>
         <published>2023-06-04T07:00:00.000Z</published>
@@ -326,11 +326,11 @@
     </entry>
     <entry>
         <id> </id>
-        <published>2022-11-28T08:00:00.000Z</published>
-        <updated>2022-11-28T08:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAyMjExMjgxNjM4MTLSAQA?oc=5"/>
-        <title>매스웍스, 2022 세종 AI 챌린지 후원 - ZD넷 코리아</title>
-        <content>매스웍스, 2022 세종 AI 챌린지 후원 ZD넷 코리아...</content>
+        <published>2022-12-01T08:00:00.000Z</published>
+        <updated>2022-12-01T08:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3Lml0d29ybGQuY28ua3IvdGFncy82MTYyMi8lRUIlOEQlQjAlRUIlQjglOEMlRUMlOTglQjUlRUMlOEElQTQvMjY3MzUx0gEA?oc=5"/>
+        <title>'모델옵스'가 예방할 수 있는 ML 모델의 '패착' 5가지 - ITWorld Korea</title>
+        <content>'모델옵스'가 예방할 수 있는 ML 모델의 '패착' 5가지 ITWorld Korea...</content>
         <author>
             <name> </name>
             <uri> </uri>
