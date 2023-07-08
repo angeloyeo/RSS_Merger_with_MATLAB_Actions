@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlIns="http://www.w3.org/2005/Atom" xml_lang="en-US">
     <title>MATLAB_Blogs_in_Korea</title>
-    <updated>Sat, 08 Jul 2023 13:21:47 +0000</updated>
+    <updated>Sat, 08 Jul 2023 15:17:51 +0000</updated>
     <entry>
         <id> </id>
         <published>2023-07-07T00:00:00.000Z</published>
@@ -390,11 +390,7 @@ disp(&quot;say he...</content>
 
 후... 힘들었습니다.
 
-- 게으른
-
-'python' 카테고리의 다른 글
-
-0.1+0.2-0.3은 왜 0이 아닐까? (0)  ...</content>
+- 게으른...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -408,13 +404,7 @@ disp(&quot;say he...</content>
         <updated>2023-03-26T23:52:39.000Z</updated>
         <link rel="alternate" type="text/html" href="https://lazymatlab.tistory.com/207"/>
         <title>0.1+0.2-0.3은 왜 0이 아닐까?</title>
-        <content>'python' 카테고리의 다른 글
-
-파이썬 정규식 (6)  2023.03.31  
-
-파이썬 idle의 환경설정을 옮기기 (0)  2023.02.24  
-
-왜 리스트 컴프리헨션에 ...</content>
+        <content>...</content>
         <author>
             <name> </name>
             <uri> </uri>

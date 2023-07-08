@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlIns="http://www.w3.org/2005/Atom" xml_lang="en-US">
     <title>MATLAB_News_in_Korea</title>
-    <updated>Sat, 08 Jul 2023 13:21:51 +0000</updated>
+    <updated>Sat, 08 Jul 2023 15:17:56 +0000</updated>
     <entry>
         <id> </id>
         <published>2023-06-04T07:00:00.000Z</published>
@@ -174,6 +174,20 @@
         <id> </id>
         <published>2023-03-21T07:00:00.000Z</published>
         <updated>2023-03-21T07:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3LmdyZWVuZWQua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTMwMTkwOdIBAA?oc=5"/>
+        <title>[산업 이모저모]기아차... 중국 전기차 시장 본격진출 선언 - 녹색경제신문</title>
+        <content>[산업 이모저모]기아차... 중국 전기차 시장 본격진출 선언 녹색경제신문...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2023-03-21T07:00:00.000Z</published>
+        <updated>2023-03-21T07:00:00.000Z</updated>
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LmFpdGltZXMua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTI3NjEy0gEA?oc=5"/>
         <title>매스웍스,코드 동적 테스트 및 모델 기반 설계 단순화 등 매트랩 및 ... - 인공지능신문</title>
         <content>매스웍스,코드 동적 테스트 및 모델 기반 설계 단순화 등 매트랩 및 ... 인공지능신문...</content>
@@ -230,9 +244,9 @@
         <id> </id>
         <published>2023-01-16T08:00:00.000Z</published>
         <updated>2023-01-16T08:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOWh0dHA6Ly9tLm5ld3N0YXAuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTE4NDEyNtIBAA?oc=5"/>
-        <title>매스웍스, 후버수너(HUBER+SUHNER)에 매트랩(MATLAB) 공급해 ... - 뉴스탭</title>
-        <content>매스웍스, 후버수너(HUBER+SUHNER)에 매트랩(MATLAB) 공급해 ... 뉴스탭...</content>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAyMzAxMTYxNDI5MDDSAQA?oc=5"/>
+        <title>매스웍스, 후버수너에 매트랩 공급...케이블 제조 최적화 - ZD넷 코리아</title>
+        <content>매스웍스, 후버수너에 매트랩 공급...케이블 제조 최적화 ZD넷 코리아...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -261,6 +275,20 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3Lmhhbmt5dW5nLmNvbS9lY29ub215L2FydGljbGUvMjAyMzAxMTAyNjgyMdIBMmh0dHBzOi8vd3d3Lmhhbmt5dW5nLmNvbS9lY29ub215L2FtcC8yMDIzMDExMDI2ODIx?oc=5"/>
         <title>폐배터리 배출 급증하는데 전문인력양성 年 15명 불과…대폭 늘려야 - 한국경제</title>
         <content>&quot;폐배터리 배출 급증하는데 전문인력양성 年 15명 불과…대폭 늘려야&quot; 한국경제...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2022-12-19T08:00:00.000Z</published>
+        <updated>2022-12-19T08:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LmFpdGltZXMua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTI2ODQ00gEA?oc=5"/>
+        <title>매스웍스 시뮬링크, 인피니언 새로운 자동차MCU 제품군 지원 ... - 인공지능신문</title>
+        <content>매스웍스 시뮬링크, 인피니언 새로운 자동차MCU 제품군 지원 ... 인공지능신문...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -303,6 +331,34 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LmFpdGltZXMua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTI2NzQ40gEA?oc=5"/>
         <title>'MATLAB 대학생 AI 경진대회 2022' 개최...가천대 토커팀, '딥러닝 활용 ... - 인공지능신문</title>
         <content>'MATLAB 대학생 AI 경진대회 2022' 개최...가천대 토커팀, '딥러닝 활용 ... 인공지능신문...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2022-12-01T08:00:00.000Z</published>
+        <updated>2022-12-01T08:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3Lml0d29ybGQuY28ua3IvdGFncy82MTYyMi8lRUIlOEQlQjAlRUIlQjglOEMlRUMlOTglQjUlRUMlOEElQTQvMjY3MzUx0gEA?oc=5"/>
+        <title>'모델옵스'가 예방할 수 있는 ML 모델의 '패착' 5가지 - ITWorld Korea</title>
+        <content>'모델옵스'가 예방할 수 있는 ML 모델의 '패착' 5가지 ITWorld Korea...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2022-11-28T08:00:00.000Z</published>
+        <updated>2022-11-28T08:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAyMjExMjgxNjM4MTLSAQA?oc=5"/>
+        <title>매스웍스, 2022 세종 AI 챌린지 후원 - ZD넷 코리아</title>
+        <content>매스웍스, 2022 세종 AI 챌린지 후원 ZD넷 코리아...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -648,20 +704,6 @@
     </entry>
     <entry>
         <id> </id>
-        <published>2021-11-02T07:00:00.000Z</published>
-        <updated>2021-11-02T07:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiHWh0dHBzOi8vaWNud2ViLmtyLzIwMjEvNDkwMTcv0gEA?oc=5"/>
-        <title>자율주행차와 커넥티드카 아키텍처 개발을 위한 3가지 과제 - 아이씨엔매거진</title>
-        <content>자율주행차와 커넥티드카 아키텍처 개발을 위한 3가지 과제 아이씨엔매거진...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
         <published>2021-10-18T07:00:00.000Z</published>
         <updated>2021-10-18T07:00:00.000Z</updated>
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LmRhdGFuZXQuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTE2NTQ2MNIBAA?oc=5"/>
@@ -723,20 +765,6 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAyMTA5MTkwNTE2MjXSAQA?oc=5"/>
         <title>자율주행 AI인재, 매트랩·시뮬링크로 키운다 - ZD넷 코리아</title>
         <content>자율주행 AI인재, 매트랩·시뮬링크로 키운다 ZD넷 코리아...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
-        <published>2021-08-02T07:00:00.000Z</published>
-        <updated>2021-08-02T07:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiJGh0dHBzOi8vd3d3LmNpb2tvcmVhLmNvbS9uZXdzLzIwMzMxNNIBAA?oc=5"/>
-        <title>널리 세상을 '클라우드'하다··· SaaS 기업 27선 - CIO Korea</title>
-        <content>널리 세상을 '클라우드'하다··· SaaS 기업 27선 CIO Korea...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -821,20 +849,6 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmFpdGltZXMuY29tL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz0xMzg3MTDSAQA?oc=5"/>
         <title>LG에너지솔루션, 배터리 전극 절단 공정에 AI 기술 적용...커터 수명 ... - AI타임스</title>
         <content>LG에너지솔루션, 배터리 전극 절단 공정에 AI 기술 적용...커터 수명 ... AI타임스...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
-        <published>2021-04-17T07:00:00.000Z</published>
-        <updated>2021-04-17T07:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmFpdGltZXMuY29tL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz0xMzc5OTnSAQA?oc=5"/>
-        <title>2021년 최고의 머신러닝 플랫폼 TOP 10 &lt; 리스티클 &lt; 포커스 &lt; 기사 ... - AI타임스</title>
-        <content>2021년 최고의 머신러닝 플랫폼 TOP 10 &lt; 리스티클 &lt; 포커스 &lt; 기사 ... AI타임스...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -1227,20 +1241,6 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiM2h0dHA6Ly9pdGRhaWx5LmtyL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz05MjQ5NdIBAA?oc=5"/>
         <title>[인터뷰] “임베디드 SW 개발 프로세스, MBD로 혁신하라” - IT Daily</title>
         <content>[인터뷰] “임베디드 SW 개발 프로세스, MBD로 혁신하라” IT Daily...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
-        <published>2018-11-29T08:00:00.000Z</published>
-        <updated>2018-11-29T08:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LmtpcG9zdC5uZXQvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTEwMjI40gE7aHR0cHM6Ly93d3cua2lwb3N0Lm5ldC9uZXdzL2FydGljbGVWaWV3QW1wLmh0bWw_aWR4bm89MTAyMjg?oc=5"/>
-        <title>NI, '랩뷰NXG 2018' 버전 출시 - KIPOST</title>
-        <content>NI, '랩뷰NXG 2018' 버전 출시 KIPOST...</content>
         <author>
             <name> </name>
             <uri> </uri>
