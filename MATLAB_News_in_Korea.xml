@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlIns="http://www.w3.org/2005/Atom" xml_lang="en-US">
     <title>MATLAB_News_in_Korea</title>
-    <updated>Sun, 09 Jul 2023 13:22:15 +0000</updated>
+    <updated>Sun, 09 Jul 2023 15:17:54 +0000</updated>
     <entry>
         <id> </id>
         <published>2023-06-04T07:00:00.000Z</published>
@@ -242,11 +242,25 @@
     </entry>
     <entry>
         <id> </id>
+        <published>2023-01-18T08:00:00.000Z</published>
+        <updated>2023-01-18T08:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiKGh0dHBzOi8vYnlsaW5lLm5ldHdvcmsvMjAyMy8wMS8wMTEwOF8wMS_SAQA?oc=5"/>
+        <title>공공SW 사업 대기업 참여제한 10년...“효과 분석 부족해” - 바이라인네트워크</title>
+        <content>공공SW 사업 대기업 참여제한 10년...“효과 분석 부족해” 바이라인네트워크...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
         <published>2023-01-16T08:00:00.000Z</published>
         <updated>2023-01-16T08:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAyMzAxMTYxNDI5MDDSAQA?oc=5"/>
-        <title>매스웍스, 후버수너에 매트랩 공급...케이블 제조 최적화 - ZD넷 코리아</title>
-        <content>매스웍스, 후버수너에 매트랩 공급...케이블 제조 최적화 ZD넷 코리아...</content>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOWh0dHA6Ly9tLm5ld3N0YXAuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTE4NDEyNtIBAA?oc=5"/>
+        <title>매스웍스, 후버수너(HUBER+SUHNER)에 매트랩(MATLAB) 공급해 ... - 뉴스탭</title>
+        <content>매스웍스, 후버수너(HUBER+SUHNER)에 매트랩(MATLAB) 공급해 ... 뉴스탭...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -275,20 +289,6 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3Lmhhbmt5dW5nLmNvbS9lY29ub215L2FydGljbGUvMjAyMzAxMTAyNjgyMdIBMmh0dHBzOi8vd3d3Lmhhbmt5dW5nLmNvbS9lY29ub215L2FtcC8yMDIzMDExMDI2ODIx?oc=5"/>
         <title>폐배터리 배출 급증하는데 전문인력양성 年 15명 불과…대폭 늘려야 - 한국경제</title>
         <content>&quot;폐배터리 배출 급증하는데 전문인력양성 年 15명 불과…대폭 늘려야&quot; 한국경제...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
-        <published>2022-12-19T08:00:00.000Z</published>
-        <updated>2022-12-19T08:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LmFpdGltZXMua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTI2ODQ00gEA?oc=5"/>
-        <title>매스웍스 시뮬링크, 인피니언 새로운 자동차MCU 제품군 지원 ... - 인공지능신문</title>
-        <content>매스웍스 시뮬링크, 인피니언 새로운 자동차MCU 제품군 지원 ... 인공지능신문...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -340,6 +340,20 @@
     </entry>
     <entry>
         <id> </id>
+        <published>2022-11-28T08:00:00.000Z</published>
+        <updated>2022-11-28T08:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3Lml0LWIuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTY0NDM50gEA?oc=5"/>
+        <title>매스웍스코리아, '2022 세종 AI 챌린지' 후원 - 아이티비즈</title>
+        <content>매스웍스코리아, '2022 세종 AI 챌린지' 후원 아이티비즈...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
         <published>2022-10-20T07:00:00.000Z</published>
         <updated>2022-10-20T07:00:00.000Z</updated>
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmFpdGltZXMuY29tL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz0xNDc0MznSAQA?oc=5"/>
@@ -382,11 +396,11 @@
     </entry>
     <entry>
         <id> </id>
-        <published>2022-08-05T07:00:00.000Z</published>
-        <updated>2022-08-05T07:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOGh0dHA6Ly93d3cuY2h1bS1kYW4ubmV0L25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz02MTU20gEA?oc=5"/>
-        <title>GIST 프레스 발간 2권 '대한민국학술원 우수학술도서' 선정 - 첨단넷</title>
-        <content>GIST 프레스 발간 2권 '대한민국학술원 우수학술도서' 선정 첨단넷...</content>
+        <published>2022-08-04T07:00:00.000Z</published>
+        <updated>2022-08-04T07:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vbW9iaWxlLm5ld3Npcy5jb20vdmlldy5odG1sP2FyX2lkPU5JU1gyMDIyMDgwNF8wMDAxOTY3NDU30gFFaHR0cHM6Ly9tb2JpbGUubmV3c2lzLmNvbS92aWV3X2FtcC5odG1sP2FyX2lkPU5JU1gyMDIyMDgwNF8wMDAxOTY3NDU3?oc=5"/>
+        <title>광주과기원 발간 자연·사회과학 책 2권…'우수학술도서' - 뉴시스</title>
+        <content>광주과기원 발간 자연·사회과학 책 2권…'우수학술도서' 뉴시스...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -746,20 +760,6 @@
     </entry>
     <entry>
         <id> </id>
-        <published>2021-08-02T07:00:00.000Z</published>
-        <updated>2021-08-02T07:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiJGh0dHBzOi8vd3d3LmNpb2tvcmVhLmNvbS9uZXdzLzIwMzMxNNIBAA?oc=5"/>
-        <title>널리 세상을 '클라우드'하다··· SaaS 기업 27선 - CIO Korea</title>
-        <content>널리 세상을 '클라우드'하다··· SaaS 기업 27선 CIO Korea...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
         <published>2021-07-28T07:00:00.000Z</published>
         <updated>2021-07-28T07:00:00.000Z</updated>
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LmtvaXQuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTg3Mjcy0gE6aHR0cDovL3d3dy5rb2l0LmNvLmtyL25ld3MvYXJ0aWNsZVZpZXdBbXAuaHRtbD9pZHhubz04NzI3Mg?oc=5"/>
@@ -793,6 +793,20 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LmtvaXQuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTg2NTEz0gE6aHR0cDovL3d3dy5rb2l0LmNvLmtyL25ld3MvYXJ0aWNsZVZpZXdBbXAuaHRtbD9pZHhubz04NjUxMw?oc=5"/>
         <title>지스트, 계산전자공학 쉽게 기술한 입문서 출간 - 정보통신신문</title>
         <content>지스트, 계산전자공학 쉽게 기술한 입문서 출간 정보통신신문...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2021-06-09T07:00:00.000Z</published>
+        <updated>2021-06-09T07:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vbmV3cy51bm4ubmV0L25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz01MTAyNzfSAQA?oc=5"/>
+        <title>인천대, ‘매트랩 Cody 챌린지 2021’ 시상식 개최 &lt; 대학뉴스 &lt; 뉴스 ... - 한국대학신문</title>
+        <content>인천대, ‘매트랩 Cody 챌린지 2021’ 시상식 개최 &lt; 대학뉴스 &lt; 뉴스 ... 한국대학신문...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -1185,20 +1199,6 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiJWh0dHBzOi8vd3d3LmV0bmV3cy5jb20vMjAxOTA3MTkwMDAyMjXSAQA?oc=5"/>
         <title>영화 속 색채 이미지, AI로 분석해 관객 심리까지 파악 - 전자신문</title>
         <content>&quot;영화 속 색채 이미지, AI로 분석해 관객 심리까지 파악&quot; 전자신문...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
-        <published>2019-06-17T07:00:00.000Z</published>
-        <updated>2019-06-17T07:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiN2h0dHA6Ly93d3cuZXBuYy5jby5rci9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89OTA4MTPSAQA?oc=5"/>
-        <title>매스웍스, 'MATLAB'을 활용한 딥러닝-강화학습 세미나 개최 - 테크월드 뉴스</title>
-        <content>매스웍스, 'MATLAB'을 활용한 딥러닝-강화학습 세미나 개최 테크월드 뉴스...</content>
         <author>
             <name> </name>
             <uri> </uri>
