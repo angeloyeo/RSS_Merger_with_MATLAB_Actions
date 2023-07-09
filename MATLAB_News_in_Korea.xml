@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlIns="http://www.w3.org/2005/Atom" xml_lang="en-US">
     <title>MATLAB_News_in_Korea</title>
-    <updated>Sun, 09 Jul 2023 11:14:48 +0000</updated>
+    <updated>Sun, 09 Jul 2023 13:22:15 +0000</updated>
     <entry>
         <id> </id>
         <published>2023-06-04T07:00:00.000Z</published>
@@ -275,6 +275,20 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3Lmhhbmt5dW5nLmNvbS9lY29ub215L2FydGljbGUvMjAyMzAxMTAyNjgyMdIBMmh0dHBzOi8vd3d3Lmhhbmt5dW5nLmNvbS9lY29ub215L2FtcC8yMDIzMDExMDI2ODIx?oc=5"/>
         <title>폐배터리 배출 급증하는데 전문인력양성 年 15명 불과…대폭 늘려야 - 한국경제</title>
         <content>&quot;폐배터리 배출 급증하는데 전문인력양성 年 15명 불과…대폭 늘려야&quot; 한국경제...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2022-12-19T08:00:00.000Z</published>
+        <updated>2022-12-19T08:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LmFpdGltZXMua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTI2ODQ00gEA?oc=5"/>
+        <title>매스웍스 시뮬링크, 인피니언 새로운 자동차MCU 제품군 지원 ... - 인공지능신문</title>
+        <content>매스웍스 시뮬링크, 인피니언 새로운 자동차MCU 제품군 지원 ... 인공지능신문...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -653,20 +667,6 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vbS5lZGFpbHkuY28ua3IvbmV3cy9uZXdzcGF0aC5hc3A_bmV3c2lkPUUwMTUwODgwNjYyOTI0NTM5MtIBSGh0dHBzOi8vbS5lZGFpbHkuY28ua3IvYW1wL3JlYWQ_bmV3c0lkPTAxNTA4ODA2NjI5MjQ1MzkyJm1lZGlhQ29kZU5vPTI1Nw?oc=5"/>
         <title>[에이앤랩's IP매뉴얼] 소프트웨어 불법복제 손해배상액, 왜 이렇게 ... - 이데일리</title>
         <content>[에이앤랩's IP매뉴얼] 소프트웨어 불법복제 손해배상액, 왜 이렇게 ... 이데일리...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
-        <published>2021-11-02T07:00:00.000Z</published>
-        <updated>2021-11-02T07:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiHWh0dHBzOi8vaWNud2ViLmtyLzIwMjEvNDkwMTcv0gEA?oc=5"/>
-        <title>자율주행차와 커넥티드카 아키텍처 개발을 위한 3가지 과제 - 아이씨엔매거진</title>
-        <content>자율주행차와 커넥티드카 아키텍처 개발을 위한 3가지 과제 아이씨엔매거진...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -1194,6 +1194,20 @@
     </entry>
     <entry>
         <id> </id>
+        <published>2019-06-17T07:00:00.000Z</published>
+        <updated>2019-06-17T07:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiN2h0dHA6Ly93d3cuZXBuYy5jby5rci9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89OTA4MTPSAQA?oc=5"/>
+        <title>매스웍스, 'MATLAB'을 활용한 딥러닝-강화학습 세미나 개최 - 테크월드 뉴스</title>
+        <content>매스웍스, 'MATLAB'을 활용한 딥러닝-강화학습 세미나 개최 테크월드 뉴스...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
         <published>2019-05-24T07:00:00.000Z</published>
         <updated>2019-05-24T07:00:00.000Z</updated>
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3LnRoZWxlYy5rci9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MTc0NdIBAA?oc=5"/>
@@ -1227,20 +1241,6 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiM2h0dHA6Ly9pdGRhaWx5LmtyL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz05MjQ5NdIBAA?oc=5"/>
         <title>[인터뷰] “임베디드 SW 개발 프로세스, MBD로 혁신하라” - IT Daily</title>
         <content>[인터뷰] “임베디드 SW 개발 프로세스, MBD로 혁신하라” IT Daily...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
-        <published>2018-11-29T08:00:00.000Z</published>
-        <updated>2018-11-29T08:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LmtpcG9zdC5uZXQvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTEwMjI40gE7aHR0cHM6Ly93d3cua2lwb3N0Lm5ldC9uZXdzL2FydGljbGVWaWV3QW1wLmh0bWw_aWR4bm89MTAyMjg?oc=5"/>
-        <title>NI, '랩뷰NXG 2018' 버전 출시 - KIPOST</title>
-        <content>NI, '랩뷰NXG 2018' 버전 출시 KIPOST...</content>
         <author>
             <name> </name>
             <uri> </uri>
