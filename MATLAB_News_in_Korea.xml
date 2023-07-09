@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlIns="http://www.w3.org/2005/Atom" xml_lang="en-US">
     <title>MATLAB_News_in_Korea</title>
-    <updated>Sun, 09 Jul 2023 03:31:02 +0000</updated>
+    <updated>Sun, 09 Jul 2023 05:17:31 +0000</updated>
     <entry>
         <id> </id>
         <published>2023-06-04T07:00:00.000Z</published>
@@ -233,6 +233,20 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAyMzAxMjAxMDU5MzLSAQA?oc=5"/>
         <title>'특집·특급게스트·특별기획'...케이블TV, 설 연휴 볼거리 '풍성' - ZD넷 코리아</title>
         <content>'특집·특급게스트·특별기획'...케이블TV, 설 연휴 볼거리 '풍성' ZD넷 코리아...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2023-01-18T08:00:00.000Z</published>
+        <updated>2023-01-18T08:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiKGh0dHBzOi8vYnlsaW5lLm5ldHdvcmsvMjAyMy8wMS8wMTEwOF8wMS_SAQA?oc=5"/>
+        <title>공공SW 사업 대기업 참여제한 10년...“효과 분석 부족해” - 바이라인네트워크</title>
+        <content>공공SW 사업 대기업 참여제한 10년...“효과 분석 부족해” 바이라인네트워크...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -1185,20 +1199,6 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiJWh0dHBzOi8vd3d3LmV0bmV3cy5jb20vMjAxOTA3MTkwMDAyMjXSAQA?oc=5"/>
         <title>영화 속 색채 이미지, AI로 분석해 관객 심리까지 파악 - 전자신문</title>
         <content>&quot;영화 속 색채 이미지, AI로 분석해 관객 심리까지 파악&quot; 전자신문...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
-        <published>2019-06-17T07:00:00.000Z</published>
-        <updated>2019-06-17T07:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiN2h0dHA6Ly93d3cuZXBuYy5jby5rci9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89OTA4MTPSAQA?oc=5"/>
-        <title>매스웍스, 'MATLAB'을 활용한 딥러닝-강화학습 세미나 개최 - 테크월드 뉴스</title>
-        <content>매스웍스, 'MATLAB'을 활용한 딥러닝-강화학습 세미나 개최 테크월드 뉴스...</content>
         <author>
             <name> </name>
             <uri> </uri>
