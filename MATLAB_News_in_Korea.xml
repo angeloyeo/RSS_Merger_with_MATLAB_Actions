@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlIns="http://www.w3.org/2005/Atom" xml_lang="en-US">
     <title>MATLAB_News_in_Korea</title>
-    <updated>Sun, 09 Jul 2023 23:18:01 +0000</updated>
+    <updated>Mon, 10 Jul 2023 01:00:59 +0000</updated>
     <entry>
         <id> </id>
         <published>2023-06-04T07:00:00.000Z</published>
@@ -298,20 +298,6 @@
     </entry>
     <entry>
         <id> </id>
-        <published>2022-12-19T08:00:00.000Z</published>
-        <updated>2022-12-19T08:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LmFpdGltZXMua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTI2ODQ00gEA?oc=5"/>
-        <title>매스웍스 시뮬링크, 인피니언 새로운 자동차MCU 제품군 지원 ... - 인공지능신문</title>
-        <content>매스웍스 시뮬링크, 인피니언 새로운 자동차MCU 제품군 지원 ... 인공지능신문...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
         <published>2022-12-15T08:00:00.000Z</published>
         <updated>2022-12-15T08:00:00.000Z</updated>
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiLmh0dHBzOi8veW96bS53aXNoa2V0LmNvbS9tYWdhemluZS9kZXRhaWwvMTgyOC_SAQA?oc=5"/>
@@ -410,11 +396,11 @@
     </entry>
     <entry>
         <id> </id>
-        <published>2022-08-05T07:00:00.000Z</published>
-        <updated>2022-08-05T07:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOGh0dHA6Ly93d3cuY2h1bS1kYW4ubmV0L25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz02MTU20gEA?oc=5"/>
-        <title>GIST 프레스 발간 2권 '대한민국학술원 우수학술도서' 선정 - 첨단넷</title>
-        <content>GIST 프레스 발간 2권 '대한민국학술원 우수학술도서' 선정 첨단넷...</content>
+        <published>2022-08-04T07:00:00.000Z</published>
+        <updated>2022-08-04T07:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vbW9iaWxlLm5ld3Npcy5jb20vdmlldy5odG1sP2FyX2lkPU5JU1gyMDIyMDgwNF8wMDAxOTY3NDU30gFFaHR0cHM6Ly9tb2JpbGUubmV3c2lzLmNvbS92aWV3X2FtcC5odG1sP2FyX2lkPU5JU1gyMDIyMDgwNF8wMDAxOTY3NDU3?oc=5"/>
+        <title>광주과기원 발간 자연·사회과학 책 2권…'우수학술도서' - 뉴시스</title>
+        <content>광주과기원 발간 자연·사회과학 책 2권…'우수학술도서' 뉴시스...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -443,6 +429,20 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiJGh0dHBzOi8vd3d3LmNpb2tvcmVhLmNvbS9uZXdzLzI0NDU4NNIBAA?oc=5"/>
         <title>아직도 은퇴 안 하셨어요? 여전히 '건재한' 레거시 기술 12선 - CIO Korea</title>
         <content>아직도 은퇴 안 하셨어요? 여전히 '건재한' 레거시 기술 12선 CIO Korea...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2022-07-01T07:00:00.000Z</published>
+        <updated>2022-07-01T07:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiI2h0dHA6Ly93d3cubWZna3IuY29tL2FyY2hpdmVzLzIwOTgz0gEA?oc=5"/>
+        <title>MFG - MFG Inc</title>
+        <content>MFG MFG Inc...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -858,6 +858,20 @@
     </entry>
     <entry>
         <id> </id>
+        <published>2021-04-17T07:00:00.000Z</published>
+        <updated>2021-04-17T07:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmFpdGltZXMuY29tL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz0xMzc5OTnSAQA?oc=5"/>
+        <title>2021년 최고의 머신러닝 플랫폼 TOP 10 &lt; 리스티클 &lt; 포커스 &lt; 기사 ... - AI타임스</title>
+        <content>2021년 최고의 머신러닝 플랫폼 TOP 10 &lt; 리스티클 &lt; 포커스 &lt; 기사 ... AI타임스...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
         <published>2021-03-25T07:00:00.000Z</published>
         <updated>2021-03-25T07:00:00.000Z</updated>
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3LmVwbmMuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTIwNDIxN9IBAA?oc=5"/>
@@ -1185,20 +1199,6 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiJWh0dHBzOi8vd3d3LmV0bmV3cy5jb20vMjAxOTA3MTkwMDAyMjXSAQA?oc=5"/>
         <title>영화 속 색채 이미지, AI로 분석해 관객 심리까지 파악 - 전자신문</title>
         <content>&quot;영화 속 색채 이미지, AI로 분석해 관객 심리까지 파악&quot; 전자신문...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
-        <published>2019-06-17T07:00:00.000Z</published>
-        <updated>2019-06-17T07:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiN2h0dHA6Ly93d3cuZXBuYy5jby5rci9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89OTA4MTPSAQA?oc=5"/>
-        <title>매스웍스, 'MATLAB'을 활용한 딥러닝-강화학습 세미나 개최 - 테크월드 뉴스</title>
-        <content>매스웍스, 'MATLAB'을 활용한 딥러닝-강화학습 세미나 개최 테크월드 뉴스...</content>
         <author>
             <name> </name>
             <uri> </uri>
