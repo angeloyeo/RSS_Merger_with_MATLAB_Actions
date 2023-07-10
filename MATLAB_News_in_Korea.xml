@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlIns="http://www.w3.org/2005/Atom" xml_lang="en-US">
     <title>MATLAB_News_in_Korea</title>
-    <updated>Mon, 10 Jul 2023 15:12:09 +0000</updated>
+    <updated>Mon, 10 Jul 2023 23:10:59 +0000</updated>
     <entry>
         <id> </id>
         <published>2023-06-04T07:00:00.000Z</published>
@@ -74,11 +74,11 @@
     </entry>
     <entry>
         <id> </id>
-        <published>2023-05-26T07:00:00.000Z</published>
-        <updated>2023-05-26T07:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOWh0dHA6Ly9tLm5ld3N0YXAuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTE5NDkxOdIBAA?oc=5"/>
-        <title>매스웍스코리아, '매트랩 엑스포 2023 코리아'에서 혁신 가속화 플랫폼 ... - 뉴스탭</title>
-        <content>매스웍스코리아, '매트랩 엑스포 2023 코리아'에서 혁신 가속화 플랫폼 ... 뉴스탭...</content>
+        <published>2023-05-24T07:00:00.000Z</published>
+        <updated>2023-05-24T07:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmFpdGltZXMuY29tL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz0xNTEyOTjSAQA?oc=5"/>
+        <title>매스웍스코리아, '매트랩 엑스포' 개최...기술성과 및 인사이트 공유 - AI타임스</title>
+        <content>매스웍스코리아, '매트랩 엑스포' 개최...기술성과 및 인사이트 공유 AI타임스...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -174,6 +174,20 @@
         <id> </id>
         <published>2023-03-21T07:00:00.000Z</published>
         <updated>2023-03-21T07:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3LmdyZWVuZWQua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTMwMTkwOdIBAA?oc=5"/>
+        <title>[산업 이모저모]기아차... 중국 전기차 시장 본격진출 선언 - 녹색경제신문</title>
+        <content>[산업 이모저모]기아차... 중국 전기차 시장 본격진출 선언 녹색경제신문...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2023-03-21T07:00:00.000Z</published>
+        <updated>2023-03-21T07:00:00.000Z</updated>
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LmFpdGltZXMua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTI3NjEy0gEA?oc=5"/>
         <title>매스웍스,코드 동적 테스트 및 모델 기반 설계 단순화 등 매트랩 및 ... - 인공지능신문</title>
         <content>매스웍스,코드 동적 테스트 및 모델 기반 설계 단순화 등 매트랩 및 ... 인공지능신문...</content>
@@ -219,20 +233,6 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAyMzAxMjAxMDU5MzLSAQA?oc=5"/>
         <title>'특집·특급게스트·특별기획'...케이블TV, 설 연휴 볼거리 '풍성' - ZD넷 코리아</title>
         <content>'특집·특급게스트·특별기획'...케이블TV, 설 연휴 볼거리 '풍성' ZD넷 코리아...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
-        <published>2023-01-18T08:00:00.000Z</published>
-        <updated>2023-01-18T08:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiKGh0dHBzOi8vYnlsaW5lLm5ldHdvcmsvMjAyMy8wMS8wMTEwOF8wMS_SAQA?oc=5"/>
-        <title>공공SW 사업 대기업 참여제한 10년...“효과 분석 부족해” - 바이라인네트워크</title>
-        <content>공공SW 사업 대기업 참여제한 10년...“효과 분석 부족해” 바이라인네트워크...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -396,11 +396,11 @@
     </entry>
     <entry>
         <id> </id>
-        <published>2022-08-05T07:00:00.000Z</published>
-        <updated>2022-08-05T07:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOGh0dHA6Ly93d3cuY2h1bS1kYW4ubmV0L25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz02MTU20gEA?oc=5"/>
-        <title>GIST 프레스 발간 2권 '대한민국학술원 우수학술도서' 선정 - 첨단넷</title>
-        <content>GIST 프레스 발간 2권 '대한민국학술원 우수학술도서' 선정 첨단넷...</content>
+        <published>2022-08-04T07:00:00.000Z</published>
+        <updated>2022-08-04T07:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vbW9iaWxlLm5ld3Npcy5jb20vdmlldy5odG1sP2FyX2lkPU5JU1gyMDIyMDgwNF8wMDAxOTY3NDU30gFFaHR0cHM6Ly9tb2JpbGUubmV3c2lzLmNvbS92aWV3X2FtcC5odG1sP2FyX2lkPU5JU1gyMDIyMDgwNF8wMDAxOTY3NDU3?oc=5"/>
+        <title>광주과기원 발간 자연·사회과학 책 2권…'우수학술도서' - 뉴시스</title>
+        <content>광주과기원 발간 자연·사회과학 책 2권…'우수학술도서' 뉴시스...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -751,6 +751,20 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAyMTA5MTkwNTE2MjXSAQA?oc=5"/>
         <title>자율주행 AI인재, 매트랩·시뮬링크로 키운다 - ZD넷 코리아</title>
         <content>자율주행 AI인재, 매트랩·시뮬링크로 키운다 ZD넷 코리아...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2021-08-02T07:00:00.000Z</published>
+        <updated>2021-08-02T07:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiJGh0dHBzOi8vd3d3LmNpb2tvcmVhLmNvbS9uZXdzLzIwMzMxNNIBAA?oc=5"/>
+        <title>널리 세상을 '클라우드'하다··· SaaS 기업 27선 - CIO Korea</title>
+        <content>널리 세상을 '클라우드'하다··· SaaS 기업 27선 CIO Korea...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -1297,20 +1311,6 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOWh0dHA6Ly93d3cuYm9zYS5jby5rci9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MjA3MTI2NNIBAA?oc=5"/>
         <title>'뇌졸중 MRI의 이해와 정량분석' 출간 - 의학신문</title>
         <content>'뇌졸중 MRI의 이해와 정량분석' 출간 의학신문...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
-        <published>2017-10-29T07:00:00.000Z</published>
-        <updated>2017-10-29T07:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vd3d3LmRhaWx5bWVkaS5jb20vZGV0YWlsLnBocD9udW1iZXI9ODIzNzY10gEA?oc=5"/>
-        <title>뇌졸중 MRI의 이해와 정량분석 - 데일리메디</title>
-        <content>뇌졸중 MRI의 이해와 정량분석 데일리메디...</content>
         <author>
             <name> </name>
             <uri> </uri>
