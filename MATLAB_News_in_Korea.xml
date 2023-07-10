@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlIns="http://www.w3.org/2005/Atom" xml_lang="en-US">
     <title>MATLAB_News_in_Korea</title>
-    <updated>Mon, 10 Jul 2023 10:12:37 +0000</updated>
+    <updated>Mon, 10 Jul 2023 11:09:48 +0000</updated>
     <entry>
         <id> </id>
         <published>2023-06-04T07:00:00.000Z</published>
@@ -272,9 +272,9 @@
         <id> </id>
         <published>2023-01-10T08:00:00.000Z</published>
         <updated>2023-01-10T08:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3Lmhhbmt5dW5nLmNvbS9lY29ub215L2FydGljbGUvMjAyMzAxMTAyNjgyMdIBMmh0dHBzOi8vd3d3Lmhhbmt5dW5nLmNvbS9lY29ub215L2FtcC8yMDIzMDExMDI2ODIx?oc=5"/>
-        <title>폐배터리 배출 급증하는데 전문인력양성 年 15명 불과…대폭 늘려야 - 한국경제</title>
-        <content>&quot;폐배터리 배출 급증하는데 전문인력양성 年 15명 불과…대폭 늘려야&quot; 한국경제...</content>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAyMzAxMTAxMDU5MTfSAQA?oc=5"/>
+        <title>[기고] 현대 무선 시스템 설계 복잡성, AI로 극복한다 - ZD넷 코리아</title>
+        <content>[기고] 현대 무선 시스템 설계 복잡성, AI로 극복한다 ZD넷 코리아...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -286,9 +286,9 @@
         <id> </id>
         <published>2023-01-10T08:00:00.000Z</published>
         <updated>2023-01-10T08:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAyMzAxMTAxMDU5MTfSAQA?oc=5"/>
-        <title>[기고] 현대 무선 시스템 설계 복잡성, AI로 극복한다 - ZD넷 코리아</title>
-        <content>[기고] 현대 무선 시스템 설계 복잡성, AI로 극복한다 ZD넷 코리아...</content>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3Lmhhbmt5dW5nLmNvbS9lY29ub215L2FydGljbGUvMjAyMzAxMTAyNjgyMdIBMmh0dHBzOi8vd3d3Lmhhbmt5dW5nLmNvbS9lY29ub215L2FtcC8yMDIzMDExMDI2ODIx?oc=5"/>
+        <title>폐배터리 배출 급증하는데 전문인력양성 年 15명 불과…대폭 늘려야 - 한국경제</title>
+        <content>&quot;폐배터리 배출 급증하는데 전문인력양성 年 15명 불과…대폭 늘려야&quot; 한국경제...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -331,20 +331,6 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LmFpdGltZXMua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTI2NzQ40gEA?oc=5"/>
         <title>'MATLAB 대학생 AI 경진대회 2022' 개최...가천대 토커팀, '딥러닝 활용 ... - 인공지능신문</title>
         <content>'MATLAB 대학생 AI 경진대회 2022' 개최...가천대 토커팀, '딥러닝 활용 ... 인공지능신문...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
-        <published>2022-12-01T08:00:00.000Z</published>
-        <updated>2022-12-01T08:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3Lml0d29ybGQuY28ua3IvdGFncy82MTYyMi8lRUIlOEQlQjAlRUIlQjglOEMlRUMlOTglQjUlRUMlOEElQTQvMjY3MzUx0gEA?oc=5"/>
-        <title>'모델옵스'가 예방할 수 있는 ML 모델의 '패착' 5가지 - ITWorld Korea</title>
-        <content>'모델옵스'가 예방할 수 있는 ML 모델의 '패착' 5가지 ITWorld Korea...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -410,11 +396,11 @@
     </entry>
     <entry>
         <id> </id>
-        <published>2022-08-05T07:00:00.000Z</published>
-        <updated>2022-08-05T07:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOGh0dHA6Ly93d3cuY2h1bS1kYW4ubmV0L25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz02MTU20gEA?oc=5"/>
-        <title>GIST 프레스 발간 2권 '대한민국학술원 우수학술도서' 선정 - 첨단넷</title>
-        <content>GIST 프레스 발간 2권 '대한민국학술원 우수학술도서' 선정 첨단넷...</content>
+        <published>2022-08-04T07:00:00.000Z</published>
+        <updated>2022-08-04T07:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vbW9iaWxlLm5ld3Npcy5jb20vdmlldy5odG1sP2FyX2lkPU5JU1gyMDIyMDgwNF8wMDAxOTY3NDU30gFFaHR0cHM6Ly9tb2JpbGUubmV3c2lzLmNvbS92aWV3X2FtcC5odG1sP2FyX2lkPU5JU1gyMDIyMDgwNF8wMDAxOTY3NDU3?oc=5"/>
+        <title>광주과기원 발간 자연·사회과학 책 2권…'우수학술도서' - 뉴시스</title>
+        <content>광주과기원 발간 자연·사회과학 책 2권…'우수학술도서' 뉴시스...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -443,6 +429,20 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiJGh0dHBzOi8vd3d3LmNpb2tvcmVhLmNvbS9uZXdzLzI0NDU4NNIBAA?oc=5"/>
         <title>아직도 은퇴 안 하셨어요? 여전히 '건재한' 레거시 기술 12선 - CIO Korea</title>
         <content>아직도 은퇴 안 하셨어요? 여전히 '건재한' 레거시 기술 12선 CIO Korea...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2022-07-01T07:00:00.000Z</published>
+        <updated>2022-07-01T07:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiI2h0dHA6Ly93d3cubWZna3IuY29tL2FyY2hpdmVzLzIwOTgz0gEA?oc=5"/>
+        <title>MFG - MFG Inc</title>
+        <content>MFG MFG Inc...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -751,6 +751,20 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAyMTA5MTkwNTE2MjXSAQA?oc=5"/>
         <title>자율주행 AI인재, 매트랩·시뮬링크로 키운다 - ZD넷 코리아</title>
         <content>자율주행 AI인재, 매트랩·시뮬링크로 키운다 ZD넷 코리아...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2021-08-02T07:00:00.000Z</published>
+        <updated>2021-08-02T07:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiJGh0dHBzOi8vd3d3LmNpb2tvcmVhLmNvbS9uZXdzLzIwMzMxNNIBAA?oc=5"/>
+        <title>널리 세상을 '클라우드'하다··· SaaS 기업 27선 - CIO Korea</title>
+        <content>널리 세상을 '클라우드'하다··· SaaS 기업 27선 CIO Korea...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -1297,20 +1311,6 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOWh0dHA6Ly93d3cuYm9zYS5jby5rci9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MjA3MTI2NNIBAA?oc=5"/>
         <title>'뇌졸중 MRI의 이해와 정량분석' 출간 - 의학신문</title>
         <content>'뇌졸중 MRI의 이해와 정량분석' 출간 의학신문...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
-        <published>2017-10-29T07:00:00.000Z</published>
-        <updated>2017-10-29T07:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vd3d3LmRhaWx5bWVkaS5jb20vZGV0YWlsLnBocD9udW1iZXI9ODIzNzY10gEA?oc=5"/>
-        <title>뇌졸중 MRI의 이해와 정량분석 - 데일리메디</title>
-        <content>뇌졸중 MRI의 이해와 정량분석 데일리메디...</content>
         <author>
             <name> </name>
             <uri> </uri>
