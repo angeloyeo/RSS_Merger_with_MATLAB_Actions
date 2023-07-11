@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlIns="http://www.w3.org/2005/Atom" xml_lang="en-US">
     <title>MATLAB_News_in_Korea</title>
-    <updated>Tue, 11 Jul 2023 14:11:06 +0000</updated>
+    <updated>Tue, 11 Jul 2023 15:11:50 +0000</updated>
     <entry>
         <id> </id>
         <published>2023-06-04T07:00:00.000Z</published>
@@ -74,11 +74,11 @@
     </entry>
     <entry>
         <id> </id>
-        <published>2023-05-24T07:00:00.000Z</published>
-        <updated>2023-05-24T07:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmFpdGltZXMuY29tL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz0xNTEyOTjSAQA?oc=5"/>
-        <title>매스웍스코리아, '매트랩 엑스포' 개최...기술성과 및 인사이트 공유 - AI타임스</title>
-        <content>매스웍스코리아, '매트랩 엑스포' 개최...기술성과 및 인사이트 공유 AI타임스...</content>
+        <published>2023-05-26T07:00:00.000Z</published>
+        <updated>2023-05-26T07:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOWh0dHA6Ly9tLm5ld3N0YXAuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTE5NDkxOdIBAA?oc=5"/>
+        <title>매스웍스코리아, '매트랩 엑스포 2023 코리아'에서 혁신 가속화 플랫폼 ... - 뉴스탭</title>
+        <content>매스웍스코리아, '매트랩 엑스포 2023 코리아'에서 혁신 가속화 플랫폼 ... 뉴스탭...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -597,20 +597,6 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiM2h0dHA6Ly9tLmRkYWlseS5jby5rci9wYWdlL3ZpZXcvMjAyMTEyMjAxMDUxMjg5Mjc2ONIBAA?oc=5"/>
         <title>'위드 AI' 시대, 어떻게 준비할까?…매스웍스 “매트랩으로 손쉽게 인공 ... - 디지털데일리</title>
         <content>'위드 AI' 시대, 어떻게 준비할까?…매스웍스 “매트랩으로 손쉽게 인공 ... 디지털데일리...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
-        <published>2021-12-17T08:00:00.000Z</published>
-        <updated>2021-12-17T08:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LmRhdGFuZXQuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTE2NzgwM9IBAA?oc=5"/>
-        <title>매스웍스 “고성능 AI 시스템 구축에 필요한 플랫폼 제공” - 데이터넷</title>
-        <content>매스웍스 “고성능 AI 시스템 구축에 필요한 플랫폼 제공” 데이터넷...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -1269,6 +1255,20 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiM2h0dHA6Ly9pdGRhaWx5LmtyL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz05MjQ5NdIBAA?oc=5"/>
         <title>[인터뷰] “임베디드 SW 개발 프로세스, MBD로 혁신하라” - IT Daily</title>
         <content>[인터뷰] “임베디드 SW 개발 프로세스, MBD로 혁신하라” IT Daily...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2018-06-07T07:00:00.000Z</published>
+        <updated>2018-06-07T07:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LmRhdGFuZXQuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTEyMzQ3OdIBAA?oc=5"/>
+        <title>매스웍스, 매트랩 위한 새로운 예측 유지 관리 제품 출시 - 데이터넷</title>
+        <content>매스웍스, 매트랩 위한 새로운 예측 유지 관리 제품 출시 데이터넷...</content>
         <author>
             <name> </name>
             <uri> </uri>
