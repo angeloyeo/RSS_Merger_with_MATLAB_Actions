@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlIns="http://www.w3.org/2005/Atom" xml_lang="en-US">
     <title>MATLAB_News_in_Korea</title>
-    <updated>Tue, 11 Jul 2023 05:11:11 +0000</updated>
+    <updated>Tue, 11 Jul 2023 06:15:00 +0000</updated>
     <entry>
         <id> </id>
         <published>2023-06-04T07:00:00.000Z</published>
@@ -74,11 +74,11 @@
     </entry>
     <entry>
         <id> </id>
-        <published>2023-05-26T07:00:00.000Z</published>
-        <updated>2023-05-26T07:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOWh0dHA6Ly9tLm5ld3N0YXAuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTE5NDkxOdIBAA?oc=5"/>
-        <title>매스웍스코리아, '매트랩 엑스포 2023 코리아'에서 혁신 가속화 플랫폼 ... - 뉴스탭</title>
-        <content>매스웍스코리아, '매트랩 엑스포 2023 코리아'에서 혁신 가속화 플랫폼 ... 뉴스탭...</content>
+        <published>2023-05-24T07:00:00.000Z</published>
+        <updated>2023-05-24T07:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmFpdGltZXMuY29tL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz0xNTEyOTjSAQA?oc=5"/>
+        <title>매스웍스코리아, '매트랩 엑스포' 개최...기술성과 및 인사이트 공유 - AI타임스</title>
+        <content>매스웍스코리아, '매트랩 엑스포' 개최...기술성과 및 인사이트 공유 AI타임스...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -872,6 +872,20 @@
     </entry>
     <entry>
         <id> </id>
+        <published>2021-04-17T07:00:00.000Z</published>
+        <updated>2021-04-17T07:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmFpdGltZXMuY29tL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz0xMzc5OTnSAQA?oc=5"/>
+        <title>2021년 최고의 머신러닝 플랫폼 TOP 10 &lt; 리스티클 &lt; 포커스 &lt; 기사 ... - AI타임스</title>
+        <content>2021년 최고의 머신러닝 플랫폼 TOP 10 &lt; 리스티클 &lt; 포커스 &lt; 기사 ... AI타임스...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
         <published>2021-03-25T07:00:00.000Z</published>
         <updated>2021-03-25T07:00:00.000Z</updated>
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3LmVwbmMuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTIwNDIxN9IBAA?oc=5"/>
@@ -1297,20 +1311,6 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOWh0dHA6Ly93d3cuYm9zYS5jby5rci9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MjA3MTI2NNIBAA?oc=5"/>
         <title>'뇌졸중 MRI의 이해와 정량분석' 출간 - 의학신문</title>
         <content>'뇌졸중 MRI의 이해와 정량분석' 출간 의학신문...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
-        <published>2017-10-29T07:00:00.000Z</published>
-        <updated>2017-10-29T07:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vd3d3LmRhaWx5bWVkaS5jb20vZGV0YWlsLnBocD9udW1iZXI9ODIzNzY10gEA?oc=5"/>
-        <title>뇌졸중 MRI의 이해와 정량분석 - 데일리메디</title>
-        <content>뇌졸중 MRI의 이해와 정량분석 데일리메디...</content>
         <author>
             <name> </name>
             <uri> </uri>
