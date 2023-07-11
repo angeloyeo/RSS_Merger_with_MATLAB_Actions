@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlIns="http://www.w3.org/2005/Atom" xml_lang="en-US">
     <title>MATLAB_News_in_Korea</title>
-    <updated>Tue, 11 Jul 2023 11:09:55 +0000</updated>
+    <updated>Tue, 11 Jul 2023 12:21:34 +0000</updated>
     <entry>
         <id> </id>
         <published>2023-06-04T07:00:00.000Z</published>
@@ -228,25 +228,11 @@
     </entry>
     <entry>
         <id> </id>
-        <published>2023-01-18T08:00:00.000Z</published>
-        <updated>2023-01-18T08:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiKGh0dHBzOi8vYnlsaW5lLm5ldHdvcmsvMjAyMy8wMS8wMTEwOF8wMS_SAQA?oc=5"/>
-        <title>공공SW 사업 대기업 참여제한 10년...“효과 분석 부족해” - 바이라인네트워크</title>
-        <content>공공SW 사업 대기업 참여제한 10년...“효과 분석 부족해” 바이라인네트워크...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
         <published>2023-01-16T08:00:00.000Z</published>
         <updated>2023-01-16T08:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiO2h0dHA6Ly93d3cubmV3c3RhcC5jby5rci9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MTg0MTI20gEA?oc=5"/>
-        <title>매스웍스, 후버수너(HUBER+SUHNER)에 매트랩(MATLAB) 공급해 ... - 뉴스탭</title>
-        <content>매스웍스, 후버수너(HUBER+SUHNER)에 매트랩(MATLAB) 공급해 ... 뉴스탭...</content>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAyMzAxMTYxNDI5MDDSAQA?oc=5"/>
+        <title>매스웍스, 후버수너에 매트랩 공급...케이블 제조 최적화 - ZD넷 코리아</title>
+        <content>매스웍스, 후버수너에 매트랩 공급...케이블 제조 최적화 ZD넷 코리아...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -611,6 +597,20 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiM2h0dHA6Ly9tLmRkYWlseS5jby5rci9wYWdlL3ZpZXcvMjAyMTEyMjAxMDUxMjg5Mjc2ONIBAA?oc=5"/>
         <title>'위드 AI' 시대, 어떻게 준비할까?…매스웍스 “매트랩으로 손쉽게 인공 ... - 디지털데일리</title>
         <content>'위드 AI' 시대, 어떻게 준비할까?…매스웍스 “매트랩으로 손쉽게 인공 ... 디지털데일리...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2021-12-17T08:00:00.000Z</published>
+        <updated>2021-12-17T08:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LmRhdGFuZXQuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTE2NzgwM9IBAA?oc=5"/>
+        <title>매스웍스 “고성능 AI 시스템 구축에 필요한 플랫폼 제공” - 데이터넷</title>
+        <content>매스웍스 “고성능 AI 시스템 구축에 필요한 플랫폼 제공” 데이터넷...</content>
         <author>
             <name> </name>
             <uri> </uri>
