@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlIns="http://www.w3.org/2005/Atom" xml_lang="en-US">
     <title>MATLAB_Blogs_in_Korea</title>
-    <updated>Tue, 11 Jul 2023 23:10:52 +0000</updated>
+    <updated>Wed, 12 Jul 2023 01:01:21 +0000</updated>
+    <entry>
+        <id> </id>
+        <published>2023-07-12T00:00:00.000Z</published>
+        <updated>2023-07-12T00:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://matlabtutorial.github.io/comparing_MATLAB_performance_overtime.html"/>
+        <title>(번역) MATLAB의 과거와 오늘 - 처리 능력의 진화를 시각화 해보았다.</title>
+        <content>본 포스트의 원문은 아래의 URL에서 확인하실 수 있습니다. 본 포스트는 원작자에게 동의를 구한 뒤 한국어로 번역하였습니다.
+
+【MATLAB今昔】その処理能力の進化のほどを可視化してみ...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
     <entry>
         <id> </id>
         <published>2023-07-11T00:00:00.000Z</published>
@@ -145,23 +161,6 @@
         <content>본 포스트의 원문은 아래의 URL에서 확인하실 수 있습니다. 본 포스트는 원작자에게 동의를 구한 뒤 한국어로 번역하였습니다.
 
 【MATLAB】テンプレート使って PowerPoint ...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
-        <published>2023-06-28T00:00:00.000Z</published>
-        <updated>2023-06-28T00:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://matlabtutorial.github.io/auto_ppt_slide.html"/>
-        <title>(번역) 파워포인트 슬라이드를 자동으로 만드는 방법</title>
-        <content>본 포스트의 원문은 아래의 URL에서 확인하실 수 있습니다. 본 포스트는 원작자에게 동의를 구한 뒤 한국어로 번역하였습니다.
-
-【MATLAB】PowerPoint スライド作成自動化
-...</content>
         <author>
             <name> </name>
             <uri> </uri>
