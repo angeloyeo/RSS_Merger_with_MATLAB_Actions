@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlIns="http://www.w3.org/2005/Atom" xml_lang="en-US">
     <title>MATLAB_News_in_Korea</title>
-    <updated>Thu, 13 Jul 2023 01:02:49 +0000</updated>
+    <updated>Thu, 13 Jul 2023 02:57:22 +0000</updated>
     <entry>
         <id> </id>
         <published>2023-06-04T07:00:00.000Z</published>
@@ -219,6 +219,20 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAyMzAxMjAxMDU5MzLSAQA?oc=5"/>
         <title>'특집·특급게스트·특별기획'...케이블TV, 설 연휴 볼거리 '풍성' - ZD넷 코리아</title>
         <content>'특집·특급게스트·특별기획'...케이블TV, 설 연휴 볼거리 '풍성' ZD넷 코리아...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2023-01-16T08:00:00.000Z</published>
+        <updated>2023-01-16T08:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiO2h0dHA6Ly93d3cubmV3c3RhcC5jby5rci9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MTg0MTI20gEA?oc=5"/>
+        <title>매스웍스, 후버수너(HUBER+SUHNER)에 매트랩(MATLAB) 공급해 ... - 뉴스탭</title>
+        <content>매스웍스, 후버수너(HUBER+SUHNER)에 매트랩(MATLAB) 공급해 ... 뉴스탭...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -681,20 +695,6 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vbS5lZGFpbHkuY28ua3IvbmV3cy9uZXdzcGF0aC5hc3A_bmV3c2lkPUUwMTUwODgwNjYyOTI0NTM5MtIBSGh0dHBzOi8vbS5lZGFpbHkuY28ua3IvYW1wL3JlYWQ_bmV3c0lkPTAxNTA4ODA2NjI5MjQ1MzkyJm1lZGlhQ29kZU5vPTI1Nw?oc=5"/>
         <title>[에이앤랩's IP매뉴얼] 소프트웨어 불법복제 손해배상액, 왜 이렇게 ... - 이데일리</title>
         <content>[에이앤랩's IP매뉴얼] 소프트웨어 불법복제 손해배상액, 왜 이렇게 ... 이데일리...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
-        <published>2021-11-02T07:00:00.000Z</published>
-        <updated>2021-11-02T07:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiHWh0dHBzOi8vaWNud2ViLmtyLzIwMjEvNDkwMTcv0gEA?oc=5"/>
-        <title>자율주행차와 커넥티드카 아키텍처 개발을 위한 3가지 과제 - 아이씨엔매거진</title>
-        <content>자율주행차와 커넥티드카 아키텍처 개발을 위한 3가지 과제 아이씨엔매거진...</content>
         <author>
             <name> </name>
             <uri> </uri>
