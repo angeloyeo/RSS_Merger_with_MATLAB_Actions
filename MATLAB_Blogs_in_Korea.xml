@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlIns="http://www.w3.org/2005/Atom" xml_lang="en-US">
     <title>MATLAB_Blogs_in_Korea</title>
-    <updated>Wed, 12 Jul 2023 23:11:38 +0000</updated>
+    <updated>Thu, 13 Jul 2023 01:02:42 +0000</updated>
+    <entry>
+        <id> </id>
+        <published>2023-07-13T00:00:00.000Z</published>
+        <updated>2023-07-13T00:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://matlabtutorial.github.io/if_else_with_inline_function.html"/>
+        <title>inline 함수에서 if-else문을 쓸 수 있을까? (a.k.a. 삼항 연산자 만들기)</title>
+        <content>시작하면서
+
+제목에서 보았겠지만 inline 함수를 이용해 최대한 압축적으로 if-else문을 를 만들 수 있다. 결과부터 보자면 아래와 같다.
+
+ternary = @(vararg...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
     <entry>
         <id> </id>
         <published>2023-07-12T00:00:00.000Z</published>
@@ -145,22 +163,6 @@
 【MATLAB】パス設定に関する”基礎”知識
 
 시작하면서...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
-        <published>2023-06-29T00:00:00.000Z</published>
-        <updated>2023-06-29T00:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://matlabtutorial.github.io/auto_ppt_slide_with_template.html"/>
-        <title>(번역) 템플릿을 이용해서 파워포인트 슬라이드를 자동으로 만드는 방법 - Report Generator 편</title>
-        <content>본 포스트의 원문은 아래의 URL에서 확인하실 수 있습니다. 본 포스트는 원작자에게 동의를 구한 뒤 한국어로 번역하였습니다.
-
-【MATLAB】テンプレート使って PowerPoint ...</content>
         <author>
             <name> </name>
             <uri> </uri>
