@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlIns="http://www.w3.org/2005/Atom" xml_lang="en-US">
     <title>MATLAB_News_in_Korea</title>
-    <updated>Sat, 15 Jul 2023 02:38:11 +0000</updated>
+    <updated>Sat, 15 Jul 2023 03:31:15 +0000</updated>
     <entry>
         <id> </id>
         <published>2023-06-04T07:00:00.000Z</published>
@@ -74,11 +74,11 @@
     </entry>
     <entry>
         <id> </id>
-        <published>2023-05-24T07:00:00.000Z</published>
-        <updated>2023-05-24T07:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmFpdGltZXMuY29tL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz0xNTEyOTjSAQA?oc=5"/>
-        <title>매스웍스코리아, '매트랩 엑스포' 개최...기술성과 및 인사이트 공유 - AI타임스</title>
-        <content>매스웍스코리아, '매트랩 엑스포' 개최...기술성과 및 인사이트 공유 AI타임스...</content>
+        <published>2023-05-26T07:00:00.000Z</published>
+        <updated>2023-05-26T07:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOWh0dHA6Ly9tLm5ld3N0YXAuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTE5NDkxOdIBAA?oc=5"/>
+        <title>매스웍스코리아, '매트랩 엑스포 2023 코리아'에서 혁신 가속화 플랫폼 ... - 뉴스탭</title>
+        <content>매스웍스코리아, '매트랩 엑스포 2023 코리아'에서 혁신 가속화 플랫폼 ... 뉴스탭...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -160,9 +160,9 @@
         <id> </id>
         <published>2023-04-12T07:00:00.000Z</published>
         <updated>2023-04-12T07:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAyMzA0MTIxMjQyNDTSAQA?oc=5"/>
-        <title>매스웍스코리아, '매트랩 엑스포 2023 코리아' 다음 달 개최 - ZD넷 코리아</title>
-        <content>매스웍스코리아, '매트랩 엑스포 2023 코리아' 다음 달 개최 ZD넷 코리아...</content>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOGh0dHA6Ly93d3cuaXRkYWlseS5rci9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MjEzNDg30gEA?oc=5"/>
+        <title>매스웍스코리아, 오는 24일 '매트랩 엑스포 2023 코리아' 개최 - IT Daily</title>
+        <content>매스웍스코리아, 오는 24일 '매트랩 엑스포 2023 코리아' 개최 IT Daily...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -244,9 +244,9 @@
         <id> </id>
         <published>2023-01-10T08:00:00.000Z</published>
         <updated>2023-01-10T08:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3Lmhhbmt5dW5nLmNvbS9lY29ub215L2FydGljbGUvMjAyMzAxMTAyNjgyMdIBMmh0dHBzOi8vd3d3Lmhhbmt5dW5nLmNvbS9lY29ub215L2FtcC8yMDIzMDExMDI2ODIx?oc=5"/>
-        <title>폐배터리 배출 급증하는데 전문인력양성 年 15명 불과…대폭 늘려야 - 한국경제</title>
-        <content>&quot;폐배터리 배출 급증하는데 전문인력양성 年 15명 불과…대폭 늘려야&quot; 한국경제...</content>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAyMzAxMTAxMDU5MTfSAQA?oc=5"/>
+        <title>[기고] 현대 무선 시스템 설계 복잡성, AI로 극복한다 - ZD넷 코리아</title>
+        <content>[기고] 현대 무선 시스템 설계 복잡성, AI로 극복한다 ZD넷 코리아...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -258,9 +258,9 @@
         <id> </id>
         <published>2023-01-10T08:00:00.000Z</published>
         <updated>2023-01-10T08:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAyMzAxMTAxMDU5MTfSAQA?oc=5"/>
-        <title>[기고] 현대 무선 시스템 설계 복잡성, AI로 극복한다 - ZD넷 코리아</title>
-        <content>[기고] 현대 무선 시스템 설계 복잡성, AI로 극복한다 ZD넷 코리아...</content>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3Lmhhbmt5dW5nLmNvbS9lY29ub215L2FydGljbGUvMjAyMzAxMTAyNjgyMdIBMmh0dHBzOi8vd3d3Lmhhbmt5dW5nLmNvbS9lY29ub215L2FtcC8yMDIzMDExMDI2ODIx?oc=5"/>
+        <title>폐배터리 배출 급증하는데 전문인력양성 年 15명 불과…대폭 늘려야 - 한국경제</title>
+        <content>&quot;폐배터리 배출 급증하는데 전문인력양성 年 15명 불과…대폭 늘려야&quot; 한국경제...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -424,11 +424,11 @@
     </entry>
     <entry>
         <id> </id>
-        <published>2022-07-01T07:00:00.000Z</published>
-        <updated>2022-07-01T07:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiI2h0dHA6Ly93d3cubWZna3IuY29tL2FyY2hpdmVzLzIwOTgz0gEA?oc=5"/>
-        <title>MFG - MFG Inc</title>
-        <content>MFG MFG Inc...</content>
+        <published>2022-07-13T07:00:00.000Z</published>
+        <updated>2022-07-13T07:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiJGh0dHBzOi8vd3d3LmNpb2tvcmVhLmNvbS9uZXdzLzI0NDU4NNIBAA?oc=5"/>
+        <title>아직도 은퇴 안 하셨어요? 여전히 '건재한' 레거시 기술 12선 - CIO Korea</title>
+        <content>아직도 은퇴 안 하셨어요? 여전히 '건재한' 레거시 기술 12선 CIO Korea...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -695,6 +695,20 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LmRhdGFuZXQuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTE2NTQ2MNIBAA?oc=5"/>
         <title>[Solution Review] 매스웍스 '매트랩·시뮬링크' - 데이터넷</title>
         <content>[Solution Review] 매스웍스 '매트랩·시뮬링크' 데이터넷...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2021-09-28T07:00:00.000Z</published>
+        <updated>2021-09-28T07:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3LmVwbmMuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTIxNTA1M9IBAA?oc=5"/>
+        <title>매스웍스, 매트랩·시뮬링크 릴리스 2021b 발표 &lt; 임베디드·컴퓨팅·IoT ... - 테크월드 뉴스</title>
+        <content>매스웍스, 매트랩·시뮬링크 릴리스 2021b 발표 &lt; 임베디드·컴퓨팅·IoT ... 테크월드 뉴스...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -1241,20 +1255,6 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiM2h0dHA6Ly9pdGRhaWx5LmtyL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz05MjQ5NdIBAA?oc=5"/>
         <title>[인터뷰] “임베디드 SW 개발 프로세스, MBD로 혁신하라” - IT Daily</title>
         <content>[인터뷰] “임베디드 SW 개발 프로세스, MBD로 혁신하라” IT Daily...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
-        <published>2018-11-29T08:00:00.000Z</published>
-        <updated>2018-11-29T08:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LmtpcG9zdC5uZXQvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTEwMjI40gE7aHR0cHM6Ly93d3cua2lwb3N0Lm5ldC9uZXdzL2FydGljbGVWaWV3QW1wLmh0bWw_aWR4bm89MTAyMjg?oc=5"/>
-        <title>NI, '랩뷰NXG 2018' 버전 출시 - KIPOST</title>
-        <content>NI, '랩뷰NXG 2018' 버전 출시 KIPOST...</content>
         <author>
             <name> </name>
             <uri> </uri>
