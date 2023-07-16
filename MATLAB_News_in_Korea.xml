@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlIns="http://www.w3.org/2005/Atom" xml_lang="en-US">
     <title>MATLAB_News_in_Korea</title>
-    <updated>Sun, 16 Jul 2023 15:17:47 +0000</updated>
+    <updated>Sun, 16 Jul 2023 23:18:06 +0000</updated>
     <entry>
         <id> </id>
         <published>2023-06-15T07:00:00.000Z</published>
@@ -174,9 +174,9 @@
         <id> </id>
         <published>2023-04-12T07:00:00.000Z</published>
         <updated>2023-04-12T07:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOGh0dHA6Ly93d3cuaXRkYWlseS5rci9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MjEzNDg30gEA?oc=5"/>
-        <title>매스웍스코리아, 오는 24일 '매트랩 엑스포 2023 코리아' 개최 - IT Daily</title>
-        <content>매스웍스코리아, 오는 24일 '매트랩 엑스포 2023 코리아' 개최 IT Daily...</content>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAyMzA0MTIxMjQyNDTSAQA?oc=5"/>
+        <title>매스웍스코리아, '매트랩 엑스포 2023 코리아' 다음 달 개최 - ZD넷 코리아</title>
+        <content>매스웍스코리아, '매트랩 엑스포 2023 코리아' 다음 달 개최 ZD넷 코리아...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -272,9 +272,9 @@
         <id> </id>
         <published>2023-01-10T08:00:00.000Z</published>
         <updated>2023-01-10T08:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAyMzAxMTAxMDU5MTfSAQA?oc=5"/>
-        <title>[기고] 현대 무선 시스템 설계 복잡성, AI로 극복한다 - ZD넷 코리아</title>
-        <content>[기고] 현대 무선 시스템 설계 복잡성, AI로 극복한다 ZD넷 코리아...</content>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3Lmhhbmt5dW5nLmNvbS9lY29ub215L2FydGljbGUvMjAyMzAxMTAyNjgyMdIBMmh0dHBzOi8vd3d3Lmhhbmt5dW5nLmNvbS9lY29ub215L2FtcC8yMDIzMDExMDI2ODIx?oc=5"/>
+        <title>폐배터리 배출 급증하는데 전문인력양성 年 15명 불과…대폭 늘려야 - 한국경제</title>
+        <content>&quot;폐배터리 배출 급증하는데 전문인력양성 年 15명 불과…대폭 늘려야&quot; 한국경제...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -286,9 +286,9 @@
         <id> </id>
         <published>2023-01-10T08:00:00.000Z</published>
         <updated>2023-01-10T08:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3Lmhhbmt5dW5nLmNvbS9lY29ub215L2FydGljbGUvMjAyMzAxMTAyNjgyMdIBMmh0dHBzOi8vd3d3Lmhhbmt5dW5nLmNvbS9lY29ub215L2FtcC8yMDIzMDExMDI2ODIx?oc=5"/>
-        <title>폐배터리 배출 급증하는데 전문인력양성 年 15명 불과…대폭 늘려야 - 한국경제</title>
-        <content>&quot;폐배터리 배출 급증하는데 전문인력양성 年 15명 불과…대폭 늘려야&quot; 한국경제...</content>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAyMzAxMTAxMDU5MTfSAQA?oc=5"/>
+        <title>[기고] 현대 무선 시스템 설계 복잡성, AI로 극복한다 - ZD넷 코리아</title>
+        <content>[기고] 현대 무선 시스템 설계 복잡성, AI로 극복한다 ZD넷 코리아...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -443,6 +443,20 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiI2h0dHA6Ly93d3cubWZna3IuY29tL2FyY2hpdmVzLzIwOTgz0gEA?oc=5"/>
         <title>MFG - MFG Inc</title>
         <content>MFG MFG Inc...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2022-06-08T07:00:00.000Z</published>
+        <updated>2022-06-08T07:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiN2h0dHA6Ly93d3cuYWl0aW1lcy5rci9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MjUyMzHSAQA?oc=5"/>
+        <title>매스웍스코리아, '매트랩 엑스포 2022 코리아' 개최...인공지능·자율 ... - 인공지능신문</title>
+        <content>매스웍스코리아, '매트랩 엑스포 2022 코리아' 개최...인공지능·자율 ... 인공지능신문...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -706,20 +720,6 @@
         <id> </id>
         <published>2021-09-28T07:00:00.000Z</published>
         <updated>2021-09-28T07:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3LmVwbmMuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTIxNTA1M9IBAA?oc=5"/>
-        <title>매스웍스, 매트랩·시뮬링크 릴리스 2021b 발표 &lt; 임베디드·컴퓨팅·IoT ... - 테크월드 뉴스</title>
-        <content>매스웍스, 매트랩·시뮬링크 릴리스 2021b 발표 &lt; 임베디드·컴퓨팅·IoT ... 테크월드 뉴스...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
-        <published>2021-09-28T07:00:00.000Z</published>
-        <updated>2021-09-28T07:00:00.000Z</updated>
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LmRhdGFuZXQuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTE2NDgyM9IBAA?oc=5"/>
         <title>매스웍스, 매트랩·시뮬링크 릴리스 2021b 발표 - 데이터넷</title>
         <content>매스웍스, 매트랩·시뮬링크 릴리스 2021b 발표 데이터넷...</content>
@@ -816,20 +816,6 @@
     </entry>
     <entry>
         <id> </id>
-        <published>2021-05-27T07:00:00.000Z</published>
-        <updated>2021-05-27T07:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3Lml0LWIuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTQ5NzQ50gEA?oc=5"/>
-        <title>매스웍스 &quot;매트랩·시뮬링크, 코로나19 대응 지원 솔루션으로 활용&quot; - 아이티비즈</title>
-        <content>매스웍스 &quot;매트랩·시뮬링크, 코로나19 대응 지원 솔루션으로 활용&quot; 아이티비즈...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
         <published>2021-05-26T07:00:00.000Z</published>
         <updated>2021-05-26T07:00:00.000Z</updated>
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmFpdGltZXMuY29tL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz0xMzg3MDfSAQA?oc=5"/>
@@ -849,20 +835,6 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmFpdGltZXMuY29tL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz0xMzg3MTDSAQA?oc=5"/>
         <title>LG에너지솔루션, 배터리 전극 절단 공정에 AI 기술 적용...커터 수명 ... - AI타임스</title>
         <content>LG에너지솔루션, 배터리 전극 절단 공정에 AI 기술 적용...커터 수명 ... AI타임스...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
-        <published>2021-04-17T07:00:00.000Z</published>
-        <updated>2021-04-17T07:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmFpdGltZXMuY29tL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz0xMzc5OTnSAQA?oc=5"/>
-        <title>2021년 최고의 머신러닝 플랫폼 TOP 10 &lt; 리스티클 &lt; 포커스 &lt; 기사 ... - AI타임스</title>
-        <content>2021년 최고의 머신러닝 플랫폼 TOP 10 &lt; 리스티클 &lt; 포커스 &lt; 기사 ... AI타임스...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -975,6 +947,20 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3LmVwbmMuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTEwODQ3ONIBAA?oc=5"/>
         <title>매스웍스, 파이낸셜 기능 높인 백테스팅 프레임워크 - 테크월드 뉴스</title>
         <content>매스웍스, 파이낸셜 기능 높인 백테스팅 프레임워크 테크월드 뉴스...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2020-11-12T08:00:00.000Z</published>
+        <updated>2020-11-12T08:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LmRhdGFuZXQuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTE1Mjc2M9IBAA?oc=5"/>
+        <title>매스웍스, 파이낸셜 툴박스에 신규 백테스팅 프레임워크 추가 - 데이터넷</title>
+        <content>매스웍스, 파이낸셜 툴박스에 신규 백테스팅 프레임워크 추가 데이터넷...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -1208,6 +1194,20 @@
     </entry>
     <entry>
         <id> </id>
+        <published>2019-05-09T07:00:00.000Z</published>
+        <updated>2019-05-09T07:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiNWh0dHA6Ly9tYml6LmhlcmFsZGNvcnAuY29tL3ZpZXcucGhwP3VkPTIwMTkwNTA5MDAwMDE50gEA?oc=5"/>
+        <title>[지금 대학가] 숭실대, 시그널 프로세싱컵 본선 진출 - 헤럴드경제</title>
+        <content>[지금 대학가] 숭실대, 시그널 프로세싱컵 본선 진출 헤럴드경제...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
         <published>2019-01-08T08:00:00.000Z</published>
         <updated>2019-01-08T08:00:00.000Z</updated>
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiJGh0dHBzOi8vd3d3LmNpb2tvcmVhLmNvbS9uZXdzLzExNDQyNtIBAA?oc=5"/>
@@ -1227,20 +1227,6 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiM2h0dHA6Ly9pdGRhaWx5LmtyL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz05MjQ5NdIBAA?oc=5"/>
         <title>[인터뷰] “임베디드 SW 개발 프로세스, MBD로 혁신하라” - IT Daily</title>
         <content>[인터뷰] “임베디드 SW 개발 프로세스, MBD로 혁신하라” IT Daily...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
-        <published>2018-11-29T08:00:00.000Z</published>
-        <updated>2018-11-29T08:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LmtpcG9zdC5uZXQvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTEwMjI40gE7aHR0cHM6Ly93d3cua2lwb3N0Lm5ldC9uZXdzL2FydGljbGVWaWV3QW1wLmh0bWw_aWR4bm89MTAyMjg?oc=5"/>
-        <title>NI, '랩뷰NXG 2018' 버전 출시 - KIPOST</title>
-        <content>NI, '랩뷰NXG 2018' 버전 출시 KIPOST...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -1297,6 +1283,20 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOWh0dHA6Ly93d3cuYm9zYS5jby5rci9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MjA3MTI2NNIBAA?oc=5"/>
         <title>'뇌졸중 MRI의 이해와 정량분석' 출간 - 의학신문</title>
         <content>'뇌졸중 MRI의 이해와 정량분석' 출간 의학신문...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2017-10-29T07:00:00.000Z</published>
+        <updated>2017-10-29T07:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vd3d3LmRhaWx5bWVkaS5jb20vZGV0YWlsLnBocD9udW1iZXI9ODIzNzY10gEA?oc=5"/>
+        <title>뇌졸중 MRI의 이해와 정량분석 - 데일리메디</title>
+        <content>뇌졸중 MRI의 이해와 정량분석 데일리메디...</content>
         <author>
             <name> </name>
             <uri> </uri>
