@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlIns="http://www.w3.org/2005/Atom" xml_lang="en-US">
     <title>MATLAB_News_in_Korea</title>
-    <updated>Mon, 17 Jul 2023 05:11:47 +0000</updated>
+    <updated>Mon, 17 Jul 2023 06:16:14 +0000</updated>
     <entry>
         <id> </id>
         <published>2023-06-15T07:00:00.000Z</published>
@@ -788,20 +788,6 @@
     </entry>
     <entry>
         <id> </id>
-        <published>2021-07-06T07:00:00.000Z</published>
-        <updated>2021-07-06T07:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LmtvaXQuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTg2NTEz0gE6aHR0cDovL3d3dy5rb2l0LmNvLmtyL25ld3MvYXJ0aWNsZVZpZXdBbXAuaHRtbD9pZHhubz04NjUxMw?oc=5"/>
-        <title>지스트, 계산전자공학 쉽게 기술한 입문서 출간 - 정보통신신문</title>
-        <content>지스트, 계산전자공학 쉽게 기술한 입문서 출간 정보통신신문...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
         <published>2021-06-09T07:00:00.000Z</published>
         <updated>2021-06-09T07:00:00.000Z</updated>
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vbmV3cy51bm4ubmV0L25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz01MTAyNzfSAQA?oc=5"/>
@@ -835,20 +821,6 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmFpdGltZXMuY29tL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz0xMzg3MTDSAQA?oc=5"/>
         <title>LG에너지솔루션, 배터리 전극 절단 공정에 AI 기술 적용...커터 수명 ... - AI타임스</title>
         <content>LG에너지솔루션, 배터리 전극 절단 공정에 AI 기술 적용...커터 수명 ... AI타임스...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
-        <published>2021-04-07T07:00:00.000Z</published>
-        <updated>2021-04-07T07:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOWh0dHA6Ly9tLmlyb2JvdG5ld3MuY29tL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz0yNDQ2MdIBAA?oc=5"/>
-        <title>ST로보틱스, 신형 델타 로봇 'ST R18' 출시 - 로봇신문사</title>
-        <content>ST로보틱스, 신형 델타 로봇 'ST R18' 출시 로봇신문사...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -1110,6 +1082,20 @@
     </entry>
     <entry>
         <id> </id>
+        <published>2019-10-15T07:00:00.000Z</published>
+        <updated>2019-10-15T07:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiJWh0dHBzOi8vd3d3LmV0bmV3cy5jb20vMjAxOTEwMTUwMDAwODDSAQA?oc=5"/>
+        <title>매트랩을 손쉽게 배워요…체험형 STEM 교육 26일 개최 - 전자신문</title>
+        <content>&quot;매트랩을 손쉽게 배워요&quot;…체험형 STEM 교육 26일 개최 전자신문...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
         <published>2019-09-26T07:00:00.000Z</published>
         <updated>2019-09-26T07:00:00.000Z</updated>
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3Lml0Yml6bmV3cy5jb20vbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTExNjY10gEA?oc=5"/>
@@ -1227,6 +1213,20 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LmtpcG9zdC5uZXQvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTEwMjI40gE7aHR0cHM6Ly93d3cua2lwb3N0Lm5ldC9uZXdzL2FydGljbGVWaWV3QW1wLmh0bWw_aWR4bm89MTAyMjg?oc=5"/>
         <title>NI, '랩뷰NXG 2018' 버전 출시 - KIPOST</title>
         <content>NI, '랩뷰NXG 2018' 버전 출시 KIPOST...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2018-06-07T07:00:00.000Z</published>
+        <updated>2018-06-07T07:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LmRhdGFuZXQuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTEyMzQ3OdIBAA?oc=5"/>
+        <title>매스웍스, 매트랩 위한 새로운 예측 유지 관리 제품 출시 - 데이터넷</title>
+        <content>매스웍스, 매트랩 위한 새로운 예측 유지 관리 제품 출시 데이터넷...</content>
         <author>
             <name> </name>
             <uri> </uri>
