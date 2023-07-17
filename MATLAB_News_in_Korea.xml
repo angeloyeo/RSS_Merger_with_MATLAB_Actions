@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlIns="http://www.w3.org/2005/Atom" xml_lang="en-US">
     <title>MATLAB_News_in_Korea</title>
-    <updated>Mon, 17 Jul 2023 09:12:33 +0000</updated>
+    <updated>Mon, 17 Jul 2023 10:13:26 +0000</updated>
     <entry>
         <id> </id>
         <published>2023-06-15T07:00:00.000Z</published>
@@ -494,20 +494,6 @@
     </entry>
     <entry>
         <id> </id>
-        <published>2022-03-16T07:00:00.000Z</published>
-        <updated>2022-03-16T07:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiJWh0dHBzOi8vd3d3Lml0d29ybGQuY28ua3IvbmV3cy8yMjkwMDTSAQA?oc=5"/>
-        <title>매스웍스, 매트랩 및 시뮬링크 릴리스 2022a 발표 - ITWorld Korea</title>
-        <content>매스웍스, 매트랩 및 시뮬링크 릴리스 2022a 발표 ITWorld Korea...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
         <published>2022-02-25T08:00:00.000Z</published>
         <updated>2022-02-25T08:00:00.000Z</updated>
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmFpdGltZXMuY29tL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz0xNDMyMDHSAQA?oc=5"/>
@@ -821,6 +807,20 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmFpdGltZXMuY29tL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz0xMzg3MTDSAQA?oc=5"/>
         <title>LG에너지솔루션, 배터리 전극 절단 공정에 AI 기술 적용...커터 수명 ... - AI타임스</title>
         <content>LG에너지솔루션, 배터리 전극 절단 공정에 AI 기술 적용...커터 수명 ... AI타임스...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2021-04-07T07:00:00.000Z</published>
+        <updated>2021-04-07T07:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOWh0dHA6Ly9tLmlyb2JvdG5ld3MuY29tL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz0yNDQ2MdIBAA?oc=5"/>
+        <title>ST로보틱스, 신형 델타 로봇 'ST R18' 출시 - 로봇신문사</title>
+        <content>ST로보틱스, 신형 델타 로봇 'ST R18' 출시 로봇신문사...</content>
         <author>
             <name> </name>
             <uri> </uri>
