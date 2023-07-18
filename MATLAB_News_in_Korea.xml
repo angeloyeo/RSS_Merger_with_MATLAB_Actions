@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlIns="http://www.w3.org/2005/Atom" xml_lang="en-US">
     <title>MATLAB_News_in_Korea</title>
-    <updated>Tue, 18 Jul 2023 11:09:16 +0000</updated>
+    <updated>Tue, 18 Jul 2023 12:20:33 +0000</updated>
     <entry>
         <id> </id>
         <published>2023-06-15T07:00:00.000Z</published>
@@ -258,9 +258,9 @@
         <id> </id>
         <published>2023-01-16T08:00:00.000Z</published>
         <updated>2023-01-16T08:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiO2h0dHA6Ly93d3cubmV3c3RhcC5jby5rci9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MTg0MTI20gEA?oc=5"/>
-        <title>매스웍스, 후버수너(HUBER+SUHNER)에 매트랩(MATLAB) 공급해 ... - 뉴스탭</title>
-        <content>매스웍스, 후버수너(HUBER+SUHNER)에 매트랩(MATLAB) 공급해 ... 뉴스탭...</content>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAyMzAxMTYxNDI5MDDSAQA?oc=5"/>
+        <title>매스웍스, 후버수너에 매트랩 공급...케이블 제조 최적화 - ZD넷 코리아</title>
+        <content>매스웍스, 후버수너에 매트랩 공급...케이블 제조 최적화 ZD넷 코리아...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -289,20 +289,6 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3Lmhhbmt5dW5nLmNvbS9lY29ub215L2FydGljbGUvMjAyMzAxMTAyNjgyMdIBMmh0dHBzOi8vd3d3Lmhhbmt5dW5nLmNvbS9lY29ub215L2FtcC8yMDIzMDExMDI2ODIx?oc=5"/>
         <title>폐배터리 배출 급증하는데 전문인력양성 年 15명 불과…대폭 늘려야 - 한국경제</title>
         <content>&quot;폐배터리 배출 급증하는데 전문인력양성 年 15명 불과…대폭 늘려야&quot; 한국경제...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
-        <published>2022-12-19T08:00:00.000Z</published>
-        <updated>2022-12-19T08:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LmFpdGltZXMua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTI2ODQ00gEA?oc=5"/>
-        <title>매스웍스 시뮬링크, 인피니언 새로운 자동차MCU 제품군 지원 ... - 인공지능신문</title>
-        <content>매스웍스 시뮬링크, 인피니언 새로운 자동차MCU 제품군 지원 ... 인공지능신문...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -830,6 +816,20 @@
     </entry>
     <entry>
         <id> </id>
+        <published>2021-06-02T07:00:00.000Z</published>
+        <updated>2021-06-02T07:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiHWh0dHBzOi8vaWNud2ViLmtyLzIwMjEvNDcwNDQv0gEA?oc=5"/>
+        <title>코로나19 팬데믹에 맞서 싸우는 과학자와 엔지니어 - 아이씨엔매거진</title>
+        <content>코로나19 팬데믹에 맞서 싸우는 과학자와 엔지니어 아이씨엔매거진...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
         <published>2021-05-26T07:00:00.000Z</published>
         <updated>2021-05-26T07:00:00.000Z</updated>
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmFpdGltZXMuY29tL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz0xMzg3MDfSAQA?oc=5"/>
@@ -989,6 +989,20 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOWh0dHA6Ly93d3cubmtlY29ub215LmNvbS9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MzU4ONIBPGh0dHA6Ly93d3cubmtlY29ub215LmNvbS9uZXdzL2FydGljbGVWaWV3QW1wLmh0bWw_aWR4bm89MzU4OA?oc=5"/>
         <title>북한, 매트랩 시뮬링크로 공업용 로봇팔 설계 - NK경제</title>
         <content>북한, 매트랩 시뮬링크로 공업용 로봇팔 설계 NK경제...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2020-10-15T07:00:00.000Z</published>
+        <updated>2020-10-15T07:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiJWh0dHBzOi8vd3d3Lml0d29ybGQuY28ua3IvbmV3cy8xNjgwNDDSAQA?oc=5"/>
+        <title>매스웍스, 시뮬링크 리얼타임 업데이트…“신속 제어 프로토타이핑 및 ... - ITWorld Korea</title>
+        <content>매스웍스, 시뮬링크 리얼타임 업데이트…“신속 제어 프로토타이핑 및 ... ITWorld Korea...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -1194,20 +1208,6 @@
     </entry>
     <entry>
         <id> </id>
-        <published>2019-05-09T07:00:00.000Z</published>
-        <updated>2019-05-09T07:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiNWh0dHA6Ly9tYml6LmhlcmFsZGNvcnAuY29tL3ZpZXcucGhwP3VkPTIwMTkwNTA5MDAwMDE50gEA?oc=5"/>
-        <title>[지금 대학가] 숭실대, 시그널 프로세싱컵 본선 진출 - 헤럴드경제</title>
-        <content>[지금 대학가] 숭실대, 시그널 프로세싱컵 본선 진출 헤럴드경제...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
         <published>2019-01-08T08:00:00.000Z</published>
         <updated>2019-01-08T08:00:00.000Z</updated>
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiJGh0dHBzOi8vd3d3LmNpb2tvcmVhLmNvbS9uZXdzLzExNDQyNtIBAA?oc=5"/>
@@ -1241,6 +1241,20 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LmtpcG9zdC5uZXQvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTEwMjI40gE7aHR0cHM6Ly93d3cua2lwb3N0Lm5ldC9uZXdzL2FydGljbGVWaWV3QW1wLmh0bWw_aWR4bm89MTAyMjg?oc=5"/>
         <title>NI, '랩뷰NXG 2018' 버전 출시 - KIPOST</title>
         <content>NI, '랩뷰NXG 2018' 버전 출시 KIPOST...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2018-06-07T07:00:00.000Z</published>
+        <updated>2018-06-07T07:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LmRhdGFuZXQuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTEyMzQ3OdIBAA?oc=5"/>
+        <title>매스웍스, 매트랩 위한 새로운 예측 유지 관리 제품 출시 - 데이터넷</title>
+        <content>매스웍스, 매트랩 위한 새로운 예측 유지 관리 제품 출시 데이터넷...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -1362,25 +1376,11 @@
     </entry>
     <entry>
         <id> </id>
-        <published>2016-12-16T08:00:00.000Z</published>
-        <updated>2016-12-16T08:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiJWh0dHBzOi8vYnlsaW5lLm5ldHdvcmsvMjAxNi8xMi8xLTQ4OS_SAQA?oc=5"/>
-        <title>UCLA·버클리 출신이 몰리는 스타트업 '셈웨어' - 바이라인네트워크</title>
-        <content>UCLA·버클리 출신이 몰리는 스타트업 '셈웨어' 바이라인네트워크...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
         <published>2014-12-23T08:00:00.000Z</published>
         <updated>2014-12-23T08:00:00.000Z</updated>
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAxNDEyMjMxNjU1MDDSAQA?oc=5"/>
-        <title>MATLAB 자격증 국내 첫 합격자 배출 - ZD넷 코리아</title>
-        <content>MATLAB 자격증 국내 첫 합격자 배출 ZD넷 코리아...</content>
+        <title>MATLAB 자격증 국내 첫 합격자 배출 - 지디넷코리아 - ZD넷 코리아</title>
+        <content>MATLAB 자격증 국내 첫 합격자 배출 - 지디넷코리아 ZD넷 코리아...</content>
         <author>
             <name> </name>
             <uri> </uri>
