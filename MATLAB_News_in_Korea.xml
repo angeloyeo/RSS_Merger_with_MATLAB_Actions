@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlIns="http://www.w3.org/2005/Atom" xml_lang="en-US">
     <title>MATLAB_News_in_Korea</title>
-    <updated>Thu, 20 Jul 2023 03:10:57 +0000</updated>
+    <updated>Thu, 20 Jul 2023 04:12:51 +0000</updated>
     <entry>
         <id> </id>
         <published>2023-06-15T07:00:00.000Z</published>
@@ -368,20 +368,6 @@
     </entry>
     <entry>
         <id> </id>
-        <published>2022-11-28T08:00:00.000Z</published>
-        <updated>2022-11-28T08:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAyMjExMjgxNjM4MTLSAQA?oc=5"/>
-        <title>매스웍스, 2022 세종 AI 챌린지 후원 - 지디넷코리아 - ZD넷 코리아</title>
-        <content>매스웍스, 2022 세종 AI 챌린지 후원 - 지디넷코리아 ZD넷 코리아...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
         <published>2022-11-16T08:00:00.000Z</published>
         <updated>2022-11-16T08:00:00.000Z</updated>
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3LmtpcG9zdC5uZXQvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTMwNTA2MtIBPGh0dHBzOi8vd3d3LmtpcG9zdC5uZXQvbmV3cy9hcnRpY2xlVmlld0FtcC5odG1sP2lkeG5vPTMwNTA2Mg?oc=5"/>
@@ -410,6 +396,20 @@
     </entry>
     <entry>
         <id> </id>
+        <published>2022-09-22T07:00:00.000Z</published>
+        <updated>2022-09-22T07:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiHWh0dHBzOi8vaWNud2ViLmtyLzIwMjIvNjcwMzQv0gEA?oc=5"/>
+        <title>엔비디아, 이미지처리 가속화에 오픈 소스 라이브러리 CV-CUDA 도입 - 아이씨엔매거진</title>
+        <content>엔비디아, 이미지처리 가속화에 오픈 소스 라이브러리 CV-CUDA 도입 아이씨엔매거진...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
         <published>2022-09-10T07:00:00.000Z</published>
         <updated>2022-09-10T07:00:00.000Z</updated>
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LmRhdGFuZXQuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTE3NjI5NtIBAA?oc=5"/>
@@ -427,8 +427,8 @@
         <published>2022-08-19T07:00:00.000Z</published>
         <updated>2022-08-19T07:00:00.000Z</updated>
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAyMjA4MTkxMTMzNTnSAQA?oc=5"/>
-        <title>디지털 전환 성공에 필요한 스킬 5가지 - ZD넷 코리아</title>
-        <content>디지털 전환 성공에 필요한 스킬 5가지 ZD넷 코리아...</content>
+        <title>디지털 전환 성공에 필요한 스킬 5가지 - 지디넷코리아 - ZD넷 코리아</title>
+        <content>디지털 전환 성공에 필요한 스킬 5가지 - 지디넷코리아 ZD넷 코리아...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -527,20 +527,6 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiI2h0dHA6Ly93d3cubWZna3IuY29tL2FyY2hpdmVzLzIwMzc20gEA?oc=5"/>
         <title>MFG - MFG Inc</title>
         <content>MFG MFG Inc...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
-        <published>2022-03-16T07:00:00.000Z</published>
-        <updated>2022-03-16T07:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LmFpdGltZXMua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTI0NTM30gEA?oc=5"/>
-        <title>매스웍스, 매트랩 및 시뮬링크 릴리스 2022a 발표...5개 신제품, 11개 ... - 인공지능신문</title>
-        <content>매스웍스, 매트랩 및 시뮬링크 릴리스 2022a 발표...5개 신제품, 11개 ... 인공지능신문...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -788,6 +774,20 @@
     </entry>
     <entry>
         <id> </id>
+        <published>2021-09-17T07:00:00.000Z</published>
+        <updated>2021-09-17T07:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3LmVwbmMuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTIxNDgzM9IBAA?oc=5"/>
+        <title>“미국 초등학생이 한다는 '스크래치', 나도 배워볼까” - 테크월드 뉴스</title>
+        <content>“미국 초등학생이 한다는 '스크래치', 나도 배워볼까” 테크월드 뉴스...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
         <published>2021-08-02T07:00:00.000Z</published>
         <updated>2021-08-02T07:00:00.000Z</updated>
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiJGh0dHBzOi8vd3d3LmNpb2tvcmVhLmNvbS9uZXdzLzIwMzMxNNIBAA?oc=5"/>
@@ -863,6 +863,20 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmFpdGltZXMuY29tL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz0xMzg3MTDSAQA?oc=5"/>
         <title>LG에너지솔루션, 배터리 전극 절단 공정에 AI 기술 적용...커터 수명 ... - AI타임스</title>
         <content>LG에너지솔루션, 배터리 전극 절단 공정에 AI 기술 적용...커터 수명 ... AI타임스...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2021-04-07T07:00:00.000Z</published>
+        <updated>2021-04-07T07:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3Lmlyb2JvdG5ld3MuY29tL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz0yNDQ2MdIBAA?oc=5"/>
+        <title>ST로보틱스, 신형 델타 로봇 'ST R18' 출시 - 로봇신문사</title>
+        <content>ST로보틱스, 신형 델타 로봇 'ST R18' 출시 로봇신문사...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -998,20 +1012,6 @@
     </entry>
     <entry>
         <id> </id>
-        <published>2020-10-15T07:00:00.000Z</published>
-        <updated>2020-10-15T07:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiJWh0dHBzOi8vd3d3Lml0d29ybGQuY28ua3IvbmV3cy8xNjgwNDDSAQA?oc=5"/>
-        <title>매스웍스, 시뮬링크 리얼타임 업데이트…“신속 제어 프로토타이핑 및 ... - ITWorld Korea</title>
-        <content>매스웍스, 시뮬링크 리얼타임 업데이트…“신속 제어 프로토타이핑 및 ... ITWorld Korea...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
         <published>2020-09-22T07:00:00.000Z</published>
         <updated>2020-09-22T07:00:00.000Z</updated>
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3LmtpcG9zdC5uZXQvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTIwNTUyNdIBPGh0dHBzOi8vd3d3LmtpcG9zdC5uZXQvbmV3cy9hcnRpY2xlVmlld0FtcC5odG1sP2lkeG5vPTIwNTUyNQ?oc=5"/>
@@ -1138,11 +1138,11 @@
     </entry>
     <entry>
         <id> </id>
-        <published>2019-09-25T07:00:00.000Z</published>
-        <updated>2019-09-25T07:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAxOTA5MjUxNTU3MzPSAQA?oc=5"/>
-        <title>매스웍스, 산업용 AI 개발 지원 강화…자동차·로보틱스 조준 - ZD넷 코리아</title>
-        <content>매스웍스, 산업용 AI 개발 지원 강화…자동차·로보틱스 조준 ZD넷 코리아...</content>
+        <published>2019-09-26T07:00:00.000Z</published>
+        <updated>2019-09-26T07:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3Lml0Yml6bmV3cy5jb20vbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTExNjY10gEA?oc=5"/>
+        <title>매스웍스, 릴리즈2019b(R2019b) 업데이트…자율주행·로보틱스 ... - IT비즈뉴스</title>
+        <content>매스웍스, 릴리즈2019b(R2019b) 업데이트…자율주행·로보틱스 ... IT비즈뉴스...</content>
         <author>
             <name> </name>
             <uri> </uri>
