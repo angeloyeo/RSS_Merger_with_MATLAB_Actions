@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlIns="http://www.w3.org/2005/Atom" xml_lang="en-US">
     <title>MATLAB_News_in_Korea</title>
-    <updated>Thu, 20 Jul 2023 04:12:51 +0000</updated>
+    <updated>Thu, 20 Jul 2023 05:10:17 +0000</updated>
     <entry>
         <id> </id>
         <published>2023-06-15T07:00:00.000Z</published>
@@ -368,6 +368,20 @@
     </entry>
     <entry>
         <id> </id>
+        <published>2022-11-28T08:00:00.000Z</published>
+        <updated>2022-11-28T08:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAyMjExMjgxNjM4MTLSAQA?oc=5"/>
+        <title>매스웍스, 2022 세종 AI 챌린지 후원 - 지디넷코리아 - ZD넷 코리아</title>
+        <content>매스웍스, 2022 세종 AI 챌린지 후원 - 지디넷코리아 ZD넷 코리아...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
         <published>2022-11-16T08:00:00.000Z</published>
         <updated>2022-11-16T08:00:00.000Z</updated>
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3LmtpcG9zdC5uZXQvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTMwNTA2MtIBPGh0dHBzOi8vd3d3LmtpcG9zdC5uZXQvbmV3cy9hcnRpY2xlVmlld0FtcC5odG1sP2lkeG5vPTMwNTA2Mg?oc=5"/>
@@ -396,20 +410,6 @@
     </entry>
     <entry>
         <id> </id>
-        <published>2022-09-22T07:00:00.000Z</published>
-        <updated>2022-09-22T07:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiHWh0dHBzOi8vaWNud2ViLmtyLzIwMjIvNjcwMzQv0gEA?oc=5"/>
-        <title>엔비디아, 이미지처리 가속화에 오픈 소스 라이브러리 CV-CUDA 도입 - 아이씨엔매거진</title>
-        <content>엔비디아, 이미지처리 가속화에 오픈 소스 라이브러리 CV-CUDA 도입 아이씨엔매거진...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
         <published>2022-09-10T07:00:00.000Z</published>
         <updated>2022-09-10T07:00:00.000Z</updated>
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LmRhdGFuZXQuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTE3NjI5NtIBAA?oc=5"/>
@@ -427,8 +427,8 @@
         <published>2022-08-19T07:00:00.000Z</published>
         <updated>2022-08-19T07:00:00.000Z</updated>
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAyMjA4MTkxMTMzNTnSAQA?oc=5"/>
-        <title>디지털 전환 성공에 필요한 스킬 5가지 - 지디넷코리아 - ZD넷 코리아</title>
-        <content>디지털 전환 성공에 필요한 스킬 5가지 - 지디넷코리아 ZD넷 코리아...</content>
+        <title>디지털 전환 성공에 필요한 스킬 5가지 - ZD넷 코리아</title>
+        <content>디지털 전환 성공에 필요한 스킬 5가지 ZD넷 코리아...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -692,7 +692,7 @@
         <id> </id>
         <published>2021-11-13T08:00:00.000Z</published>
         <updated>2021-11-13T08:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LmVkYWlseS5jby5rci9uZXdzL3JlYWQ_bmV3c0lkPTAxNTA4ODA2NjI5MjQ1MzkyJm1lZGlhQ29kZU5vPTI1N9IBSGh0dHBzOi8vbS5lZGFpbHkuY28ua3IvYW1wL3JlYWQ_bmV3c0lkPTAxNTA4ODA2NjI5MjQ1MzkyJm1lZGlhQ29kZU5vPTI1Nw?oc=5"/>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vbS5lZGFpbHkuY28ua3IvbmV3cy9uZXdzcGF0aC5hc3A_bmV3c2lkPUUwMTUwODgwNjYyOTI0NTM5MtIBSGh0dHBzOi8vbS5lZGFpbHkuY28ua3IvYW1wL3JlYWQ_bmV3c0lkPTAxNTA4ODA2NjI5MjQ1MzkyJm1lZGlhQ29kZU5vPTI1Nw?oc=5"/>
         <title>[에이앤랩's IP매뉴얼] 소프트웨어 불법복제 손해배상액, 왜 이렇게 ... - 이데일리</title>
         <content>[에이앤랩's IP매뉴얼] 소프트웨어 불법복제 손해배상액, 왜 이렇게 ... 이데일리...</content>
         <author>
@@ -1138,11 +1138,11 @@
     </entry>
     <entry>
         <id> </id>
-        <published>2019-09-26T07:00:00.000Z</published>
-        <updated>2019-09-26T07:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3Lml0Yml6bmV3cy5jb20vbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTExNjY10gEA?oc=5"/>
-        <title>매스웍스, 릴리즈2019b(R2019b) 업데이트…자율주행·로보틱스 ... - IT비즈뉴스</title>
-        <content>매스웍스, 릴리즈2019b(R2019b) 업데이트…자율주행·로보틱스 ... IT비즈뉴스...</content>
+        <published>2019-09-25T07:00:00.000Z</published>
+        <updated>2019-09-25T07:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAxOTA5MjUxNTU3MzPSAQA?oc=5"/>
+        <title>매스웍스, 산업용 AI 개발 지원 강화…자동차·로보틱스 조준 - ZD넷 코리아</title>
+        <content>매스웍스, 산업용 AI 개발 지원 강화…자동차·로보틱스 조준 ZD넷 코리아...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -1379,8 +1379,8 @@
         <published>2014-12-23T08:00:00.000Z</published>
         <updated>2014-12-23T08:00:00.000Z</updated>
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAxNDEyMjMxNjU1MDDSAQA?oc=5"/>
-        <title>MATLAB 자격증 국내 첫 합격자 배출 - 지디넷코리아 - ZD넷 코리아</title>
-        <content>MATLAB 자격증 국내 첫 합격자 배출 - 지디넷코리아 ZD넷 코리아...</content>
+        <title>MATLAB 자격증 국내 첫 합격자 배출 - ZD넷 코리아</title>
+        <content>MATLAB 자격증 국내 첫 합격자 배출 ZD넷 코리아...</content>
         <author>
             <name> </name>
             <uri> </uri>
