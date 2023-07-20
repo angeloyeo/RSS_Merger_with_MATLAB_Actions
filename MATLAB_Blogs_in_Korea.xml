@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlIns="http://www.w3.org/2005/Atom" xml_lang="en-US">
     <title>MATLAB_Blogs_in_Korea</title>
-    <updated>Thu, 20 Jul 2023 09:10:20 +0000</updated>
+    <updated>Thu, 20 Jul 2023 10:11:29 +0000</updated>
+    <entry>
+        <id> </id>
+        <published>2023-07-20T18:35:12.000Z</published>
+        <updated>2023-07-20T18:35:12.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://hummingstereo.tistory.com/71"/>
+        <title>[ Argo ] 데이터 수집 및 분석</title>
+        <content>목표
+
+1. Argo 선택
+
+2. Argo 데이터 다운로드
+
+3. Argo 데이터 처리
+
+Argo 선택
+
+1. https://fleetmonitoring.euro-argo.eu/d...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
     <entry>
         <id> </id>
         <published>2023-07-20T00:00:00.000Z</published>
@@ -348,26 +372,6 @@ A mapping package ...</content>
         <content>이전에 질문으로 UTM 좌표상 51S, 52S경계를 지나는 데이터 처리에 관한 질문이 있었습니다.
 
 매트랩 명령문 'utm2ll' 을 이용해서 편집할 수도 있지만 왠지모를 오기가 ...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
-        <published>2023-04-09T02:39:58.000Z</published>
-        <updated>2023-04-09T02:39:58.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://hummingstereo.tistory.com/61"/>
-        <title>[ matlab ] for</title>
-        <content>1. 초반에 반복문을 배우면 다음과 같은 형식으로 연습할 것이다.
-
-Q. &quot;say hello!!&quot; 5번 반복하는 코드를 작성하라
-
-for ii = 1:5 
-
-disp(&quot;say he...</content>
         <author>
             <name> </name>
             <uri> </uri>
