@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlIns="http://www.w3.org/2005/Atom" xml_lang="en-US">
     <title>MATLAB_News_in_Korea</title>
-    <updated>Sun, 23 Jul 2023 13:19:09 +0000</updated>
+    <updated>Sun, 23 Jul 2023 15:15:48 +0000</updated>
     <entry>
         <id> </id>
         <published>2023-06-15T07:00:00.000Z</published>
@@ -242,6 +242,20 @@
     </entry>
     <entry>
         <id> </id>
+        <published>2023-01-16T08:00:00.000Z</published>
+        <updated>2023-01-16T08:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAyMzAxMTYxNDI5MDDSAQA?oc=5"/>
+        <title>매스웍스, 후버수너에 매트랩 공급...케이블 제조 최적화 - ZD넷 코리아</title>
+        <content>매스웍스, 후버수너에 매트랩 공급...케이블 제조 최적화 ZD넷 코리아...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
         <published>2023-01-10T08:00:00.000Z</published>
         <updated>2023-01-10T08:00:00.000Z</updated>
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAyMzAxMTAxMDU5MTfSAQA?oc=5"/>
@@ -457,6 +471,20 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiJGh0dHBzOi8vd3d3LmNpb2tvcmVhLmNvbS9uZXdzLzI0NDU4NNIBAA?oc=5"/>
         <title>아직도 은퇴 안 하셨어요? 여전히 '건재한' 레거시 기술 12선 - CIO Korea</title>
         <content>아직도 은퇴 안 하셨어요? 여전히 '건재한' 레거시 기술 12선 CIO Korea...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2022-06-08T07:00:00.000Z</published>
+        <updated>2022-06-08T07:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiN2h0dHA6Ly93d3cuYWl0aW1lcy5rci9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MjUyMzHSAQA?oc=5"/>
+        <title>매스웍스코리아, '매트랩 엑스포 2022 코리아' 개최...인공지능·자율 ... - 인공지능신문</title>
+        <content>매스웍스코리아, '매트랩 엑스포 2022 코리아' 개최...인공지능·자율 ... 인공지능신문...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -807,20 +835,6 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiHWh0dHBzOi8vaWNud2ViLmtyLzIwMjEvNDcwNDQv0gEA?oc=5"/>
         <title>코로나19 팬데믹에 맞서 싸우는 과학자와 엔지니어 - 아이씨엔매거진</title>
         <content>코로나19 팬데믹에 맞서 싸우는 과학자와 엔지니어 아이씨엔매거진...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
-        <published>2021-05-27T07:00:00.000Z</published>
-        <updated>2021-05-27T07:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3Lml0LWIuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTQ5NzQ50gEA?oc=5"/>
-        <title>매스웍스 &quot;매트랩·시뮬링크, 코로나19 대응 지원 솔루션으로 활용&quot; - 아이티비즈</title>
-        <content>매스웍스 &quot;매트랩·시뮬링크, 코로나19 대응 지원 솔루션으로 활용&quot; 아이티비즈...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -1213,20 +1227,6 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiJGh0dHBzOi8vd3d3LmNpb2tvcmVhLmNvbS9uZXdzLzExNDQyNtIBAA?oc=5"/>
         <title>파이썬, 주류 언어로 부상··· 티오베와 PyPL 지표에서 상위권 - CIO Korea</title>
         <content>파이썬, 주류 언어로 부상··· 티오베와 PyPL 지표에서 상위권 CIO Korea...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
-        <published>2019-01-01T08:00:00.000Z</published>
-        <updated>2019-01-01T08:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiM2h0dHA6Ly9pdGRhaWx5LmtyL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz05MjQ5NdIBAA?oc=5"/>
-        <title>[인터뷰] “임베디드 SW 개발 프로세스, MBD로 혁신하라” - IT Daily</title>
-        <content>[인터뷰] “임베디드 SW 개발 프로세스, MBD로 혁신하라” IT Daily...</content>
         <author>
             <name> </name>
             <uri> </uri>
