@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlIns="http://www.w3.org/2005/Atom" xml_lang="en-US">
     <title>MATLAB_Blogs_in_Korea</title>
-    <updated>Sun, 23 Jul 2023 23:17:06 +0000</updated>
+    <updated>Mon, 24 Jul 2023 00:55:10 +0000</updated>
+    <entry>
+        <id> </id>
+        <published>2023-07-24T00:00:00.000Z</published>
+        <updated>2023-07-24T00:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://matlabtutorial.github.io/UI_For_Nonlinear_Optimization_via_Web_Assembly_from_MATLAB.html"/>
+        <title>(번역) UI편 - MATLAB -&gt; C++ -&gt; WebAssembly 자동 변환을 사용한 비선형 최적화 on JavaScript</title>
+        <content>본 포스트의 원문은 아래의 URL에서 확인하실 수 있습니다. 본 포스트는 원작자에게 동의를 구한 뒤 한국어로 번역하였습니다.
+
+UI編：MATLAB -&gt; C++ -&gt; WebAssem...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
     <entry>
         <id> </id>
         <published>2023-07-21T00:00:00.000Z</published>
@@ -165,22 +181,6 @@ ternary = @(vararg...</content>
         <content>본 포스트의 원문은 아래의 URL에서 확인하실 수 있습니다. 본 포스트는 원작자에게 동의를 구한 뒤 한국어로 번역하였습니다.
 
 【MATLAB】最近 for ループが速くなってるらしいよ...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
-        <published>2023-07-10T00:00:00.000Z</published>
-        <updated>2023-07-10T00:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://matlabtutorial.github.io/how_to_update_calculated_result_in_excel.html"/>
-        <title>(번역) Excel 안의 계산 결과를 업데이트 하는 방법</title>
-        <content>본 포스트의 원문은 아래의 URL에서 확인하실 수 있습니다. 본 포스트는 원작자에게 동의를 구한 뒤 한국어로 번역하였습니다.
-
-【MATLAB】Excel 内での計算結果を更新させる方法...</content>
         <author>
             <name> </name>
             <uri> </uri>
