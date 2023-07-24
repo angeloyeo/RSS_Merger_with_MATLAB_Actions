@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlIns="http://www.w3.org/2005/Atom" xml_lang="en-US">
     <title>MATLAB_News_in_Korea</title>
-    <updated>Mon, 24 Jul 2023 13:15:15 +0000</updated>
+    <updated>Mon, 24 Jul 2023 14:10:06 +0000</updated>
     <entry>
         <id> </id>
         <published>2023-06-15T07:00:00.000Z</published>
@@ -160,20 +160,6 @@
         <id> </id>
         <published>2023-04-12T07:00:00.000Z</published>
         <updated>2023-04-12T07:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiM2h0dHA6Ly9tLmRkYWlseS5jby5rci9wYWdlL3ZpZXcvMjAyMzA0MTIxMzI3MDQyMjEwNNIBAA?oc=5"/>
-        <title>매스웍스, 5월24일 '매트랩 엑스포 2023 코리아' 개최 - 디지털데일리</title>
-        <content>매스웍스, 5월24일 '매트랩 엑스포 2023 코리아' 개최 디지털데일리...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
-        <published>2023-04-12T07:00:00.000Z</published>
-        <updated>2023-04-12T07:00:00.000Z</updated>
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOGh0dHA6Ly93d3cuaXRkYWlseS5rci9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MjEzNDg30gEA?oc=5"/>
         <title>매스웍스코리아, 오는 24일 '매트랩 엑스포 2023 코리아' 개최 - IT Daily</title>
         <content>매스웍스코리아, 오는 24일 '매트랩 엑스포 2023 코리아' 개최 IT Daily...</content>
@@ -284,6 +270,20 @@
     </entry>
     <entry>
         <id> </id>
+        <published>2022-12-19T08:00:00.000Z</published>
+        <updated>2022-12-19T08:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LmFpdGltZXMua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTI2ODQ00gEA?oc=5"/>
+        <title>매스웍스 시뮬링크, 인피니언 새로운 자동차MCU 제품군 지원 ... - 인공지능신문</title>
+        <content>매스웍스 시뮬링크, 인피니언 새로운 자동차MCU 제품군 지원 ... 인공지능신문...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
         <published>2022-12-15T08:00:00.000Z</published>
         <updated>2022-12-15T08:00:00.000Z</updated>
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiLmh0dHBzOi8veW96bS53aXNoa2V0LmNvbS9tYWdhemluZS9kZXRhaWwvMTgyOC_SAQA?oc=5"/>
@@ -382,6 +382,20 @@
     </entry>
     <entry>
         <id> </id>
+        <published>2022-09-14T07:00:00.000Z</published>
+        <updated>2022-09-14T07:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LmRhdGFuZXQuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTE3NjM5ONIBAA?oc=5"/>
+        <title>매스웍스 코리아, '오토모티브 컨퍼런스 2022' 온라인 개최 - 데이터넷</title>
+        <content>매스웍스 코리아, '오토모티브 컨퍼런스 2022' 온라인 개최 데이터넷...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
         <published>2022-09-10T07:00:00.000Z</published>
         <updated>2022-09-10T07:00:00.000Z</updated>
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LmRhdGFuZXQuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTE3NjI5NtIBAA?oc=5"/>
@@ -399,8 +413,8 @@
         <published>2022-08-19T07:00:00.000Z</published>
         <updated>2022-08-19T07:00:00.000Z</updated>
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAyMjA4MTkxMTMzNTnSAQA?oc=5"/>
-        <title>디지털 전환 성공에 필요한 스킬 5가지 - ZD넷 코리아</title>
-        <content>디지털 전환 성공에 필요한 스킬 5가지 ZD넷 코리아...</content>
+        <title>디지털 전환 성공에 필요한 스킬 5가지 - 지디넷코리아 - ZD넷 코리아</title>
+        <content>디지털 전환 성공에 필요한 스킬 5가지 - 지디넷코리아 ZD넷 코리아...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -452,11 +466,11 @@
     </entry>
     <entry>
         <id> </id>
-        <published>2022-07-01T07:00:00.000Z</published>
-        <updated>2022-07-01T07:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiI2h0dHA6Ly93d3cubWZna3IuY29tL2FyY2hpdmVzLzIwOTgz0gEA?oc=5"/>
-        <title>MFG - MFG Inc</title>
-        <content>MFG MFG Inc...</content>
+        <published>2022-06-08T07:00:00.000Z</published>
+        <updated>2022-06-08T07:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiN2h0dHA6Ly93d3cuYWl0aW1lcy5rci9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MjUyMzHSAQA?oc=5"/>
+        <title>매스웍스코리아, '매트랩 엑스포 2022 코리아' 개최...인공지능·자율 ... - 인공지능신문</title>
+        <content>매스웍스코리아, '매트랩 엑스포 2022 코리아' 개최...인공지능·자율 ... 인공지능신문...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -690,20 +704,6 @@
     </entry>
     <entry>
         <id> </id>
-        <published>2021-11-02T07:00:00.000Z</published>
-        <updated>2021-11-02T07:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiHWh0dHBzOi8vaWNud2ViLmtyLzIwMjEvNDkwMTcv0gEA?oc=5"/>
-        <title>자율주행차와 커넥티드카 아키텍처 개발을 위한 3가지 과제 - 아이씨엔매거진</title>
-        <content>자율주행차와 커넥티드카 아키텍처 개발을 위한 3가지 과제 아이씨엔매거진...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
         <published>2021-10-18T07:00:00.000Z</published>
         <updated>2021-10-18T07:00:00.000Z</updated>
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LmRhdGFuZXQuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTE2NTQ2MNIBAA?oc=5"/>
@@ -821,6 +821,20 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiHWh0dHBzOi8vaWNud2ViLmtyLzIwMjEvNDcwNDQv0gEA?oc=5"/>
         <title>코로나19 팬데믹에 맞서 싸우는 과학자와 엔지니어 - 아이씨엔매거진</title>
         <content>코로나19 팬데믹에 맞서 싸우는 과학자와 엔지니어 아이씨엔매거진...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2021-05-27T07:00:00.000Z</published>
+        <updated>2021-05-27T07:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3Lml0LWIuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTQ5NzQ50gEA?oc=5"/>
+        <title>매스웍스 &quot;매트랩·시뮬링크, 코로나19 대응 지원 솔루션으로 활용&quot; - 아이티비즈</title>
+        <content>매스웍스 &quot;매트랩·시뮬링크, 코로나19 대응 지원 솔루션으로 활용&quot; 아이티비즈...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -989,6 +1003,20 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOWh0dHA6Ly93d3cubmtlY29ub215LmNvbS9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MzU4ONIBPGh0dHA6Ly93d3cubmtlY29ub215LmNvbS9uZXdzL2FydGljbGVWaWV3QW1wLmh0bWw_aWR4bm89MzU4OA?oc=5"/>
         <title>북한, 매트랩 시뮬링크로 공업용 로봇팔 설계 - NK경제</title>
         <content>북한, 매트랩 시뮬링크로 공업용 로봇팔 설계 NK경제...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2020-09-22T07:00:00.000Z</published>
+        <updated>2020-09-22T07:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3LmtpcG9zdC5uZXQvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTIwNTUyNdIBPGh0dHBzOi8vd3d3LmtpcG9zdC5uZXQvbmV3cy9hcnRpY2xlVmlld0FtcC5odG1sP2lkeG5vPTIwNTUyNQ?oc=5"/>
+        <title>매트랩·시뮬링크 2020b 버전 출시... AI 기반 툴박스 다수 포함 - KIPOST</title>
+        <content>매트랩·시뮬링크 2020b 버전 출시... AI 기반 툴박스 다수 포함 KIPOST...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -1208,20 +1236,6 @@
     </entry>
     <entry>
         <id> </id>
-        <published>2019-01-01T08:00:00.000Z</published>
-        <updated>2019-01-01T08:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiM2h0dHA6Ly9pdGRhaWx5LmtyL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz05MjQ5NdIBAA?oc=5"/>
-        <title>[인터뷰] “임베디드 SW 개발 프로세스, MBD로 혁신하라” - IT Daily</title>
-        <content>[인터뷰] “임베디드 SW 개발 프로세스, MBD로 혁신하라” IT Daily...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
         <published>2018-11-29T08:00:00.000Z</published>
         <updated>2018-11-29T08:00:00.000Z</updated>
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LmtpcG9zdC5uZXQvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTEwMjI40gE7aHR0cHM6Ly93d3cua2lwb3N0Lm5ldC9uZXdzL2FydGljbGVWaWV3QW1wLmh0bWw_aWR4bm89MTAyMjg?oc=5"/>
@@ -1353,20 +1367,6 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vd3d3LmRvbmdhc2NpZW5jZS5jb20vbmV3cy5waHA_aWR4PTE2MTY00gEA?oc=5"/>
         <title>[주목! e스타트업] 공학 소프트웨어도 클라우드 시대 '셈웨어' - 동아사이언스</title>
         <content>[주목! e스타트업] 공학 소프트웨어도 클라우드 시대 '셈웨어' 동아사이언스...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
-        <published>2016-12-16T08:00:00.000Z</published>
-        <updated>2016-12-16T08:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiJWh0dHBzOi8vYnlsaW5lLm5ldHdvcmsvMjAxNi8xMi8xLTQ4OS_SAQA?oc=5"/>
-        <title>UCLA·버클리 출신이 몰리는 스타트업 '셈웨어' - 바이라인네트워크</title>
-        <content>UCLA·버클리 출신이 몰리는 스타트업 '셈웨어' 바이라인네트워크...</content>
         <author>
             <name> </name>
             <uri> </uri>
