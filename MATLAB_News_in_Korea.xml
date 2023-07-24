@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlIns="http://www.w3.org/2005/Atom" xml_lang="en-US">
     <title>MATLAB_News_in_Korea</title>
-    <updated>Mon, 24 Jul 2023 10:11:16 +0000</updated>
+    <updated>Mon, 24 Jul 2023 11:09:20 +0000</updated>
     <entry>
         <id> </id>
         <published>2023-06-15T07:00:00.000Z</published>
@@ -160,20 +160,6 @@
         <id> </id>
         <published>2023-04-12T07:00:00.000Z</published>
         <updated>2023-04-12T07:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiM2h0dHA6Ly9tLmRkYWlseS5jby5rci9wYWdlL3ZpZXcvMjAyMzA0MTIxMzI3MDQyMjEwNNIBAA?oc=5"/>
-        <title>매스웍스, 5월24일 '매트랩 엑스포 2023 코리아' 개최 - 디지털데일리</title>
-        <content>매스웍스, 5월24일 '매트랩 엑스포 2023 코리아' 개최 디지털데일리...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
-        <published>2023-04-12T07:00:00.000Z</published>
-        <updated>2023-04-12T07:00:00.000Z</updated>
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOGh0dHA6Ly93d3cuaXRkYWlseS5rci9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MjEzNDg30gEA?oc=5"/>
         <title>매스웍스코리아, 오는 24일 '매트랩 엑스포 2023 코리아' 개최 - IT Daily</title>
         <content>매스웍스코리아, 오는 24일 '매트랩 엑스포 2023 코리아' 개최 IT Daily...</content>
@@ -233,20 +219,6 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAyMzAxMjAxMDU5MzLSAQA?oc=5"/>
         <title>'특집·특급게스트·특별기획'...케이블TV, 설 연휴 볼거리 '풍성' - ZD넷 코리아</title>
         <content>'특집·특급게스트·특별기획'...케이블TV, 설 연휴 볼거리 '풍성' ZD넷 코리아...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
-        <published>2023-01-16T08:00:00.000Z</published>
-        <updated>2023-01-16T08:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAyMzAxMTYxNDI5MDDSAQA?oc=5"/>
-        <title>매스웍스, 후버수너에 매트랩 공급...케이블 제조 최적화 - ZD넷 코리아</title>
-        <content>매스웍스, 후버수너에 매트랩 공급...케이블 제조 최적화 ZD넷 코리아...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -413,8 +385,8 @@
         <published>2022-08-19T07:00:00.000Z</published>
         <updated>2022-08-19T07:00:00.000Z</updated>
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAyMjA4MTkxMTMzNTnSAQA?oc=5"/>
-        <title>디지털 전환 성공에 필요한 스킬 5가지 - ZD넷 코리아</title>
-        <content>디지털 전환 성공에 필요한 스킬 5가지 ZD넷 코리아...</content>
+        <title>디지털 전환 성공에 필요한 스킬 5가지 - 지디넷코리아 - ZD넷 코리아</title>
+        <content>디지털 전환 성공에 필요한 스킬 5가지 - 지디넷코리아 ZD넷 코리아...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -751,6 +723,20 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LmRhdGFuZXQuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTE2NDgyM9IBAA?oc=5"/>
         <title>매스웍스, 매트랩·시뮬링크 릴리스 2021b 발표 - 데이터넷</title>
         <content>매스웍스, 매트랩·시뮬링크 릴리스 2021b 발표 데이터넷...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2021-09-28T07:00:00.000Z</published>
+        <updated>2021-09-28T07:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAyMTA5MjgxNjA5MDXSAQA?oc=5"/>
+        <title>매스웍스, 매트랩 및 시뮬링크 릴리스 2021b 발표 - ZD넷 코리아</title>
+        <content>매스웍스, 매트랩 및 시뮬링크 릴리스 2021b 발표 ZD넷 코리아...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -1367,6 +1353,20 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vd3d3LmRvbmdhc2NpZW5jZS5jb20vbmV3cy5waHA_aWR4PTE2MTY00gEA?oc=5"/>
         <title>[주목! e스타트업] 공학 소프트웨어도 클라우드 시대 '셈웨어' - 동아사이언스</title>
         <content>[주목! e스타트업] 공학 소프트웨어도 클라우드 시대 '셈웨어' 동아사이언스...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2016-12-16T08:00:00.000Z</published>
+        <updated>2016-12-16T08:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiJWh0dHBzOi8vYnlsaW5lLm5ldHdvcmsvMjAxNi8xMi8xLTQ4OS_SAQA?oc=5"/>
+        <title>UCLA·버클리 출신이 몰리는 스타트업 '셈웨어' - 바이라인네트워크</title>
+        <content>UCLA·버클리 출신이 몰리는 스타트업 '셈웨어' 바이라인네트워크...</content>
         <author>
             <name> </name>
             <uri> </uri>
