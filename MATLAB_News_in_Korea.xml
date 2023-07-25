@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlIns="http://www.w3.org/2005/Atom" xml_lang="en-US">
     <title>MATLAB_News_in_Korea</title>
-    <updated>Tue, 25 Jul 2023 09:11:19 +0000</updated>
+    <updated>Tue, 25 Jul 2023 10:11:26 +0000</updated>
     <entry>
         <id> </id>
         <published>2023-06-15T07:00:00.000Z</published>
@@ -93,6 +93,20 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOWh0dHA6Ly9tLm5ld3N0YXAuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTE5NDkxOdIBAA?oc=5"/>
         <title>매스웍스코리아, '매트랩 엑스포 2023 코리아'에서 혁신 가속화 플랫폼 ... - 뉴스탭</title>
         <content>매스웍스코리아, '매트랩 엑스포 2023 코리아'에서 혁신 가속화 플랫폼 ... 뉴스탭...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2023-05-10T07:00:00.000Z</published>
+        <updated>2023-05-10T07:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LmRhaWx5c2VjdS5jb20vbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTE0NTk1M9IBAA?oc=5"/>
+        <title>SW 저작권침해 합의, 저작권자에게 끌려다니지 말아야 - 데일리시큐</title>
+        <content>SW 저작권침해 합의, 저작권자에게 끌려다니지 말아야 데일리시큐...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -298,6 +312,20 @@
     </entry>
     <entry>
         <id> </id>
+        <published>2022-12-19T08:00:00.000Z</published>
+        <updated>2022-12-19T08:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LmFpdGltZXMua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTI2ODQ00gEA?oc=5"/>
+        <title>매스웍스 시뮬링크, 인피니언 새로운 자동차MCU 제품군 지원 ... - 인공지능신문</title>
+        <content>매스웍스 시뮬링크, 인피니언 새로운 자동차MCU 제품군 지원 ... 인공지능신문...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
         <published>2022-12-15T08:00:00.000Z</published>
         <updated>2022-12-15T08:00:00.000Z</updated>
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiLmh0dHBzOi8veW96bS53aXNoa2V0LmNvbS9tYWdhemluZS9kZXRhaWwvMTgyOC_SAQA?oc=5"/>
@@ -457,20 +485,6 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiJGh0dHBzOi8vd3d3LmNpb2tvcmVhLmNvbS9uZXdzLzI0NDU4NNIBAA?oc=5"/>
         <title>아직도 은퇴 안 하셨어요? 여전히 '건재한' 레거시 기술 12선 - CIO Korea</title>
         <content>아직도 은퇴 안 하셨어요? 여전히 '건재한' 레거시 기술 12선 CIO Korea...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
-        <published>2022-06-08T07:00:00.000Z</published>
-        <updated>2022-06-08T07:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiN2h0dHA6Ly93d3cuYWl0aW1lcy5rci9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MjUyMzHSAQA?oc=5"/>
-        <title>매스웍스코리아, '매트랩 엑스포 2022 코리아' 개최...인공지능·자율 ... - 인공지능신문</title>
-        <content>매스웍스코리아, '매트랩 엑스포 2022 코리아' 개최...인공지능·자율 ... 인공지능신문...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -695,20 +709,6 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LmRhdGFuZXQuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTE2NTQ2MNIBAA?oc=5"/>
         <title>[Solution Review] 매스웍스 '매트랩·시뮬링크' - 데이터넷</title>
         <content>[Solution Review] 매스웍스 '매트랩·시뮬링크' 데이터넷...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
-        <published>2021-09-28T07:00:00.000Z</published>
-        <updated>2021-09-28T07:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3LmVwbmMuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTIxNTA1M9IBAA?oc=5"/>
-        <title>매스웍스, 매트랩·시뮬링크 릴리스 2021b 발표 &lt; 임베디드·컴퓨팅·IoT ... - 테크월드 뉴스</title>
-        <content>매스웍스, 매트랩·시뮬링크 릴리스 2021b 발표 &lt; 임베디드·컴퓨팅·IoT ... 테크월드 뉴스...</content>
         <author>
             <name> </name>
             <uri> </uri>
