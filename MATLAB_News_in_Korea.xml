@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlIns="http://www.w3.org/2005/Atom" xml_lang="en-US">
     <title>MATLAB_News_in_Korea</title>
-    <updated>Tue, 25 Jul 2023 12:19:55 +0000</updated>
+    <updated>Tue, 25 Jul 2023 13:17:18 +0000</updated>
     <entry>
         <id> </id>
         <published>2023-06-15T07:00:00.000Z</published>
@@ -228,20 +228,6 @@
     </entry>
     <entry>
         <id> </id>
-        <published>2023-01-16T08:00:00.000Z</published>
-        <updated>2023-01-16T08:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAyMzAxMTYxNDI5MDDSAQA?oc=5"/>
-        <title>매스웍스, 후버수너에 매트랩 공급...케이블 제조 최적화 - ZD넷 코리아</title>
-        <content>매스웍스, 후버수너에 매트랩 공급...케이블 제조 최적화 ZD넷 코리아...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
         <published>2023-01-10T08:00:00.000Z</published>
         <updated>2023-01-10T08:00:00.000Z</updated>
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAyMzAxMTAxMDU5MTfSAQA?oc=5"/>
@@ -368,6 +354,20 @@
     </entry>
     <entry>
         <id> </id>
+        <published>2022-09-22T07:00:00.000Z</published>
+        <updated>2022-09-22T07:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiHWh0dHBzOi8vaWNud2ViLmtyLzIwMjIvNjcwMzQv0gEA?oc=5"/>
+        <title>엔비디아, 이미지처리 가속화에 오픈 소스 라이브러리 CV-CUDA 도입 - 아이씨엔매거진</title>
+        <content>엔비디아, 이미지처리 가속화에 오픈 소스 라이브러리 CV-CUDA 도입 아이씨엔매거진...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
         <published>2022-09-10T07:00:00.000Z</published>
         <updated>2022-09-10T07:00:00.000Z</updated>
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LmRhdGFuZXQuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTE3NjI5NtIBAA?oc=5"/>
@@ -438,11 +438,11 @@
     </entry>
     <entry>
         <id> </id>
-        <published>2022-06-08T07:00:00.000Z</published>
-        <updated>2022-06-08T07:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiN2h0dHA6Ly93d3cuYWl0aW1lcy5rci9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MjUyMzHSAQA?oc=5"/>
-        <title>매스웍스코리아, '매트랩 엑스포 2022 코리아' 개최...인공지능·자율 ... - 인공지능신문</title>
-        <content>매스웍스코리아, '매트랩 엑스포 2022 코리아' 개최...인공지능·자율 ... 인공지능신문...</content>
+        <published>2022-07-01T07:00:00.000Z</published>
+        <updated>2022-07-01T07:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiI2h0dHA6Ly93d3cubWZna3IuY29tL2FyY2hpdmVzLzIwOTgz0gEA?oc=5"/>
+        <title>MFG - MFG Inc</title>
+        <content>MFG MFG Inc...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -816,20 +816,6 @@
     </entry>
     <entry>
         <id> </id>
-        <published>2021-05-27T07:00:00.000Z</published>
-        <updated>2021-05-27T07:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3Lml0LWIuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTQ5NzQ50gEA?oc=5"/>
-        <title>매스웍스 &quot;매트랩·시뮬링크, 코로나19 대응 지원 솔루션으로 활용&quot; - 아이티비즈</title>
-        <content>매스웍스 &quot;매트랩·시뮬링크, 코로나19 대응 지원 솔루션으로 활용&quot; 아이티비즈...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
         <published>2021-05-26T07:00:00.000Z</published>
         <updated>2021-05-26T07:00:00.000Z</updated>
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmFpdGltZXMuY29tL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz0xMzg3MDfSAQA?oc=5"/>
@@ -998,20 +984,6 @@
     </entry>
     <entry>
         <id> </id>
-        <published>2020-09-22T07:00:00.000Z</published>
-        <updated>2020-09-22T07:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3LmtpcG9zdC5uZXQvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTIwNTUyNdIBPGh0dHBzOi8vd3d3LmtpcG9zdC5uZXQvbmV3cy9hcnRpY2xlVmlld0FtcC5odG1sP2lkeG5vPTIwNTUyNQ?oc=5"/>
-        <title>매트랩·시뮬링크 2020b 버전 출시... AI 기반 툴박스 다수 포함 - KIPOST</title>
-        <content>매트랩·시뮬링크 2020b 버전 출시... AI 기반 툴박스 다수 포함 KIPOST...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
         <published>2020-07-29T07:00:00.000Z</published>
         <updated>2020-07-29T07:00:00.000Z</updated>
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAyMDA3MjkxNTA4NDTSAQA?oc=5"/>
@@ -1115,6 +1087,20 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiM2h0dHA6Ly9pdGRhaWx5LmtyL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz05ODkwNdIBAA?oc=5"/>
         <title>[기고] 2020년 STEM 교육 5대 트렌드 &lt; 기고·강좌 &lt; 기사본문 - IT Daily</title>
         <content>[기고] 2020년 STEM 교육 5대 트렌드 &lt; 기고·강좌 &lt; 기사본문 IT Daily...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2019-11-11T08:00:00.000Z</published>
+        <updated>2019-11-11T08:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiO2h0dHA6Ly93d3cuaXJvYm90bmV3cy5jb20vbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTE4NzYw0gEA?oc=5"/>
+        <title>한국교통대, ‘2019 IROS 미니드론 부문 3위’ 수상 - 로봇신문사</title>
+        <content>한국교통대, ‘2019 IROS 미니드론 부문 3위’ 수상 로봇신문사...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -1367,6 +1353,20 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vd3d3LmRvbmdhc2NpZW5jZS5jb20vbmV3cy5waHA_aWR4PTE2MTY00gEA?oc=5"/>
         <title>[주목! e스타트업] 공학 소프트웨어도 클라우드 시대 '셈웨어' - 동아사이언스</title>
         <content>[주목! e스타트업] 공학 소프트웨어도 클라우드 시대 '셈웨어' 동아사이언스...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2016-12-16T08:00:00.000Z</published>
+        <updated>2016-12-16T08:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiJWh0dHBzOi8vYnlsaW5lLm5ldHdvcmsvMjAxNi8xMi8xLTQ4OS_SAQA?oc=5"/>
+        <title>UCLA·버클리 출신이 몰리는 스타트업 '셈웨어' - 바이라인네트워크</title>
+        <content>UCLA·버클리 출신이 몰리는 스타트업 '셈웨어' 바이라인네트워크...</content>
         <author>
             <name> </name>
             <uri> </uri>
