@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlIns="http://www.w3.org/2005/Atom" xml_lang="en-US">
     <title>MATLAB_News_in_Korea</title>
-    <updated>Wed, 26 Jul 2023 02:08:22 +0000</updated>
+    <updated>Wed, 26 Jul 2023 03:10:49 +0000</updated>
     <entry>
         <id> </id>
         <published>2023-06-15T07:00:00.000Z</published>
@@ -289,6 +289,20 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3Lmhhbmt5dW5nLmNvbS9lY29ub215L2FydGljbGUvMjAyMzAxMTAyNjgyMdIBMmh0dHBzOi8vd3d3Lmhhbmt5dW5nLmNvbS9lY29ub215L2FtcC8yMDIzMDExMDI2ODIx?oc=5"/>
         <title>폐배터리 배출 급증하는데 전문인력양성 年 15명 불과…대폭 늘려야 - 한국경제</title>
         <content>&quot;폐배터리 배출 급증하는데 전문인력양성 年 15명 불과…대폭 늘려야&quot; 한국경제...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2022-12-19T08:00:00.000Z</published>
+        <updated>2022-12-19T08:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LmFpdGltZXMua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTI2ODQ00gEA?oc=5"/>
+        <title>매스웍스 시뮬링크, 인피니언 새로운 자동차MCU 제품군 지원 ... - 인공지능신문</title>
+        <content>매스웍스 시뮬링크, 인피니언 새로운 자동차MCU 제품군 지원 ... 인공지능신문...</content>
         <author>
             <name> </name>
             <uri> </uri>
@@ -989,20 +1003,6 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOWh0dHA6Ly93d3cubmtlY29ub215LmNvbS9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MzU4ONIBPGh0dHA6Ly93d3cubmtlY29ub215LmNvbS9uZXdzL2FydGljbGVWaWV3QW1wLmh0bWw_aWR4bm89MzU4OA?oc=5"/>
         <title>북한, 매트랩 시뮬링크로 공업용 로봇팔 설계 - NK경제</title>
         <content>북한, 매트랩 시뮬링크로 공업용 로봇팔 설계 NK경제...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
-        <published>2020-09-22T07:00:00.000Z</published>
-        <updated>2020-09-22T07:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiJWh0dHBzOi8vd3d3Lml0d29ybGQuY28ua3IvbmV3cy8xNjU1MjXSAQA?oc=5"/>
-        <title>매스웍스, 매트랩 및 시뮬링크 릴리스 2020b 발표 - ITWorld Korea</title>
-        <content>매스웍스, 매트랩 및 시뮬링크 릴리스 2020b 발표 ITWorld Korea...</content>
         <author>
             <name> </name>
             <uri> </uri>
