@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlIns="http://www.w3.org/2005/Atom" xml_lang="en-US">
     <title>MATLAB_News_in_Korea</title>
-    <updated>Wed, 26 Jul 2023 10:10:53 +0000</updated>
+    <updated>Wed, 26 Jul 2023 11:09:03 +0000</updated>
     <entry>
         <id> </id>
         <published>2023-06-15T07:00:00.000Z</published>
@@ -704,6 +704,20 @@
     </entry>
     <entry>
         <id> </id>
+        <published>2021-11-02T07:00:00.000Z</published>
+        <updated>2021-11-02T07:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiHWh0dHBzOi8vaWNud2ViLmtyLzIwMjEvNDkwMTcv0gEA?oc=5"/>
+        <title>자율주행차와 커넥티드카 아키텍처 개발을 위한 3가지 과제 - 아이씨엔매거진</title>
+        <content>자율주행차와 커넥티드카 아키텍처 개발을 위한 3가지 과제 아이씨엔매거진...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
         <published>2021-10-18T07:00:00.000Z</published>
         <updated>2021-10-18T07:00:00.000Z</updated>
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LmRhdGFuZXQuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTE2NTQ2MNIBAA?oc=5"/>
@@ -998,20 +1012,6 @@
     </entry>
     <entry>
         <id> </id>
-        <published>2020-09-22T07:00:00.000Z</published>
-        <updated>2020-09-22T07:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiJWh0dHBzOi8vd3d3Lml0d29ybGQuY28ua3IvbmV3cy8xNjU1MjXSAQA?oc=5"/>
-        <title>매스웍스, 매트랩 및 시뮬링크 릴리스 2020b 발표 - ITWorld Korea</title>
-        <content>매스웍스, 매트랩 및 시뮬링크 릴리스 2020b 발표 ITWorld Korea...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
         <published>2020-07-29T07:00:00.000Z</published>
         <updated>2020-07-29T07:00:00.000Z</updated>
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAyMDA3MjkxNTA4NDTSAQA?oc=5"/>
@@ -1292,20 +1292,6 @@
     </entry>
     <entry>
         <id> </id>
-        <published>2017-12-21T08:00:00.000Z</published>
-        <updated>2017-12-21T08:00:00.000Z</updated>
-        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmRobmV3cy5jby5rci9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89NzcwMzbSAQA?oc=5"/>
-        <title>인천대, 2017 매트랩 Cody 경진대회 개최 - 대학저널</title>
-        <content>인천대, 2017 매트랩 Cody 경진대회 개최 대학저널...</content>
-        <author>
-            <name> </name>
-            <uri> </uri>
-        </author>
-        <category term=""/>
-        <category term=""/>
-    </entry>
-    <entry>
-        <id> </id>
         <published>2017-10-30T07:00:00.000Z</published>
         <updated>2017-10-30T07:00:00.000Z</updated>
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiOWh0dHA6Ly93d3cuYm9zYS5jby5rci9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MjA3MTI2NNIBAA?oc=5"/>
@@ -1367,6 +1353,20 @@
         <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vd3d3LmRvbmdhc2NpZW5jZS5jb20vbmV3cy5waHA_aWR4PTE2MTY00gEA?oc=5"/>
         <title>[주목! e스타트업] 공학 소프트웨어도 클라우드 시대 '셈웨어' - 동아사이언스</title>
         <content>[주목! e스타트업] 공학 소프트웨어도 클라우드 시대 '셈웨어' 동아사이언스...</content>
+        <author>
+            <name> </name>
+            <uri> </uri>
+        </author>
+        <category term=""/>
+        <category term=""/>
+    </entry>
+    <entry>
+        <id> </id>
+        <published>2016-12-16T08:00:00.000Z</published>
+        <updated>2016-12-16T08:00:00.000Z</updated>
+        <link rel="alternate" type="text/html" href="https://news.google.com/rss/articles/CBMiJWh0dHBzOi8vYnlsaW5lLm5ldHdvcmsvMjAxNi8xMi8xLTQ4OS_SAQA?oc=5"/>
+        <title>UCLA·버클리 출신이 몰리는 스타트업 '셈웨어' - 바이라인네트워크</title>
+        <content>UCLA·버클리 출신이 몰리는 스타트업 '셈웨어' 바이라인네트워크...</content>
         <author>
             <name> </name>
             <uri> </uri>
